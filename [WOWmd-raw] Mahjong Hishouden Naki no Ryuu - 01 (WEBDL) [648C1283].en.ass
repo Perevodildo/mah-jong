@@ -17,9 +17,9 @@ Keyframes File: ryuu1_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.250000
-Scroll Position: 579
-Active Line: 590
-Video Position: 85439
+Scroll Position: 270
+Active Line: 314
+Video Position: 44164
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,54 +53,54 @@ Dialogue: 0,0:01:49.67,0:01:51.86,Default,,0,0,0,,This ain't gonna go well for y
 Dialogue: 0,0:01:51.86,0:01:54.37,Default,,0,0,0,,It changes the flow of tiles too much.
 Dialogue: 0,0:01:55.41,0:01:55.87,Default,,0,0,0,,Kan.
 Dialogue: 0,0:02:09.83,0:02:10.48,Default,,0,0,0,,Tsumo.
-Dialogue: 0,0:02:14.50,0:02:16.49,Default,,0,0,0,,All pungs kandora through tsumo. {all pungs; winning hand consisting of four pungs or kongs and one pair​}
+Dialogue: 0,0:02:14.50,0:02:16.49,Default,,0,0,0,,Toitoi Kan-tsumo{informal term for Rinshan Kaihou (valued at 1 han)} Dora 3. {all pungs; winning hand consisting of four pungs or kongs and one pair​}{please never do that again, it's disgusting}
 Dialogue: 0,0:02:16.49,0:02:18.50,Default,,0,0,0,,It's a haneman. {win worth 12000 points (or, if dealer, 18000 points)}
-Dialogue: 0,0:02:18.50,0:02:21.99,Default,,0,0,0,,Tsk... I'm all out of luck. \NI shouldn't take it for granted next time. {guess}
-Dialogue: 0,0:02:21.99,0:02:25.00,Default,,0,0,0,,And you just needed this north as the fourth tile. All right!
-Dialogue: 0,0:02:27.78,0:02:31.50,Default,,0,0,0,,By the way, aren't you that mysterious mahjong rogue they talk about lately? {nc what's jangoro, seems to be some specific name they use to refer to ryuu, I suspect jan part comes from mahJANg and goro is "racketeer; thug; rogue; bully; fixer"}
+Dialogue: 0,0:02:18.50,0:02:21.99,Default,,0,0,0,,Tsk... I'm all out of luck. \NI'll have to pay it myself.{I shouldn't take it for granted next time.} {guess} {2nd part is "ore no hitori-barai da", which is referring to the rule of "sekinin-barai", which means you're responsible for paying the full value of the hand, even when it was tsumo, alone, because you're the one who gave the tile used in the kan, which enabled them to win the hand}
+Dialogue: 0,0:02:21.99,0:02:25.00,Default,,0,0,0,,And this north was the fourth tile. All right! {there's only 4 of each tile in the game, so he's saying indirectly that Ryuu got the last available one}
+Dialogue: 0,0:02:27.78,0:02:31.50,Default,,0,0,0,,By the way, aren't you that mysterious mahjong rogue they talk about lately? {nc what's jangoro, seems to be some specific name they use to refer to ryuu, I suspect jan part comes from mahJANg and goro is "racketeer; thug; rogue; bully; fixer"}{Yup, the idea of Jangoro got translated a Rep Player in Akagi and Mahjong wanderer in Shin Janki, if I recall correctly}
 Dialogue: 0,0:02:31.50,0:02:35.01,Default,,0,0,0,,Always with a cigarette in your right hand and a nervous look.
 Dialogue: 0,0:02:36.29,0:02:36.77,Default,,0,0,0,,Pon.
-Dialogue: 0,0:02:39.28,0:02:40.76,Default,,0,0,0,,Oh, a toitoi chanta? {nc}
-Dialogue: 0,0:02:40.76,0:02:42.82,Default,,0,0,0,,涼草切っていいそぽんか
+Dialogue: 0,0:02:39.28,0:02:40.76,Default,,0,0,0,,Oh, a toitoi chanta? {nc}{Tancha = Toitoi+chanta}
+Dialogue: 0,0:02:40.76,0:02:42.82,Default,,0,0,0,,Discarding the 2-sou after a 1-sou pon, huh?
 Dialogue: 0,0:02:42.82,0:02:44.29,Default,,0,0,0,,That's nasty.
-Dialogue: 0,0:02:44.29,0:02:48.02,Default,,0,0,0,,まあどっちにしても本日か それともちゃんたか
-Dialogue: 0,0:02:48.02,0:02:50.57,Default,,0,0,0,,さてと何を切るか
-Dialogue: 0,0:02:50.57,0:02:53.54,Default,,0,0,0,,ランスを切ってイースをポンということは ペン酸素の受け入れも考えているってことはだ
-Dialogue: 0,0:02:53.54,0:02:57.37,Default,,0,0,0,,
-Dialogue: 0,0:02:57.37,0:03:00.03,Default,,0,0,0,,ドラスは乗りランガンはやばい 新規制圧名
+Dialogue: 0,0:02:44.29,0:02:48.02,Default,,0,0,0,,Well, either way you can only have Honitsu, or perhaps Chanta?
+Dialogue: 0,0:02:48.02,0:02:50.57,Default,,0,0,0,,Now, what should I cut{or "discard"} here?
+Dialogue: 0,0:02:50.57,0:02:53.54,Default,,0,0,0,,Discarding the 2-sou after the 1-sou pon means
+Dialogue: 0,0:02:53.54,0:02:57.37,Default,,0,0,0,,he could've had a wait on a 3-sou, which means...
+Dialogue: 0,0:02:57.37,0:03:00.03,Default,,0,0,0,,The dora, 5-sou, is dangerous.
 Dialogue: 0,0:03:00.03,0:03:01.78,Default,,0,0,0,,This is a war of nerves.
 Dialogue: 0,0:03:01.78,0:03:03.41,Default,,0,0,0,,Just what is on his mind?
 Dialogue: 0,0:03:03.41,0:03:04.81,Default,,0,0,0,,Make a move already.
-Dialogue: 0,0:03:05.48,0:03:07.30,Default,,0,0,0,,The clock is ticking, \Nand it ain't just for you.
+Dialogue: 0,0:03:05.48,0:03:07.30,Default,,0,0,0,,The clock is ticking, \Nand it ain't just for you. {prefer the "Time's not yours to waste" ver}
 Dialogue: 0,0:03:07.30,0:03:08.81,Default,,0,0,0,,You jerk!
 Dialogue: 0,0:03:08.81,0:03:10.81,Default,,0,0,0,,Stop playing dumb!
-Dialogue: 0,0:03:13.04,0:03:16.05,Default,,0,0,0,,
+Dialogue: 0,0:03:13.04,0:03:16.05,Default,,0,0,0,,W-What is it?! Can it be a ron? {idk how to work around the "masaka :o"}
 Dialogue: 0,0:03:20.16,0:03:21.10,Default,,0,0,0,,Ron.
-Dialogue: 0,0:03:21.60,0:03:23.79,Default,,0,0,0,,ロン シャーチュントイトイマンガン
-Dialogue: 0,0:03:23.83,0:03:26.54,Default,,0,0,0,,ど真ん中のシャンポンだと
-Dialogue: 0,0:03:26.54,0:03:28.56,Default,,0,0,0,,てめえ罠取るやつを残したら
+Dialogue: 0,0:03:21.60,0:03:23.79,Default,,0,0,0,,Xia{yakuhai - 1 han} Chun{yakuhai - 1 han} Toitoi, mangan.
+Dialogue: 0,0:03:23.83,0:03:26.54,Default,,0,0,0,,A shanpon{wait pattern, having two pairs and waiting to fill one triplet} on middle tiles?
+Dialogue: 0,0:03:26.54,0:03:28.56,Default,,0,0,0,,You fucker threw that 2-sou as a trap! {to trap me/to deceive me/to throw me off}
 Dialogue: 0,0:03:32.17,0:03:34.34,Default,,0,0,0,,Manager, this ain't looking good. {chapter 9}
 Dialogue: 0,0:03:34.34,0:03:39.07,Default,,0,0,0,,If we put that rogue up against those guys, they'll cause some trouble for sure.
 Dialogue: 0,0:03:39.07,0:03:41.25,Default,,0,0,0,,It's just some punk who doesn't know his place.
 Dialogue: 0,0:03:41.25,0:03:44.07,Default,,0,0,0,,If he keeps playing like that, \Nhe'll get himself killed anyway.
-Dialogue: 0,0:03:47.41,0:03:48.84,Default,,0,0,0,,
+Dialogue: 0,0:03:47.41,0:03:48.84,Default,,0,0,0,,Oh, that's a pon!
 Dialogue: 0,0:03:48.84,0:03:51.15,Default,,0,0,0,,Hey buddy, regret calling that already?
-Dialogue: 0,0:03:51.15,0:03:52.93,Default,,0,0,0,,いちにさんの三食なら リャンソーは泣きたいとこだ
-Dialogue: 0,0:03:52.93,0:03:54.92,Default,,0,0,0,,
-Dialogue: 0,0:03:58.52,0:03:59.39,Default,,0,0,0,,
+Dialogue: 0,0:03:51.15,0:03:52.93,Default,,0,0,0,,If you were going for a 123 Sanshoku...
+Dialogue: 0,0:03:52.93,0:03:54.92,Default,,0,0,0,,you'd want to call the 2-sou here.
+Dialogue: 0,0:03:58.52,0:03:59.39,Default,,0,0,0,,Kan!
 Dialogue: 0,0:04:00.34,0:04:02.20,Default,,0,0,0,,There, I finally caught up.
-Dialogue: 0,0:04:02.20,0:04:04.14,Default,,0,0,0,,あんちゃん カンドラめくってくれや
-Dialogue: 0,0:04:07.56,0:04:09.07,Default,,0,0,0,,Whoa, that's not bad either!
-Dialogue: 0,0:04:12.95,0:04:17.05,Default,,0,0,0,,かんしてみるもんだぜ こりゃほんとについてきやがった
-Dialogue: 0,0:04:17.05,0:04:21.09,Default,,0,0,0,,いつどいといチュンドライオン バイマン よし一気に挽回だ
+Dialogue: 0,0:04:02.20,0:04:04.14,Default,,0,0,0,,Buddy, flip the kan-dora, will ya?
+Dialogue: 0,0:04:07.56,0:04:09.07,Default,,0,0,0,,Whoa, that's not bad either! {or "That's another kan!"}
+Dialogue: 0,0:04:12.95,0:04:17.05,Default,,0,0,0,,You only get that by kanning{can I really do that for "kan"? most likely not, but "doing kan" is awkward}! Luck's on my side now.
+Dialogue: 0,0:04:17.05,0:04:21.09,Default,,0,0,0,,Honitsu Toitoi Chun Dora 4, baiman. Alright, let's end this in one shot!
 Dialogue: 0,0:04:21.09,0:04:23.63,Default,,0,0,0,,You're not in this for much longer. {lit: your back is sooty - I don't understand the metaphor, but essentially it's ryuu's way of saying "you're already dead" - in manga he's sort of like grim reaper as anyone he says this to dies soon; https://manba.co.jp/topics/21894}
 Dialogue: 0,0:04:25.83,0:04:26.63,Default,,0,0,0,,Pon!
 Dialogue: 0,0:04:35.09,0:04:39.24,Default,,0,0,0,,Tell me, bud, you said I'm not in this for longer - what did you mean by that?
 Dialogue: 0,0:04:40.64,0:04:45.57,Default,,0,0,0,,You'd better explain yourself, lest we arrive to some painful misunderstanding.
-Dialogue: 0,0:04:47.85,0:04:50.11,Default,,0,0,0,,かっ!どうで三活の出来上がりじゃ?
+Dialogue: 0,0:04:47.85,0:04:50.11,Default,,0,0,0,,How'd ya like it? I have San-kantsu on top of it now! {with san-kantsu, he added 2 more han to his hand, making it go to up Sanbaiman}
 Dialogue: 0,0:04:50.11,0:04:51.61,Default,,0,0,0,,That's Ron.
 Dialogue: 0,0:04:52.15,0:04:54.02,Default,,0,0,0,,What? Ron?
-Dialogue: 0,0:04:54.02,0:04:56.29,Default,,0,0,0,,てめえ酸素をポンしたじゃねえか!
+Dialogue: 0,0:04:54.02,0:04:56.29,Default,,0,0,0,,Didn't ya just pon the 3-sou now?
 Dialogue: 0,0:05:01.62,0:05:05.06,Default,,0,0,0,,Asshole! Think you can get away with making fun of me?!
 Dialogue: 0,0:05:05.06,0:05:06.52,Default,,0,0,0,,You bastard!
 Dialogue: 0,0:05:12.37,0:05:16.24,Default,,0,0,0,,I am Ishikawa Takashi, the second boss of the Kai Group,
@@ -174,16 +174,16 @@ Dialogue: 0,0:11:09.33,0:11:10.57,Default,,0,0,0,,What of it?
 Dialogue: 0,0:11:11.40,0:11:14.20,Default,,0,0,0,,Dragon, you shouldn't humiliate me like that with your rudeness.
 Dialogue: 0,0:11:14.20,0:11:16.57,Default,,0,0,0,,I need to set an example for everyone!
 Dialogue: 0,0:11:46.50,0:11:47.19,Default,,0,0,0,,Chi.
-Dialogue: 0,0:11:47.19,0:11:49.66,Default,,0,0,0,,チー 今度はソウズの染めの助かいな
+Dialogue: 0,0:11:47.19,0:11:49.66,Default,,0,0,0,,You're hoarding souzu tiles this time, huh.
 Dialogue: 0,0:11:49.70,0:11:52.11,Default,,0,0,0,,Hey, buddy, don't get carried away.
 Dialogue: 0,0:11:52.11,0:11:56.20,Default,,0,0,0,,You may have been winning so far, \Nbut it was through sheer luck.
-Dialogue: 0,0:11:56.20,0:12:00.72,Default,,0,0,0,,Mahjong is a game you can only win if you have the skill.
+Dialogue: 0,0:11:56.20,0:12:00.72,Default,,0,0,0,,Mahjong is a game you can only win if you have the skill.  {lol, lmao}
 Dialogue: 0,0:12:00.72,0:12:04.67,Default,,0,0,0,,Watch closely, buddy. I'm about to show you what real mahjong is.
-Dialogue: 0,0:12:04.72,0:12:05.68,Default,,0,0,0,,{?}
+Dialogue: 0,0:12:04.72,0:12:05.68,Default,,0,0,0,,There it goes! {?}{I have no idea either}
 Dialogue: 0,0:12:06.19,0:12:08.18,Default,,0,0,0,,It's true that only one thing matters in mahjong.
 Dialogue: 0,0:12:10.23,0:12:11.92,Default,,0,0,0,,It's the victory.
 Dialogue: 0,0:12:14.46,0:12:15.26,Default,,0,0,0,,Chi!
-Dialogue: 0,0:12:17.53,0:12:19.72,Default,,0,0,0,,てめえ ソーツじゃねえのかよ
+Dialogue: 0,0:12:17.53,0:12:19.72,Default,,0,0,0,,Y-You! It wasn't souzu?!
 Dialogue: 0,0:12:30.23,0:12:34.75,Sign,,0,0,0,,Mahjong 2nd floor
 Dialogue: 0,0:12:35.32,0:12:36.32,Default,,0,0,0,,Dragon...
 Dialogue: 0,0:12:41.31,0:12:42.49,Default,,0,0,0,,What was that?
@@ -208,7 +208,7 @@ Dialogue: 0,0:14:02.04,0:14:05.67,Default,,0,0,0,,but I, Ishikawa, will definite
 Dialogue: 0,0:14:05.67,0:14:10.58,Default,,0,0,0,,With your luck, I can become the best in Japan.
 Dialogue: 0,0:14:13.11,0:14:16.17,Default,,0,0,0,,Hey, bud, how are you planning to get out of this?
 Dialogue: 0,0:14:17.09,0:14:17.69,Default,,0,0,0,,Kan.
-Dialogue: 0,0:14:22.92,0:14:24.65,Default,,0,0,0,,{muzu help}
+Dialogue: 0,0:14:22.92,0:14:24.65,Default,,0,0,0,,The one crying will be you. {muzu help}{just ignore it or put a TL note explaining that 泣く and 哭く are pronounced the same}
 Dialogue: 0,0:14:34.89,0:14:38.07,Default,,0,0,0,,Dragon. Dragon!
 Dialogue: 0,0:14:38.07,0:14:42.44,Default,,0,0,0,,I just wished to spend one more joyous evening playing mahjong with you.
 Dialogue: 0,0:14:44.88,0:14:49.28,Sign,,0,0,0,,Sakurada Michizo, chairman of the Sakurado Conglomerate, passes away {桜道会会長桜田道造 死去}{they're called chairmen and conglomerates to give it a veneer of being legal businesses and not organized crime}
@@ -241,7 +241,7 @@ Dialogue: 0,0:16:43.66,0:16:44.97,Default,,0,0,0,,Do you understand, dragon?
 Dialogue: 0,0:16:46.00,0:16:49.17,Default,,0,0,0,,You said you hate the yakuza right off the bat.
 Dialogue: 0,0:16:49.87,0:16:52.46,Default,,0,0,0,,We're going to the Umemiya Gambling House where we first met.
 Dialogue: 0,0:16:54.04,0:16:57.93,Default,,0,0,0,,I'm still amazed by your method of playing even now when I remember it.
-Dialogue: 0,0:16:58.65,0:17:02.62,Default,,0,0,0,,ぽんぽんと様なしでツイースを 積もってみせやがったっけな
+Dialogue: 0,0:16:58.65,0:17:02.62,Default,,0,0,0,,Just doing one pon after the other and gettin' a Tsuuisou{yakuman} like that.
 Dialogue: 0,0:17:04.46,0:17:05.65,Default,,0,0,0,,Isn't that right?
 Dialogue: 0,0:17:06.98,0:17:10.66,Default,,0,0,0,,Is that woman I rewarded you with doing well?
 Dialogue: 0,0:17:14.10,0:17:18.40,Default,,0,0,0,,I was also the one who introduced you to the boss after that.
@@ -275,12 +275,12 @@ Dialogue: 0,0:19:26.19,0:19:29.96,Default,,0,0,0,,Professional gamblers deceive 
 Dialogue: 0,0:19:29.96,0:19:32.92,Default,,0,0,0,,Dragon, aren't they the perfect prey for you? {no clue}
 Dialogue: 0,0:19:33.57,0:19:34.20,Default,,0,0,0,,Ron.
 Dialogue: 0,0:19:34.87,0:19:36.73,Default,,0,0,0,,I hit the bull's-eye, isn't it?
-Dialogue: 0,0:19:36.73,0:19:40.70,Default,,0,0,0,,それも積もって三安公の手をわざわざ崩してよ
-Dialogue: 0,0:19:40.70,0:19:44.11,Default,,0,0,0,,ご苦労なこった 先天系 あんた 素直になんなよ
+Dialogue: 0,0:19:36.73,0:19:40.70,Default,,0,0,0,,You even gave up on a San-ankou to make me draw that.
+Dialogue: 0,0:19:40.70,0:19:44.11,Default,,0,0,0,,You've done well, for some feeble 1,000 points.
 Dialogue: 0,0:19:44.11,0:19:45.71,Default,,0,0,0,,Come clean, you. {no clue}
 Dialogue: 0,0:19:45.71,0:19:47.40,Default,,0,0,0,,Huh? Don't mess with me! {no clue}
 Dialogue: 0,0:19:54.36,0:19:55.22,Default,,0,0,0,,Pon.
-Dialogue: 0,0:19:57.02,0:19:59.16,Default,,0,0,0,,今度はリュウイーソーか
+Dialogue: 0,0:19:57.02,0:19:59.16,Default,,0,0,0,,Goin' for a Ryuuiisou now?
 Dialogue: 0,0:19:59.16,0:20:02.49,Default,,0,0,0,,Dragon, it seems to me you never lose.
 Dialogue: 0,0:20:02.49,0:20:07.20,Default,,0,0,0,,But those who don't know the pain of losing, don't know what a true battle is.
 Dialogue: 0,0:20:07.20,0:20:10.27,Default,,0,0,0,,He who gets up first after a defeat is the strongest.
@@ -289,8 +289,8 @@ Dialogue: 0,0:20:15.16,0:20:19.18,Default,,0,0,0,,Dragon, I'm going to let you t
 Dialogue: 0,0:20:20.51,0:20:22.14,Default,,0,0,0,,You're not in this for much longer.
 Dialogue: 0,0:20:22.14,0:20:25.94,Default,,0,0,0,,What? What do you mean I'm not in this for longer?!
 Dialogue: 0,0:20:26.45,0:20:26.91,Default,,0,0,0,,Pon.
-Dialogue: 0,0:20:28.69,0:20:32.79,Default,,0,0,0,,Wh-What? \Nてめえで切ってるパイパンはポン だと
-Dialogue: 0,0:20:33.43,0:20:35.30,Default,,0,0,0,,Asshole, are you even paying attention? {no clue}
+Dialogue: 0,0:20:28.69,0:20:32.79,Default,,0,0,0,,Wh-What? \NYou're calling the tile you bastard just discarded?
+Dialogue: 0,0:20:33.43,0:20:35.30,Default,,0,0,0,,Asshole, it ain't a Ryuuiisou? {no clue}
 Dialogue: 0,0:20:35.30,0:20:38.30,Default,,0,0,0,,You don't carry the burden of even a single person on your back. {chapter 8}
 Dialogue: 0,0:20:39.79,0:20:42.54,Default,,0,0,0,,Unwavering faith in yourself is required to win.
 Dialogue: 0,0:20:42.54,0:20:46.56,Default,,0,0,0,,If the taste of defeat still lingers in your mouth, you've already lost. {no clue}
@@ -311,9 +311,9 @@ Dialogue: 0,0:21:46.53,0:21:51.91,Default,,0,0,0,,it won't be long before Ishika
 Dialogue: 0,0:21:51.91,0:21:57.33,Default,,0,0,0,,It was his intuition of a man who had lived his whole live amidst conflict.
 Dialogue: 0,0:21:58.25,0:22:01.34,Default,,0,0,0,,Dragon's blood was boiling.
 Dialogue: 0,0:22:07.56,0:22:08.56,Default,,0,0,0,,Pon.
-Dialogue: 0,0:22:13.06,0:22:14.85,Default,,0,0,0,,カンソル暇なしかい
-Dialogue: 0,0:22:17.66,0:22:18.35,Default,,0,0,0,,It's Ron.
-Dialogue: 0,0:22:19.87,0:22:21.66,Default,,0,0,0,,チンチトイと言ったんよ
+Dialogue: 0,0:22:13.06,0:22:14.85,Default,,0,0,0,,Got no time for a kan, eh. {basically they're saying he's calling too early and didn't wait enough to have a triplet to call kan from}
+Dialogue: 0,0:22:17.66,0:22:18.35,Default,,0,0,0,,It's a ron.
+Dialogue: 0,0:22:19.87,0:22:21.66,Default,,0,0,0,,Chinitsu Toitoi Tanyao!
 Dialogue: 0,0:22:23.90,0:22:27.34,Default,,0,0,0,,I see. I've heard the rumors, \Nbut it seems even they don't do you justice.
 Dialogue: 0,0:22:27.34,0:22:29.84,Default,,0,0,0,,Are you Miyoshi-san?
 Dialogue: 0,0:22:29.84,0:22:33.07,Default,,0,0,0,,So you knew who I was from the start?
@@ -322,7 +322,7 @@ Dialogue: 0,0:22:35.57,0:22:37.35,Default,,0,0,0,,Wh-What was that?
 Dialogue: 0,0:22:46.36,0:22:47.86,Default,,0,0,0,,F-Fuckers...
 Dialogue: 0,0:22:51.40,0:22:53.32,Default,,0,0,0,,K-Kai…
 Dialogue: 0,0:22:54.54,0:22:55.86,Default,,0,0,0,,{Huh?}
-Dialogue: 0,0:22:56.57,0:23:00.51,Default,,0,0,0,,Long time no see, Dragon. You're just one tile away from Suukantsu, eh? {muzu help}
+Dialogue: 0,0:22:56.57,0:23:00.51,Default,,0,0,0,,Long time no see, Dragon. You're just one tile away from Suukantsu, eh? {muzu help}{it's right}
 Dialogue: 0,0:23:00.51,0:23:03.60,Default,,0,0,0,,I was looking for you, \Nbut I also got to meet Miyoshi, it seems.
 Dialogue: 0,0:23:03.60,0:23:05.58,Default,,0,0,0,,I should be grateful to you.
 Dialogue: 0,0:23:05.58,0:23:06.65,Default,,0,0,0,,Spare me your thanks.
@@ -347,26 +347,26 @@ Dialogue: 0,0:24:19.34,0:24:23.79,Default,,0,0,0,,Dragon, if I win, you'll be mi
 Dialogue: 0,0:24:23.79,0:24:27.32,Default,,0,0,0,,And if you win, you're free to do whatever you want with my life.
 Dialogue: 0,0:24:27.83,0:24:28.63,Default,,0,0,0,,Chi!
 Dialogue: 0,0:24:31.98,0:24:32.87,Default,,0,0,0,,Pon!
-Dialogue: 0,0:24:33.60,0:24:37.33,Default,,0,0,0,,{muzu help, I see meaning of haru "to become one tile away from completion"; chapter 7 for ref}
-Dialogue: 0,0:24:37.33,0:24:40.18,Default,,0,0,0,,{more muzu, "nothing ventured, nothing gained"}
+Dialogue: 0,0:24:33.60,0:24:37.33,Default,,0,0,0,,Kai has been calling in retaliation to Dragon. {muzu help, I see meaning of haru "to become one tile away from completion"; chapter 7 for ref} {Kai's calling everytime Ryuu calls, to "get on pace" with him, as if he's pursuing Ryuu by calling the same amount as him}
+Dialogue: 0,0:24:37.33,0:24:40.18,Default,,0,0,0,,Audentes fortuna iuvat. {more muzu, "nothing ventured, nothing gained"}{it's just 虎穴に入らずんば虎子を得ず}
 Dialogue: 0,0:24:40.18,0:24:42.83,Default,,0,0,0,,This was the tactic that Maruko taught Kai.
-Dialogue: 0,0:24:44.78,0:24:47.64,Default,,0,0,0,,
+Dialogue: 0,0:24:44.78,0:24:47.64,Default,,0,0,0,,Chun Honitsu!
 Dialogue: 0,0:24:50.14,0:24:56.15,Default,,0,0,0,,That night, it was as though Kai pulled tiles at will. He had heavens on his side.
-Dialogue: 0,0:24:57.16,0:24:59.76,Default,,0,0,0,,
-Dialogue: 0,0:25:02.83,0:25:07.53,Default,,0,0,0,,
-Dialogue: 0,0:25:07.53,0:25:10.13,Default,,0,0,0,,
+Dialogue: 0,0:24:57.16,0:24:59.76,Default,,0,0,0,,At last, All Last. {オーラス "All Last" is how some players refer to the last round of the game}
+Dialogue: 0,0:25:02.83,0:25:07.53,Default,,0,0,0,,Dragon discarded the 5-pin and I can see all 4 of them.
+Dialogue: 0,0:25:07.53,0:25:10.13,Default,,0,0,0,,The 7-pin is safe. {dumbass, that's not how kabe works}
 Dialogue: 0,0:25:12.80,0:25:14.17,Default,,0,0,0,,Chi.
-Dialogue: 0,0:25:18.02,0:25:19.24,Default,,0,0,0,,
-Dialogue: 0,0:25:22.12,0:25:24.42,Default,,0,0,0,,竜そんなチーをしていいのか
-Dialogue: 0,0:25:24.42,0:25:27.56,Default,,0,0,0,,お前は羽満自家取りか三倍満相撲以外に
-Dialogue: 0,0:25:27.56,0:25:29.51,Default,,0,0,0,,勝ち目はないんじゃぞ
+Dialogue: 0,0:25:18.02,0:25:19.24,Default,,0,0,0,,A closed 7-pin{ wait}!
+Dialogue: 0,0:25:22.12,0:25:24.42,Default,,0,0,0,,Dragon, was that Chi necessary?
+Dialogue: 0,0:25:24.42,0:25:27.56,Default,,0,0,0,,If you can't win with a haneman tsumo or a sanbaiman from one of us...
+Dialogue: 0,0:25:27.56,0:25:29.51,Default,,0,0,0,,you got not chance to win. {this game}
 Dialogue: 0,0:25:29.51,0:25:32.13,Default,,0,0,0,,I'm not stealing tiles with my calls.
 Dialogue: 0,0:25:32.13,0:25:34.66,Default,,0,0,0,,I'm imbuing them with life.
 Dialogue: 0,0:25:35.86,0:25:37.52,Default,,0,0,0,,Stop meddling in my affairs.
-Dialogue: 0,0:25:39.10,0:25:42.57,Default,,0,0,0,,
-Dialogue: 0,0:25:43.83,0:25:46.81,Default,,0,0,0,,Why on earth is Dragon waiting?
-Dialogue: 0,0:25:46.81,0:25:49.48,Default,,0,0,0,,まさかまた勘チーピンってことはあるね
-Dialogue: 0,0:25:49.48,0:25:51.48,Default,,0,0,0,,
+Dialogue: 0,0:25:39.10,0:25:42.57,Default,,0,0,0,,Another 7-pin, what a hassle. {he's just commenting on how persistent the 7-pin is, given how he drew another one right after discarding it}
+Dialogue: 0,0:25:43.83,0:25:46.81,Default,,0,0,0,,What on earth is Dragon waiting on?
+Dialogue: 0,0:25:46.81,0:25:49.48,Default,,0,0,0,,Could it be another 7-pin?
+Dialogue: 0,0:25:49.48,0:25:51.48,Default,,0,0,0,,It can't be pinzu again... {clueless, this guy is}
 Dialogue: 0,0:25:51.48,0:25:53.51,Default,,0,0,0,,It'll be fine, I'm in luck today!
 Dialogue: 0,0:25:53.51,0:25:55.65,Default,,0,0,0,,The heavens are on my side.
 Dialogue: 0,0:25:57.55,0:25:58.42,Default,,0,0,0,,Shozo!
@@ -380,7 +380,7 @@ Dialogue: 0,0:26:20.61,0:26:22.04,Default,,0,0,0,,Hey, Dragon...
 Dialogue: 0,0:26:21.34,0:26:23.03,Overlap,,0,0,0,,Shozo, think about yourself.
 Dialogue: 0,0:26:28.50,0:26:30.55,Default,,0,0,0,,What a wonderful victory!
 Dialogue: 0,0:26:31.09,0:26:32.95,Default,,0,0,0,,Hold up, Dragon.
-Dialogue: 0,0:26:33.70,0:26:37.76,Default,,0,0,0,,You haven't forgotten about the settlement,have you?! {from manga, no clue}
+Dialogue: 0,0:26:33.70,0:26:37.76,Default,,0,0,0,,You haven't forgotten about the settlement, have you?! {from manga, no clue}
 Dialogue: 0,0:26:38.36,0:26:43.43,Default,,0,0,0,,A promise is a promise! \NYou must take my life now!
 Dialogue: 0,0:26:48.60,0:26:50.46,Default,,0,0,0,,Wait a minute, Dragon.
 Dialogue: 0,0:26:51.96,0:26:53.67,Default,,0,0,0,,If you have a hint of humanity in you,
@@ -427,7 +427,7 @@ Dialogue: 0,0:30:13.06,0:30:17.10,Default,,0,0,0,,At that moment, a seed of unea
 Dialogue: 0,0:30:17.10,0:30:18.75,Default,,0,0,0,,Tsumo!
 Dialogue: 0,0:30:18.75,0:30:21.84,Default,,0,0,0,,He hoped to dispel that uneasiness with the ura dora...
 Dialogue: 0,0:30:22.32,0:30:23.34,Default,,0,0,0,,However...
-Dialogue: 0,0:30:23.34,0:30:26.34,Default,,0,0,0,,he couldn't find even a scrap of good luck. {from manga, nc what's tsuki}
+Dialogue: 0,0:30:23.34,0:30:26.34,Default,,0,0,0,,he couldn't find even a scrap of good luck. {from manga, nc what's tsuki} {tsuki is luck}
 Dialogue: 0,0:30:40.53,0:30:41.67,Default,,0,0,0,,Stop!
 Dialogue: 0,0:30:41.67,0:30:43.83,Default,,0,0,0,,It must have been a lot of work.
 Dialogue: 0,0:30:44.81,0:30:48.72,Default,,0,0,0,,To think that the bait I've set up would work this well... {no clue what's wara}
@@ -454,30 +454,30 @@ Dialogue: 0,0:32:06.55,0:32:10.06,Default,,0,0,0,,It's Dragon! Bring that goddam
 Dialogue: 0,0:32:10.49,0:32:16.00,Default,,0,0,0,,Ishikawa Takashi went for the only gamble that could reinforce his intentions.
 Dialogue: 0,0:32:17.03,0:32:19.57,Sign,,0,0,0,,Mahjong parlor "Peaceful" \NFirst-timers and first-time visitors are welcome to come alone and have fun in peace. {お一人様でも安心して遊べる初めての方・初来店の方・大歓迎}\NFully automated {全卓・全自動 - probably refers to the tables}
 Dialogue: 0,0:32:17.06,0:32:19.57,Default,,0,0,0,,Look, I got a tsumo!
-Dialogue: 0,0:32:19.57,0:32:22.56,Default,,0,0,0,,Honitsu ittsuu tsumo, double nan... {from manga}
+Dialogue: 0,0:32:19.57,0:32:22.56,Default,,0,0,0,,Menhon{concealed Honitsu, is worth 1 han more than open honitsu, which is why it's specified by some players} ittsuu tsumo, double nan... {from manga}
 Dialogue: 0,0:32:22.56,0:32:24.03,Default,,0,0,0,,A baiman!
 Dialogue: 0,0:32:29.94,0:32:32.68,Default,,0,0,0,,Looks like you're out of luck today.
 Dialogue: 0,0:32:32.68,0:32:35.55,Default,,0,0,0,,The point gap is almost 8,000 points now!
-Dialogue: 0,0:32:35.55,0:32:39.35,Default,,0,0,0,,どうだ この辺でサシウマ半ちゃん勝負といかねえか
+Dialogue: 0,0:32:35.55,0:32:39.35,Default,,0,0,0,,How'd ya like a little hanchan with a sashiuma{an extra payment between players, basically (for more info, there's https://ja.wikipedia.org/wiki/ウマ_(麻雀)#差しウマ)} between us?
 Dialogue: 0,0:32:39.35,0:32:40.30,Default,,0,0,0,,What's the rate?
-Dialogue: 0,0:32:40.30,0:32:43.08,Default,,0,0,0,,How does "a hand" sound? Plus time.
-Dialogue: 0,0:32:43.75,0:32:48.16,Default,,0,0,0,,That is, if I win, you'll have to give me a hand, and come with me for a while... {from manga, no clue what he means}
-Dialogue: 0,0:32:51.75,0:32:57.07,Default,,0,0,0,,ローピンを勘 三食としても ローソをあんこに違いねえ
-Dialogue: 0,0:32:57.07,0:33:00.64,Default,,0,0,0,,サシウマかなんか知らんが これ レイチや
+Dialogue: 0,0:32:40.30,0:32:43.08,Default,,0,0,0,,How does a hand sound? Plus time.
+Dialogue: 0,0:32:43.75,0:32:48.16,Default,,0,0,0,,That is, if I win, you'll have to give me a hand, and come with me for a while... {from manga, no clue what he means}{ ͡° ͜ʖ ͡°}
+Dialogue: 0,0:32:51.75,0:32:57.07,Default,,0,0,0,,A kan on the 6-pin. If he's going for a sanshoku, then he's got a 6-sou triplet.
+Dialogue: 0,0:32:57.07,0:33:00.64,Default,,0,0,0,,I don't mind your little sashiuma, I'll riichi!
 Dialogue: 0,0:33:01.24,0:33:01.73,Default,,0,0,0,,Kan.
-Dialogue: 0,0:33:03.50,0:33:06.50,Default,,0,0,0,,やはりローソンはあんこだったか
-Dialogue: 0,0:33:07.11,0:33:09.18,Default,,0,0,0,,どっちにしろローソンが通ったばかり
-Dialogue: 0,0:33:09.18,0:33:12.51,Default,,0,0,0,,4枚目の急走が当たるとしたら 酷使しかねえ
-Dialogue: 0,0:33:13.05,0:33:13.79,Default,,0,0,0,,Let's play!
-Dialogue: 0,0:33:17.06,0:33:20.12,Default,,0,0,0,,3色同ポン ドラ2 満眼
-Dialogue: 0,0:33:20.12,0:33:23.36,Default,,0,0,0,,じゃ ゴーソンで当たりだったんじゃねえか!
+Dialogue: 0,0:33:03.50,0:33:06.50,Default,,0,0,0,,I knew it, he had that 6-sou triplet.
+Dialogue: 0,0:33:07.11,0:33:09.18,Default,,0,0,0,,He just let the 6-sou pass.
+Dialogue: 0,0:33:09.18,0:33:12.51,Default,,0,0,0,,If he's waiting on the 4th 9-sou, it can't be anythin' but Kokushi. {Kokushi Musou, a yakuman}
+Dialogue: 0,0:33:13.05,0:33:13.79,Default,,0,0,0,,Let's play! {shoubu here is mostly used in a "do or die" way, a lot of mahjong players do that when throwing a risky tile}
+Dialogue: 0,0:33:17.06,0:33:20.12,Default,,0,0,0,,Sanshoku Doukou{informally called Dou-pon because it's the sanshoku comprised of triplets/pon (I just saw it being called this way here and in Tetsuya)} Dora 2, mangan.
+Dialogue: 0,0:33:20.12,0:33:23.36,Default,,0,0,0,,T-Then, the 5-sou would've passed? {lit "the 5-sou wouldn't have have completed your hand?"}
 Dialogue: 0,0:33:23.36,0:33:25.09,Default,,0,0,0,,That was your winning tile too, wasn't it?
 Dialogue: 0,0:33:25.67,0:33:28.94,Default,,0,0,0,,Your boss has come up with quite the elaborate scheme.
 Dialogue: 0,0:33:29.64,0:33:34.13,Default,,0,0,0,,I came here under direct orders from boss Ishikawa.
 Dialogue: 0,0:33:34.13,0:33:37.63,Default,,0,0,0,,Wh-What? \NSo you just used me to test waters? {lit: I was a stallion brought close to a mare to test her readiness to mate}
 Dialogue: 0,0:33:37.63,0:33:41.61,Default,,0,0,0,,In any case, we haven't got much time. \NLet's conclude the next game at once.
 Dialogue: 0,0:33:41.61,0:33:45.11,Default,,0,0,0,,If I win, Dragon will follow me to meet Ishikawa.
-Dialogue: 0,0:33:52.75,0:33:55.16,Default,,0,0,0,,Рe discarded a pair of the chun?! {manga}
+Dialogue: 0,0:33:52.75,0:33:55.16,Default,,0,0,0,,He discarded a pair of the chun?! {manga}
 Dialogue: 0,0:33:55.16,0:33:58.47,Default,,0,0,0,,Hey, I didn't think you'd do something so foolish...
 Dialogue: 0,0:33:58.47,0:34:01.90,Default,,0,0,0,,You'd better not be making fun of us!
 Dialogue: 0,0:34:02.64,0:34:03.60,Default,,0,0,0,,Kan!
@@ -531,7 +531,7 @@ Dialogue: 0,0:38:02.13,0:38:05.01,Default,,0,0,0,,However, I'm not one to believ
 Dialogue: 0,0:38:05.01,0:38:08.24,Default,,0,0,0,,Dragon! Let me introduce you to the concept of impossible!
 Dialogue: 0,0:38:16.51,0:38:20.13,Default,,0,0,0,,Too bad, Dragon.\NJust a tanyao.
 Dialogue: 0,0:38:32.27,0:38:34.30,Default,,0,0,0,,Ishikawa...
-Dialogue: 0,0:38:35.60,0:38:39.80,Default,,0,0,0,,riichi ippatsu tsumo\Ntanyao and sanankou. haneman! {muzu pls}
+Dialogue: 0,0:38:35.60,0:38:39.80,Default,,0,0,0,,Riichi ippatsu tsumo\Ntanyao and San-ankou, haneman! {muzu pls} {can't make out the word after "riichi", but the rest is ok and make up the points needed for a haneman}
 Dialogue: 0,0:38:39.80,0:38:44.54,Default,,0,0,0,,Dragon! Do you see the two chrysanthemum flowers in between the doorframe?
 Dialogue: 0,0:38:45.82,0:38:50.09,Default,,0,0,0,,The big one is for Murota, \Nand soon there will be one more!
 Dialogue: 0,0:38:50.09,0:38:55.28,Default,,0,0,0,,Next to Murota's will be another flower - \Na deep crimson chrysanthemum!
@@ -541,7 +541,7 @@ Dialogue: 0,0:39:06.24,0:39:09.58,Default,,0,0,0,,I haven't given in to your luc
 Dialogue: 0,0:39:09.58,0:39:13.57,Default,,0,0,0,,Furthermore... I'm not so foolish to rely on the luck of other people.
 Dialogue: 0,0:39:21.98,0:39:25.03,Default,,0,0,0,,You've finally gained enough momentum to start mocking me, Dragon!
 Dialogue: 0,0:39:25.03,0:39:27.48,Default,,0,0,0,,Good! I'll take you on this round!
-Dialogue: 0,0:39:32.50,0:39:35.49,Default,,0,0,0,,Dragon wouldn't let the 2-pin get away. {muzu pls; こいつあるようなあたりだけちゃうならねぇ}
+Dialogue: 0,0:39:32.50,0:39:35.49,Default,,0,0,0,,This is Dragon's tile, I can't discard it. {muzu pls; こいつあるようなあたりだけちゃうならねぇ} {he's just saying he can't discard the tile because Ryuu might use it}
 Dialogue: 0,0:39:43.10,0:39:45.60,Default,,0,0,0,,Look, Dragon, it's a 2-pin. {muzu}
 Dialogue: 0,0:39:48.87,0:39:50.35,Default,,0,0,0,,Pon.
 Dialogue: 0,0:39:50.35,0:39:54.42,Default,,0,0,0,,That sly Dragon... \NWhat on earth is he waiting for?
@@ -567,11 +567,11 @@ Dialogue: 0,0:41:35.36,0:41:38.48,Default,,0,0,0,,With the crest on the line, \N
 Dialogue: 0,0:41:38.48,0:41:40.39,Default,,0,0,0,,regardless of whether he wins or loses. {unsure}
 Dialogue: 0,0:41:40.39,0:41:43.49,Default,,0,0,0,,Everyone present saw it that way.
 Dialogue: 0,0:41:43.49,0:41:44.75,Default,,0,0,0,,Pon!
-Dialogue: 0,0:41:45.63,0:41:50.00,Default,,0,0,0,,The south 3rd round... Dragon started with a call of the 8-sou. {muzu check}
-Dialogue: 0,0:41:50.53,0:41:52.53,Default,,0,0,0,,{missing page in manga, muzu}
+Dialogue: 0,0:41:45.63,0:41:50.00,Default,,0,0,0,,The south 3rd round... Dragon started with a call of the 8-sou. {muzu check} {ok}
+Dialogue: 0,0:41:50.53,0:41:52.53,Default,,0,0,0,,Dragon, I'll pon that. {missing page in manga, muzu} {or "That's a pon"}
 Dialogue: 0,0:41:54.76,0:41:55.68,Default,,0,0,0,,Pon!
 Dialogue: 0,0:41:57.76,0:41:58.71,Default,,0,0,0,,Pon!
-Dialogue: 0,0:42:05.55,0:42:07.28,Default,,0,0,0,,Dragon! That hatsu is mine! Kan! {muzu}
+Dialogue: 0,0:42:05.55,0:42:07.28,Default,,0,0,0,,Dragon! That hatsu is mine! Kan! {muzu} {ok TL, could be shorter: "I'll kan that Hatsu"}
 Dialogue: 0,0:42:07.28,0:42:11.98,Default,,0,0,0,,Kai told me that getting into a calling war with you would cause nothing but trouble...
 Dialogue: 0,0:42:11.98,0:42:14.33,Default,,0,0,0,,But I won't back down anymore!
 Dialogue: 0,0:42:14.33,0:42:17.32,Default,,0,0,0,,You have to win the fights that you start. \NThat's...
@@ -580,7 +580,7 @@ Dialogue: 0,0:42:20.73,0:42:23.06,Default,,0,0,0,,You're not in this for longer.
 Dialogue: 0,0:42:23.06,0:42:24.84,Default,,0,0,0,,Wh-What was that?
 Dialogue: 0,0:42:27.60,0:42:28.56,Default,,0,0,0,,Kan!
 Dialogue: 0,0:42:29.84,0:42:31.14,Default,,0,0,0,,Dragon...!
-Dialogue: 0,0:42:41.09,0:42:43.59,Default,,0,0,0,,Dragon... Are you going to declare a win? {muzu}
+Dialogue: 0,0:42:41.09,0:42:43.59,Default,,0,0,0,,Dragon... Did you win? {muzu}{just remembered the shitpost TLs had it as "Are you winning son?"}{it was fine as it was, but could be shorter}
 Dialogue: 0,0:42:53.49,0:42:56.67,Default,,0,0,0,,If Dragon flips over that tile, he'll be killed for sure.
 Dialogue: 0,0:42:56.67,0:42:59.97,Default,,0,0,0,,Everyone's attention was concentrated on Dragon's hands.
 Dialogue: 0,0:43:04.50,0:43:05.47,Default,,0,0,0,,Tsumo.
