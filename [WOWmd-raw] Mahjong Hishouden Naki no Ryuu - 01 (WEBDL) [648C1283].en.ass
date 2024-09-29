@@ -17,9 +17,9 @@ Keyframes File: ryuu1_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.250000
-Scroll Position: 464
-Active Line: 508
-Video Position: 71104
+Scroll Position: 270
+Active Line: 314
+Video Position: 44164
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,8 +56,8 @@ Dialogue: 0,0:02:09.83,0:02:10.48,Default,,0,0,0,,Tsumo.
 Dialogue: 0,0:02:14.50,0:02:16.49,Default,,0,0,0,,Toitoi Kan-tsumo{informal term for Rinshan Kaihou (valued at 1 han)} Dora 3. {all pungs; winning hand consisting of four pungs or kongs and one pair​}{please never do that again, it's disgusting}
 Dialogue: 0,0:02:16.49,0:02:18.50,Default,,0,0,0,,It's a haneman. {win worth 12000 points (or, if dealer, 18000 points)}
 Dialogue: 0,0:02:18.50,0:02:21.99,Default,,0,0,0,,Tsk... I'm all out of luck. \NI'll have to pay it myself.{I shouldn't take it for granted next time.} {guess} {2nd part is "ore no hitori-barai da", which is referring to the rule of "sekinin-barai", which means you're responsible for paying the full value of the hand, even when it was tsumo, alone, because you're the one who gave the tile used in the kan, which enabled them to win the hand}
-Dialogue: 0,0:02:21.99,0:02:25.00,Default,,0,0,0,,And this north was the fourth tile. All right! {there's only 4 of each tile in the game, so he's saying indirectly that Dragon got the last available one}
-Dialogue: 0,0:02:27.78,0:02:31.50,Default,,0,0,0,,By the way, aren't you that mysterious mahjong rogue they talk about lately? {nc what's jangoro, seems to be some specific name they use to refer to Dragon, I suspect jan part comes from mahJANg and goro is "racketeer; thug; rogue; bully; fixer"}{Yup, the idea of Jangoro got translated a Rep Player in Akagi and Mahjong wanderer in Shin Janki, if I recall correctly}
+Dialogue: 0,0:02:21.99,0:02:25.00,Default,,0,0,0,,And this north was the fourth tile. All right! {there's only 4 of each tile in the game, so he's saying indirectly that Ryuu got the last available one}
+Dialogue: 0,0:02:27.78,0:02:31.50,Default,,0,0,0,,By the way, aren't you that mysterious mahjong rogue they talk about lately? {nc what's jangoro, seems to be some specific name they use to refer to ryuu, I suspect jan part comes from mahJANg and goro is "racketeer; thug; rogue; bully; fixer"}{Yup, the idea of Jangoro got translated a Rep Player in Akagi and Mahjong wanderer in Shin Janki, if I recall correctly}
 Dialogue: 0,0:02:31.50,0:02:35.01,Default,,0,0,0,,Always with a cigarette in your right hand and a nervous look.
 Dialogue: 0,0:02:36.29,0:02:36.77,Default,,0,0,0,,Pon.
 Dialogue: 0,0:02:39.28,0:02:40.76,Default,,0,0,0,,Oh, a toitoi chanta? {nc}{Tancha = Toitoi+chanta}
@@ -93,7 +93,7 @@ Dialogue: 0,0:04:02.20,0:04:04.14,Default,,0,0,0,,Buddy, flip the kan-dora, will
 Dialogue: 0,0:04:07.56,0:04:09.07,Default,,0,0,0,,Whoa, that's not bad either! {or "That's another kan!"}
 Dialogue: 0,0:04:12.95,0:04:17.05,Default,,0,0,0,,You only get that by kanning{can I really do that for "kan"? most likely not, but "doing kan" is awkward}! Luck's on my side now.
 Dialogue: 0,0:04:17.05,0:04:21.09,Default,,0,0,0,,Honitsu Toitoi Chun Dora 4, baiman. Alright, let's end this in one shot!
-Dialogue: 0,0:04:21.09,0:04:23.63,Default,,0,0,0,,You're not in this for much longer. {lit: your back is sooty - I don't understand the metaphor, but essentially it's Dragon's way of saying "you're already dead" - in manga he's sort of like grim reaper as anyone he says this to dies soon; https://manba.co.jp/topics/21894}
+Dialogue: 0,0:04:21.09,0:04:23.63,Default,,0,0,0,,You're not in this for much longer. {lit: your back is sooty - I don't understand the metaphor, but essentially it's ryuu's way of saying "you're already dead" - in manga he's sort of like grim reaper as anyone he says this to dies soon; https://manba.co.jp/topics/21894}
 Dialogue: 0,0:04:25.83,0:04:26.63,Default,,0,0,0,,Pon!
 Dialogue: 0,0:04:35.09,0:04:39.24,Default,,0,0,0,,Tell me, bud, you said I'm not in this for longer - what did you mean by that?
 Dialogue: 0,0:04:40.64,0:04:45.57,Default,,0,0,0,,You'd better explain yourself, lest we arrive to some painful misunderstanding.
@@ -105,7 +105,7 @@ Dialogue: 0,0:05:01.62,0:05:05.06,Default,,0,0,0,,Asshole! Think you can get awa
 Dialogue: 0,0:05:05.06,0:05:06.52,Default,,0,0,0,,You bastard!
 Dialogue: 0,0:05:12.37,0:05:16.24,Default,,0,0,0,,I am Ishikawa Takashi, the second boss of the Kai Group,
 Dialogue: 0,0:05:16.24,0:05:19.61,Default,,0,0,0,,here to represent the interests of my predecessor Kai Shozo. {no clue what's shoumei}
-Dialogue: 0,0:05:19.61,0:05:21.55,Default,,0,0,0,,And you are the Dragon. {his real name is not Dragon}
+Dialogue: 0,0:05:19.61,0:05:21.55,Default,,0,0,0,,And you are the Dragon. {his real name is not ryuu}
 Dialogue: 0,0:05:23.69,0:05:26.05,Default,,0,0,0,,D-Did you say Dragon? \N{\i1}The{\i0} Calling Dragon? {popular translation of this title is "crying dragon" but I think it's a mistranslation because "naki" is used more often as "to cry" but in this case it's "to call [a combination in mahjong]", like when they shout "Ron/Tsumo" during games}
 Dialogue: 0,0:05:27.42,0:05:33.52,Default,,0,0,0,,Dragon, our boss put his life on the line while digging into it just to take a glance at you.
 Dialogue: 0,0:05:41.34,0:05:50.35,Sign,,0,0,0,,Flying Legend of Mahjong \NThe Calling Dragon {麻雀飛翔伝 哭きの竜}
@@ -280,7 +280,7 @@ Dialogue: 0,0:19:40.70,0:19:44.11,Default,,0,0,0,,You've done well, for some fee
 Dialogue: 0,0:19:44.11,0:19:45.71,Default,,0,0,0,,Come clean, you. {no clue}
 Dialogue: 0,0:19:45.71,0:19:47.40,Default,,0,0,0,,Huh? Don't mess with me! {no clue}
 Dialogue: 0,0:19:54.36,0:19:55.22,Default,,0,0,0,,Pon.
-Dialogue: 0,0:19:57.02,0:19:59.16,Default,,0,0,0,,Goin' for a Dragoniisou now?
+Dialogue: 0,0:19:57.02,0:19:59.16,Default,,0,0,0,,Goin' for a Ryuuiisou now?
 Dialogue: 0,0:19:59.16,0:20:02.49,Default,,0,0,0,,Dragon, it seems to me you never lose.
 Dialogue: 0,0:20:02.49,0:20:07.20,Default,,0,0,0,,But those who don't know the pain of losing, don't know what a true battle is.
 Dialogue: 0,0:20:07.20,0:20:10.27,Default,,0,0,0,,He who gets up first after a defeat is the strongest.
@@ -290,7 +290,7 @@ Dialogue: 0,0:20:20.51,0:20:22.14,Default,,0,0,0,,You're not in this for much lo
 Dialogue: 0,0:20:22.14,0:20:25.94,Default,,0,0,0,,What? What do you mean I'm not in this for longer?!
 Dialogue: 0,0:20:26.45,0:20:26.91,Default,,0,0,0,,Pon.
 Dialogue: 0,0:20:28.69,0:20:32.79,Default,,0,0,0,,Wh-What? \NYou're calling the tile you bastard just discarded?
-Dialogue: 0,0:20:33.43,0:20:35.30,Default,,0,0,0,,Asshole, it ain't a Dragoniisou? {no clue}
+Dialogue: 0,0:20:33.43,0:20:35.30,Default,,0,0,0,,Asshole, it ain't a Ryuuiisou? {no clue}
 Dialogue: 0,0:20:35.30,0:20:38.30,Default,,0,0,0,,You don't carry the burden of even a single person on your back. {chapter 8}
 Dialogue: 0,0:20:39.79,0:20:42.54,Default,,0,0,0,,Unwavering faith in yourself is required to win.
 Dialogue: 0,0:20:42.54,0:20:46.56,Default,,0,0,0,,If the taste of defeat still lingers in your mouth, you've already lost. {no clue}
@@ -347,7 +347,7 @@ Dialogue: 0,0:24:19.34,0:24:23.79,Default,,0,0,0,,Dragon, if I win, you'll be mi
 Dialogue: 0,0:24:23.79,0:24:27.32,Default,,0,0,0,,And if you win, you're free to do whatever you want with my life.
 Dialogue: 0,0:24:27.83,0:24:28.63,Default,,0,0,0,,Chi!
 Dialogue: 0,0:24:31.98,0:24:32.87,Default,,0,0,0,,Pon!
-Dialogue: 0,0:24:33.60,0:24:37.33,Default,,0,0,0,,Kai has been calling in retaliation to Dragon. {muzu help, I see meaning of haru "to become one tile away from completion"; chapter 7 for ref} {Kai's calling everytime Dragon calls, to "get on pace" with him, as if he's pursuing Dragon by calling the same amount as him}
+Dialogue: 0,0:24:33.60,0:24:37.33,Default,,0,0,0,,Kai has been calling in retaliation to Dragon. {muzu help, I see meaning of haru "to become one tile away from completion"; chapter 7 for ref} {Kai's calling everytime Ryuu calls, to "get on pace" with him, as if he's pursuing Ryuu by calling the same amount as him}
 Dialogue: 0,0:24:37.33,0:24:40.18,Default,,0,0,0,,Audentes fortuna iuvat. {more muzu, "nothing ventured, nothing gained"}{it's just 虎穴に入らずんば虎子を得ず}
 Dialogue: 0,0:24:40.18,0:24:42.83,Default,,0,0,0,,This was the tactic that Maruko taught Kai.
 Dialogue: 0,0:24:44.78,0:24:47.64,Default,,0,0,0,,Chun Honitsu!
@@ -541,7 +541,7 @@ Dialogue: 0,0:39:06.24,0:39:09.58,Default,,0,0,0,,I haven't given in to your luc
 Dialogue: 0,0:39:09.58,0:39:13.57,Default,,0,0,0,,Furthermore... I'm not so foolish to rely on the luck of other people.
 Dialogue: 0,0:39:21.98,0:39:25.03,Default,,0,0,0,,You've finally gained enough momentum to start mocking me, Dragon!
 Dialogue: 0,0:39:25.03,0:39:27.48,Default,,0,0,0,,Good! I'll take you on this round!
-Dialogue: 0,0:39:32.50,0:39:35.49,Default,,0,0,0,,This is Dragon's tile, I can't discard it. {muzu pls; こいつあるようなあたりだけちゃうならねぇ} {he's just saying he can't discard the tile because Dragon might use it}
+Dialogue: 0,0:39:32.50,0:39:35.49,Default,,0,0,0,,This is Dragon's tile, I can't discard it. {muzu pls; こいつあるようなあたりだけちゃうならねぇ} {he's just saying he can't discard the tile because Ryuu might use it}
 Dialogue: 0,0:39:43.10,0:39:45.60,Default,,0,0,0,,Look, Dragon, it's a 2-pin. {muzu}
 Dialogue: 0,0:39:48.87,0:39:50.35,Default,,0,0,0,,Pon.
 Dialogue: 0,0:39:50.35,0:39:54.42,Default,,0,0,0,,That sly Dragon... \NWhat on earth is he waiting for?
