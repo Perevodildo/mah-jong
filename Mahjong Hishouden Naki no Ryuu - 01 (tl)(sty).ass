@@ -103,7 +103,7 @@ Dialogue: 10,0:05:12.37,0:05:16.24,Default,,0,0,0,,I am Ishikawa Takashi, the se
 Dialogue: 10,0:05:16.24,0:05:19.61,Default,,0,0,0,,here to represent the interests of my predecessor Kai Shozo. {no clue what's shoumei}
 Dialogue: 10,0:05:19.61,0:05:21.55,Default,,0,0,0,,And you are the Dragon. {his real name is not ryuu}
 Dialogue: 10,0:05:23.69,0:05:26.05,Default,,0,0,0,,D-Did you say Dragon? \N{\i1}The{\i0} Calling Dragon? {popular translation of this title is "crying dragon" but I think it's a mistranslation because "naki" is used more often as "to cry" but in this case it's "to call [a combination in mahjong]", like when they shout "Ron/Tsumo" during games}
-Dialogue: 10,0:05:27.42,0:05:33.52,Default,,0,0,0,,Dragon, our boss risked his life investigating you, just to see you
+Dialogue: 10,0:05:27.42,0:05:33.52,Default,,0,0,0,,Dragon, our boss risked his life investigating you, just to see you.
 Dialogue: 10,0:06:00.99,0:06:02.09,Default,,0,0,0,,Hold it, you dipshit!
 Dialogue: 10,0:06:05.26,0:06:07.10,Default,,0,0,0,,Didn't you hear me telling you to stop?!
 Dialogue: 10,0:06:07.10,0:06:09.09,Default,,0,0,0,,Let him go.
