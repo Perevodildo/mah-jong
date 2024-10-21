@@ -11,14 +11,14 @@ PlayResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: D:/Downloads/SubProject/Naki No Ryuu (1988)/Episodes/[WOWmd-raw] Mahjong Hishouden Naki no Ryuu - 02 (WEBDL) [4BA28D30].mkv
-Video File: D:/Downloads/SubProject/Naki No Ryuu (1988)/Episodes/[WOWmd-raw] Mahjong Hishouden Naki no Ryuu - 02 (WEBDL) [4BA28D30].mkv
+Audio File: ../../raws/Naki No Ryuu (1988)/Episodes/[WOWmd-raw] Mahjong Hishouden Naki no Ryuu - 02 (WEBDL) [4BA28D30].mkv
+Video File: ../../raws/Naki No Ryuu (1988)/Episodes/[WOWmd-raw] Mahjong Hishouden Naki no Ryuu - 02 (WEBDL) [4BA28D30].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.250000
-Scroll Position: 198
-Active Line: 226
-Video Position: 45392
+Scroll Position: 341
+Active Line: 374
+Video Position: 50696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -261,13 +261,13 @@ Dialogue: 10,0:24:55.29,0:24:58.26,Default,,0,0,0,,Won't you follow me for a min
 Dialogue: 10,0:25:12.27,0:25:14.46,Default,,0,0,0,,Hurry up and get in.
 Dialogue: 10,0:25:14.46,0:25:17.85,Default,,0,0,0,,The rain keeps splashing water into the car. {no clue what he means: 雨のしづくが車に忍びよる}
 Dialogue: 10,0:25:25.85,0:25:28.21,Default,,0,0,0,,Ishikawa!
-Dialogue: 10,0:25:28.21,0:25:29.98,Default,,0,0,0,,Motomiya...
+Dialogue: 10,0:25:28.27,0:25:29.98,Default,,0,0,0,,Motomiya...
 Dialogue: 10,0:25:30.46,0:25:32.76,Default,,0,0,0,,We can't start talking yet... {話はそれからじゃ - sorekara is marked with a dot so it's supposed to refer to some specific event, like "this story started back then..." or "we'll talk after we do that"}
-Dialogue: 10,0:25:32.76,0:25:37.33,Default,,0,0,0,,Not until you've properly righted the wrongs as a chivalrous man would. {おめぇがきちっと俠としてのおとしまえをつけてからじゃ - he uses otoko as in "chivalrous person, chivalry, knight-errant", also unsure what he's talking about, maybe it's just general "made up for your offense to me"}
+Dialogue: 10,0:25:32.76,0:25:37.33,Default,,0,0,0,,Not until you've properly righted your wrongs as a chivalrous man would. {おめぇがきちっと俠としてのおとしまえをつけてからじゃ - he uses otoko as in "chivalrous person, chivalry, knight-errant", also unsure what he's talking about, maybe it's just general "made up for your offense to me"}
 Dialogue: 10,0:25:38.27,0:25:39.80,Default,,0,0,0,,Isn't that right?
 Dialogue: 10,0:25:40.57,0:25:44.71,Narrator,,0,0,0,,Unavoidably, the rain soaked Ishikawa's shoulders,
 Dialogue: 10,0:25:45.54,0:25:48.88,Narrator,,0,0,0,,adding to the weight of 2,000 lives already burdening it.
-Dialogue: 10,0:26:07.36,0:26:10.27,Default,,0,0,0,,You'd better move start moving, Dragon.
+Dialogue: 10,0:26:07.36,0:26:10.27,Default,,0,0,0,,You'd better start moving, Dragon.
 Dialogue: 10,0:26:10.27,0:26:12.83,Default,,0,0,0,,My boss hates being made to wait.
 Dialogue: 10,0:26:16.50,0:26:18.51,Default,,0,0,0,,Wh-What?!
 Dialogue: 10,0:26:18.97,0:26:21.30,Default,,0,0,0,,K-Kaito is in Tokyo!?
@@ -279,8 +279,8 @@ Dialogue: 10,0:26:39.29,0:26:42.83,Narrator,,0,0,0,,This was the one job he coul
 Dialogue: 10,0:26:42.83,0:26:44.00,Narrator,,0,0,0,,Conquer!
 Dialogue: 10,0:26:44.57,0:26:49.30,Narrator,,0,0,0,,Lord Kaito Takeshi set foot on this land, \Nwhere he would meet his end. {not in manga}
 Dialogue: 10,0:26:51.43,0:26:54.01,Default,,0,0,0,,What is it about Kaito Takeshi?
-Dialogue: 10,0:26:56.68,0:26:59.08,Default,,0,0,0,,Look, aren't you guys gangsters and all?
-Dialogue: 10,0:27:01.08,0:27:03.17,Top,,0,0,0,,Kaito is here alone, yet you're scared out of your wits.
+Dialogue: 10,0:26:56.68,0:26:59.03,Default,,0,0,0,,Look, aren't you guys gangsters and all?
+Dialogue: 10,0:27:01.08,0:27:03.17,Top,,0,0,0,,Kaito is alone here, yet you're scared witless.
 Dialogue: 10,0:27:03.17,0:27:06.12,Top,,0,0,0,,You burst into tears over his sakura signboard. {no idea what she means: ”桜”の看板が泣いてあきれるわ}
 Dialogue: 10,0:27:08.32,0:27:09.82,Default,,0,0,0,,Whoa!
 Dialogue: 10,0:27:10.42,0:27:11.69,Default,,0,0,0,,{page 135 of volume 4}That's the one.
@@ -292,9 +292,9 @@ Dialogue: 10,0:27:38.65,0:27:39.82,Default,,0,0,0,,Motomiya...
 Dialogue: 10,0:27:41.59,0:27:42.82,Default,,0,0,0,,Ma'am... {Sakurada is not really his sister, that's just how yakuza call each other}
 Dialogue: 10,0:27:55.70,0:27:57.37,Default,,0,0,0,,Motomiya...
 Dialogue: 10,0:28:04.18,0:28:06.85,Default,,0,0,0,,Ishikawa, watch me closely!
-Dialogue: 10,0:28:06.85,0:28:10.17,Default,,0,0,0,,I'm going to right the wrongs like no one else ever did. Or ever would. {lit: I will now show you how I settle the scores once-in-a-lifetime}
+Dialogue: 10,0:28:06.85,0:28:10.17,Default,,0,0,0,,I'm going to right my wrongs like no one else ever did. Or ever would. {lit: I will now show you how I settle the scores once-in-a-lifetime}
 Dialogue: 10,0:28:20.82,0:28:22.33,Narrator,,0,0,0,,At that time, Dragon
-Dialogue: 10,0:28:22.33,0:28:24.70,Narrator,,0,0,0,,was in that hell for a long time already.
+Dialogue: 10,0:28:22.33,0:28:24.70,Narrator,,0,0,0,,had been in that hell for a long time already.
 Dialogue: 10,0:28:29.47,0:28:32.11,Default,,0,0,0,,Boss, a call from madam Sakurada.
 Dialogue: 10,0:28:33.14,0:28:34.64,Default,,0,0,0,,Sakurada?
 Dialogue: 10,0:28:35.41,0:28:38.07,Default,,0,0,0,,She is crying over the phone.
@@ -304,10 +304,11 @@ Dialogue: 10,0:28:54.83,0:28:59.23,Default,,0,0,0,,I will personally take respon
 Dialogue: 10,0:29:00.23,0:29:03.20,Default,,0,0,0,,Madam Sakurada, please don't cry any more.
 Dialogue: 10,0:29:03.20,0:29:05.74,Default,,0,0,0,,M-Madam...
 Dialogue: 10,0:29:05.74,0:29:09.31,Narrator,,0,0,0,,Motomiya Haruki, 33 years old at the time.
-Dialogue: 10,0:29:09.31,0:29:15.14,Narrator,,0,0,0,,He was a handsome man, who still had that childlike image lingering on his profile. {/face}
+Dialogue: 10,0:29:09.31,0:29:11.02,Narrator,,0,0,0,,He was a handsome man,
+Dialogue: 10,0:29:11.02,0:29:15.14,Narrator,,0,0,0,,who still had that childlike image lingering on his profile. {/face}
 Dialogue: 10,0:29:29.96,0:29:33.12,Default,,0,0,0,,Dragon, would you please kan this. {mockingly ordering him, because he knew Ryuu would do that anyway}
 Dialogue: 10,0:29:34.77,0:29:38.13,Default,,0,0,0,,Dragon, it can't be this one, can it?
-Dialogue: 10,0:29:53.62,0:29:57.69,Default,,0,0,0,,They said you were the poster child for luck, Dragon.
+Dialogue: 10,0:29:53.64,0:29:57.61,Default,,0,0,0,,They said you were the poster child for luck, Dragon.
 Dialogue: 10,0:29:59.29,0:30:02.96,Default,,0,0,0,,But in our world, \Nyou can't win through sheer luck.
 Dialogue: 10,0:30:03.70,0:30:06.73,Default,,0,0,0,,Not unless you furnish it with a good strategy.
 Dialogue: 10,0:30:08.30,0:30:09.74,Default,,0,0,0,,You can't take the sky. {天は取れん - is this a mahjong area already?}{not really; but mahjong is connected to nature, earth, and heaven, like with the dragon tiles, which represent the elements, or the winds, which represent nature}
@@ -331,33 +332,35 @@ Dialogue: 10,0:31:26.75,0:31:29.35,Default,,0,0,0,,Is this what it means to lead
 Dialogue: 10,0:31:29.35,0:31:31.57,Default,,0,0,0,,Does it really have to be that extreme?!
 Dialogue: 10,0:31:31.57,0:31:33.14,Default,,0,0,0,,Ishikawa...
 Dialogue: 10,0:31:41.30,0:31:43.90,Thought,,0,0,0,,I can't afford to lose Motomiya.
-Dialogue: 10,0:32:03.58,0:32:08.14,Narrator,,0,0,0,,At that time, Motomiya was long chucking to himself, standing behind Dragon.
+Dialogue: 10,0:32:03.58,0:32:05.11,Narrator,,0,0,0,,At that time,
+Dialogue: 10,0:32:05.11,0:32:08.01,Narrator,,0,0,0,,Motomiya had long been laughing to himself, standing behind Dragon.
 Dialogue: 10,0:32:10.56,0:32:14.48,Default,,0,0,0,,First: Chivalry is about respecting justice. {that other otoko again}
-Dialogue: 10,0:32:17.02,0:32:21.07,Default,,0,0,0,,Second: A chivalrous men would not be swayed by emotion.
-Dialogue: 10,0:32:23.10,0:32:26.07,Default,,0,0,0,,Third: A chivalrous man lives for his lord. {主 doesn't have the reading oya so idk what to make of it}
-Dialogue: 10,0:32:27.81,0:32:30.74,Default,,0,0,0,,And he's not afraid of death!
+Dialogue: 10,0:32:17.02,0:32:21.02,Default,,0,0,0,,Second: A chivalrous man would not be swayed by emotion.
+Dialogue: 10,0:32:23.10,0:32:26.02,Default,,0,0,0,,Third: A chivalrous man lives for his lord. {主 doesn't have the reading oya so idk what to make of it}
+Dialogue: 10,0:32:27.81,0:32:30.66,Default,,0,0,0,,And he's not afraid of death!
 Dialogue: 10,0:32:33.28,0:32:38.48,Default,,0,0,0,,So scatter the fuck off! I am Motomiya Haruki from the Oudou Syndicate! {no clue what's the first part}
 Dialogue: 10,0:32:51.10,0:32:55.20,Default,,0,0,0,,Motomiya-san, {\i1}you{\i0} are the small fry here.
 Dialogue: 10,0:32:56.97,0:32:58.94,Default,,0,0,0,,Kaito...
 Dialogue: 10,0:33:07.41,0:33:10.48,Default,,0,0,0,,Hey, kid, didn't I tell you to stop?
 Dialogue: 10,0:33:10.48,0:33:14.22,Default,,0,0,0,,It's just shameless. The true Calling Dragon is sitting here, right before you.
 Dialogue: 10,0:33:15.46,0:33:17.79,Default,,0,0,0,,By the way, bud.{muzu}{have no idea how to adapt"toimen no onii-san" (lit. buddy in front of me/ Toimen, buddy)}
-Dialogue: 10,0:33:17.79,0:33:22.46,Default,,0,0,0,,You said this funny hooey before. \N"The Calling Dragon is not with us anymore?"
-Dialogue: 10,0:33:22.46,0:33:26.00,Default,,0,0,0,,What are you talking about. \NI'm right here, in flesh!
+Dialogue: 10,0:33:17.79,0:33:20.03,Default,,0,0,0,,You said this nonsense before.
+Dialogue: 10,0:33:20.03,0:33:22.46,Default,,0,0,0,,"The Calling Dragon is not with us anymore?"
+Dialogue: 10,0:33:22.46,0:33:26.00,Default,,0,0,0,,What are you talking about. \NI'm right here, in the flesh!
 Dialogue: 10,0:33:28.64,0:33:29.30,Default,,0,0,0,,Wh...
 Dialogue: 10,0:33:47.89,0:33:49.99,Default,,0,0,0,,Are you really...
 Dialogue: 10,0:33:54.29,0:33:58.50,Default,,0,0,0,,Ah, never mind that. I said something thoughtless on the spur of the moment.
 Dialogue: 10,0:33:58.50,0:34:02.29,Default,,0,0,0,,He's dead, all right?\NHe's not with us anymore.
 Dialogue: 10,0:34:06.30,0:34:08.06,Default,,0,0,0,,K-Kaito...
 Dialogue: 10,0:34:11.81,0:34:14.41,Thought,,0,0,0,,Dragon… Dragon!
-Dialogue: 10,0:34:15.52,0:34:17.95,Thought,,0,0,0,,Give me your luck!
+Dialogue: 10,0:34:15.43,0:34:17.95,Thought,,0,0,0,,Give me your luck!
 Dialogue: 10,0:34:18.55,0:34:21.05,Thought,,0,0,0,,Give it to Motomiya!
 Dialogue: 10,0:34:24.09,0:34:27.63,Default,,0,0,0,,Dragon, allow me to pon that one as well.
 Dialogue: 10,0:34:30.59,0:34:36.60,Default,,0,0,0,,You know, Dragon, with you in the game, tiles always move in interesting ways. {muzu check}{it's ok}
 Dialogue: 10,0:34:36.60,0:34:39.67,Default,,0,0,0,,Is this also the doing of your good luck?
 Dialogue: 10,0:34:39.67,0:34:41.81,Default,,0,0,0,,Sorry to bother you, Dragon,
 Dialogue: 10,0:34:41.81,0:34:44.70,Default,,0,0,0,,but we'd like you to stick around for a wee bit longer.
-Dialogue: 10,0:34:44.70,0:34:50.32,Default,,0,0,0,,Dragon, do you know why boss is sitting at a table with the likes of you?
+Dialogue: 10,0:34:44.70,0:34:50.32,Default,,0,0,0,,Dragon, do you know why the boss is sitting at a table with the likes of you?
 Dialogue: 10,0:34:51.85,0:34:53.12,Default,,0,0,0,,You're the bait.
 Dialogue: 10,0:34:54.69,0:34:57.66,Default,,0,0,0,,The delicious bait \Nthat attracts small fry.
 Dialogue: 10,0:35:09.67,0:35:12.61,Default,,0,0,0,,Is that where your luck ends, Dragon?
@@ -402,5 +405,5 @@ Comment: 0,0:24:39.54,0:24:44.51,Sign,,0,0,0,,Bar \NFamily center {no clue what'
 Comment: 0,0:27:01.28,0:27:05.68,Sign,,0,0,0,,Kazuko Sakurada, widow of Michizo Sakurada, the first president of the Sakurado Syndicate {初代桜道会会長 桜田道造未亡人\N桜田和子}
 Comment: 0,0:28:10.58,0:28:17.79,Sign,,0,0,0,,A single seagull, who had lost its way, is going through hell with no place to repose {舵を失ったかもめが一羽寝場所のないまま修羅をゆく - actually "lost its helm/rudder" but idk what they mean}
 Comment: 0,0:32:14.48,0:32:17.02,Sign,,0,0,0,,Chivalry is about respecting justice {俠は義は重んじることなり}
-Comment: 0,0:32:21.07,0:32:23.10,Sign,,0,0,0,,A chivalrous men would not be swayed by emotion {俠は情に流されることなかれ}
+Comment: 0,0:32:21.07,0:32:23.10,Sign,,0,0,0,,A chivalrous man would not be swayed by emotion {俠は情に流されることなかれ}
 Comment: 0,0:32:26.07,0:32:27.81,Sign,,0,0,0,,A chivalrous man lives for his lord {俠は主のため}
