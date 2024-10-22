@@ -16,9 +16,9 @@ Video File: ../../raws/Naki No Ryuu (1988)/Episodes/[WOWmd-raw] Mahjong Hishoude
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.250000
-Scroll Position: 341
-Active Line: 374
-Video Position: 50696
+Scroll Position: 102
+Active Line: 126
+Video Position: 57782
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,7 +82,7 @@ Dialogue: 10,0:07:01.32,0:07:02.85,Default,,0,0,0,,B-Boss?
 Dialogue: 10,0:07:08.82,0:07:14.46,Default,,0,0,0,,Let's turn this into a festival... A festival of gunfire between east and west!
 Dialogue: 10,0:07:22.80,0:07:27.41,Narrator,,0,0,0,,Kaito Takeshi - now, he is considered the most powerful man in not just
 Dialogue: 10,0:07:27.41,0:07:30.71,Narrator,,0,0,0,,the Kansai region, but within the entire Japanese underworld. {the onscreen text duplicates what's being said}
-Dialogue: 10,0:07:30.71,0:07:32.38,Narrator,,0,0,0,,He leads the Kansai Group.
+Dialogue: 10,0:07:30.71,0:07:32.38,Narrator,,0,0,0,,He leads the Kansai Ring.
 Dialogue: 10,0:07:32.66,0:07:35.64,Narrator,,0,0,0,,It includes well over 500 different organizations.
 Dialogue: 10,0:07:40.49,0:07:43.79,Narrator,,0,0,0,,Without a doubt, he is the don that controls all of Japan.
 Dialogue: 10,0:07:45.83,0:07:50.83,Narrator,,0,0,0,,In order to become the successor of the Oudou Syndicate,
@@ -129,13 +129,13 @@ Dialogue: 10,0:12:25.54,0:12:28.61,Default,,0,0,0,,"You'll never usurp the syndi
 Dialogue: 10,0:12:28.61,0:12:29.46,Default,,0,0,0,,All right?
 Dialogue: 10,0:12:31.81,0:12:34.65,Sign,,0,0,0,,Emergency exit {非常口}
 Dialogue: 10,0:12:36.82,0:12:40.32,Narrator,,0,0,0,,Motomiya Haruki, the Brawler of Tokai.
-Dialogue: 10,0:12:41.26,0:12:45.36,Narrator,,0,0,0,,He is one of those men \Nwho are born to become a yakuza.
+Dialogue: 10,0:12:41.26,0:12:45.36,Narrator,,0,0,0,,He is one of those men \Nwho are born to become a Yakuza.
 Dialogue: 10,0:12:48.83,0:12:51.53,Narrator,,0,0,0,,He got tattooed when he was fourteen.
 Dialogue: 10,0:12:53.27,0:12:56.93,Narrator,,0,0,0,,He lived his whole life without parents.
 Dialogue: 10,0:12:57.71,0:13:00.88,Narrator,,0,0,0,,That's why he chose two parents as the image to be put on his back. {chapter 24, no clue what he means}
 Dialogue: 10,0:13:02.24,0:13:07.45,Narrator,,0,0,0,,Let me reiterate. He tattooed his back on his fourteenth summer.
 Dialogue: 10,0:13:13.42,0:13:15.95,Narrator,,0,0,0,,He is Motomiya Haruki.
-Dialogue: 10,0:13:15.95,0:13:18.79,Narrator,,0,0,0,,A yakuza by birth.
+Dialogue: 10,0:13:15.95,0:13:18.79,Narrator,,0,0,0,,A Yakuza by birth.
 Dialogue: 10,0:13:27.44,0:13:28.64,Default,,0,0,0,,What was that?
 Dialogue: 10,0:13:30.19,0:13:33.27,Default,,0,0,0,,Try to say it again! C'mon!
 Dialogue: 10,0:13:34.38,0:13:36.48,Default,,0,0,0,,Your Lieutenant was murdered!
@@ -158,9 +158,9 @@ Dialogue: 10,0:14:56.59,0:15:01.00,Narrator,,0,0,0,,We just know he like seagull
 Dialogue: 10,0:15:01.00,0:15:05.07,Narrator,,0,0,0,,He liked seagulls because they could fly freely anywhere they want.
 Dialogue: 10,0:15:18.15,0:15:21.08,Default,,0,0,0,,Boss, they got another one.
 Dialogue: 10,0:15:35.66,0:15:38.65,Default,,0,0,0,,What's with those looks, you motherfuckers?!
-Dialogue: 10,0:15:39.60,0:15:43.24,Default,,0,0,0,,So what if they got a few of our guys?! \NHow can you even call yourself yakuza?!
+Dialogue: 10,0:15:39.60,0:15:43.24,Default,,0,0,0,,So what if they got a few of our guys?! \NHow can you even call yourself Yakuza?!
 Dialogue: 10,0:15:43.91,0:15:46.47,Default,,0,0,0,,Listen, this is a watershed moment!
-Dialogue: 10,0:15:47.71,0:15:51.08,Default,,0,0,0,,Keep going! \NFire from all guns! {no clue}
+Dialogue: 10,0:15:47.71,0:15:51.08,Default,,0,0,0,,Keep going! \NWe will hit them with everything! {no clue}
 Dialogue: 10,0:15:57.82,0:16:02.36,Default,,0,0,0,,You gotta admit, Motomiya Haruki is going strong. Don't you think?
 Dialogue: 10,0:16:03.08,0:16:08.20,Default,,0,0,0,,But even so, the one defending is Ishikawa Takashi himself.
 Dialogue: 10,0:16:08.83,0:16:10.23,Default,,0,0,0,,Is he stupid?
@@ -190,7 +190,7 @@ Dialogue: 10,0:18:11.14,0:18:13.22,Default,,0,0,0,,Motomiya disappeared?
 Dialogue: 10,0:18:13.22,0:18:17.23,Default,,0,0,0,,Our men are seriously worried. \NPlease come back to safety.
 Dialogue: 10,0:18:19.02,0:18:21.66,Default,,0,0,0,,Motomiya disappeared, huh?
 Dialogue: 10,0:18:29.77,0:18:33.91,Default,,0,0,0,,That cretin... Is he seriously aiming for my head?
-Dialogue: 10,0:18:38.65,0:18:43.62,Thought,,0,0,0,,That man would come to me, even if he'd need to be disguised for that.
+Dialogue: 10,0:18:38.65,0:18:43.62,Thought,,0,0,0,,Motomiya would come to me, even if he had to shamefully disguise himself.
 Dialogue: 10,0:18:43.62,0:18:48.09,Thought,,0,0,0,,And then he won't hesitate to take my life the moment I slip up.
 Dialogue: 10,0:18:48.09,0:18:51.09,Thought,,0,0,0,,That's the kind of man he is.
 Dialogue: 10,0:18:52.19,0:18:57.03,Narrator,,0,0,0,,That conviction was shared by gangsters who grew up on the same battlefield.
@@ -250,7 +250,7 @@ Dialogue: 10,0:23:22.70,0:23:25.27,Default,,0,0,0,,have always been close, \Nand
 Dialogue: 10,0:23:25.27,0:23:29.77,Default,,0,0,0,,Both are disciples of the first boss of the Kai Group, Kai Shozo, right?
 Dialogue: 10,0:23:32.21,0:23:35.61,Default,,0,0,0,,Tell me, Dragon, doesn't that name bring back memories?
 Dialogue: 10,0:23:35.61,0:23:36.71,Default,,0,0,0,,Kai Shozo.
-Dialogue: 10,0:23:46.25,0:23:48.68,Default,,0,0,0,,That name is not an item of the past.
+Dialogue: 10,0:23:46.25,0:23:48.68,Default,,0,0,0,,His name is not some relic of the past.
 Dialogue: 10,0:23:49.41,0:23:51.31,Default,,0,0,0,,He still lives...
 Dialogue: 10,0:23:52.79,0:23:54.05,Default,,0,0,0,,inside me.
 Dialogue: 10,0:24:05.44,0:24:08.48,Default,,0,0,0,,Ishikawa! Pull the trigger already!
@@ -276,7 +276,7 @@ Dialogue: 10,0:26:25.58,0:26:28.30,Default,,0,0,0,,T-They shoved Dragon into the
 Dialogue: 10,0:26:30.41,0:26:37.06,Narrator,,0,0,0,,For Kaito Takeshi, Kanto - especially Tokyo - was a long-cherished dream.
 Dialogue: 10,0:26:37.06,0:26:39.29,Narrator,,0,0,0,,He made it through endless ordeals.
 Dialogue: 10,0:26:39.29,0:26:42.83,Narrator,,0,0,0,,This was the one job he could never accomplish.
-Dialogue: 10,0:26:42.83,0:26:44.00,Narrator,,0,0,0,,Conquer!
+Dialogue: 10,0:26:42.83,0:26:44.00,Narrator,,0,0,0,,To conquer it!
 Dialogue: 10,0:26:44.57,0:26:49.30,Narrator,,0,0,0,,Lord Kaito Takeshi set foot on this land, \Nwhere he would meet his end. {not in manga}
 Dialogue: 10,0:26:51.43,0:26:54.01,Default,,0,0,0,,What is it about Kaito Takeshi?
 Dialogue: 10,0:26:56.68,0:26:59.03,Default,,0,0,0,,Look, aren't you guys gangsters and all?
@@ -322,16 +322,17 @@ Dialogue: 10,0:30:46.61,0:30:48.94,Default,,0,0,0,,"Small fry." \N"In this for m
 Dialogue: 10,0:30:52.01,0:30:56.34,Default,,0,0,0,,You easterners sure love to speak in some incomprehensible phrases.
 Dialogue: 10,0:31:04.51,0:31:06.03,Thought,,0,0,0,,Ishikawa...
 Dialogue: 10,0:31:06.69,0:31:07.53,Thought,,0,0,0,,Ishikawa!
-Dialogue: 10,0:31:08.20,0:31:12.27,Default,,0,0,0,,I need to ask for a favor. \NPlease save Motomiya!
-Dialogue: 10,0:31:13.02,0:31:16.02,Default,,0,0,0,,He came to see me last night, \Nand now he went to his death.
-Dialogue: 10,0:31:16.02,0:31:19.03,Default,,0,0,0,,He apologized to everyone before dying.
-Dialogue: 10,0:31:19.03,0:31:20.84,Default,,0,0,0,,Please, Ishikawa!
-Dialogue: 10,0:31:20.84,0:31:22.71,Default,,0,0,0,,Why does it have to be this way?
-Dialogue: 10,0:31:22.71,0:31:26.75,Default,,0,0,0,,You and Motomiya were as close as brothers, weren't you?
-Dialogue: 10,0:31:26.75,0:31:29.35,Default,,0,0,0,,Is this what it means to lead a gangster life?
-Dialogue: 10,0:31:29.35,0:31:31.57,Default,,0,0,0,,Does it really have to be that extreme?!
-Dialogue: 10,0:31:31.57,0:31:33.14,Default,,0,0,0,,Ishikawa...
+Dialogue: 10,0:31:08.20,0:31:12.27,Thought,,0,0,0,,I need to ask for a favor. \NPlease save Motomiya!
+Dialogue: 10,0:31:13.02,0:31:16.02,Thought,,0,0,0,,He came to see me last night, \Nand now he went to his death.
+Dialogue: 10,0:31:16.02,0:31:19.03,Thought,,0,0,0,,He apologized to everyone before dying.
+Dialogue: 10,0:31:19.03,0:31:20.84,Thought,,0,0,0,,Please, Ishikawa!
+Dialogue: 10,0:31:20.84,0:31:22.71,Thought,,0,0,0,,Why does it have to be this way?
+Dialogue: 10,0:31:22.71,0:31:26.75,Thought,,0,0,0,,You and Motomiya were as close as brothers, weren't you?
+Dialogue: 10,0:31:26.75,0:31:29.35,Thought,,0,0,0,,Is this what it means to lead a gangster life?
+Dialogue: 10,0:31:29.35,0:31:31.57,Thought,,0,0,0,,Does it really have to be that extreme?!
+Dialogue: 10,0:31:31.57,0:31:33.14,Thought,,0,0,0,,Ishikawa...
 Dialogue: 10,0:31:41.30,0:31:43.90,Thought,,0,0,0,,I can't afford to lose Motomiya.
+Dialogue: 0,0:31:58.42,0:31:59.00,Default,,0,0,0,,Tsumo
 Dialogue: 10,0:32:03.58,0:32:05.11,Narrator,,0,0,0,,At that time,
 Dialogue: 10,0:32:05.11,0:32:08.01,Narrator,,0,0,0,,Motomiya had long been laughing to himself, standing behind Dragon.
 Dialogue: 10,0:32:10.56,0:32:14.48,Default,,0,0,0,,First: Chivalry is about respecting justice. {that other otoko again}
