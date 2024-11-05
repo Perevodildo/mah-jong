@@ -16,9 +16,10 @@ Video File: naki.no.ryuu..take1.VFR.mkv
 Keyframes File: naki.no.ryuu..take1.VFR_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 549
-Active Line: 568
-Video Position: 1298
+Video Zoom Percent: 1.375000
+Scroll Position: 532
+Active Line: 541
+Video Position: 62668
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,9 +68,9 @@ Dialogue: 0,0:02:30.83,0:02:34.52,Default,,0,0,0,,You fool! A cheap trick like t
 Dialogue: 0,0:02:35.86,0:02:39.01,Default,,0,0,0,,Calling Dragon, I was looking for you.
 Dialogue: 0,0:02:39.52,0:02:44.03,Default,,0,0,0,,For me? Let go of his hand and maybe I'll hear you out.
 Dialogue: 0,0:02:50.97,0:02:52.16,Default,,0,0,0,,Ron.
-Dialogue: 0,0:02:56.98,0:03:00.13,Default,,0,0,0,,You said that you hate the yakuza.
+Dialogue: 0,0:02:56.98,0:03:00.13,Default,,0,0,0,,You said that you hate the Yakuza.
 Dialogue: 0,0:03:00.13,0:03:04.76,Default,,0,0,0,,But being a pro gambler is even worse.
-Dialogue: 0,0:03:04.76,0:03:07.38,Default,,0,0,0,,The yakuza don't deceive other yakuza.
+Dialogue: 0,0:03:04.76,0:03:07.38,Default,,0,0,0,,The Yakuza don't deceive other Yakuza.
 Dialogue: 0,0:03:07.38,0:03:10.09,Default,,0,0,0,,But for gamblers like you, it's a way of life.
 Dialogue: 0,0:03:10.09,0:03:12.20,Default,,0,0,0,,They're lower than dirt!
 Dialogue: 0,0:03:12.20,0:03:16.46,Default,,0,0,0,,Well, maybe once you're in front of the president, you'll learn to stay in line.
@@ -108,12 +109,12 @@ Dialogue: 0,0:06:00.97,0:06:04.25,Default,,0,0,0,,You'd better watch out. \NNext
 Dialogue: 0,0:06:18.82,0:06:19.48,Default,,0,0,0,,Tsumo.
 Dialogue: 0,0:06:20.83,0:06:22.91,Default,,0,0,0,,Tanyao Iipeikou.
 Dialogue: 0,0:06:22.91,0:06:24.69,Default,,0,0,0,,2,000 all.
-Dialogue: 0,0:06:27.87,0:06:30.22,Default,,0,0,0,,Aren't you supposed to be a yakuza? {I copied this dialogue from manga so many times I can now tell it by heart}
+Dialogue: 0,0:06:27.87,0:06:30.22,Default,,0,0,0,,Aren't you supposed to be a Yakuza? {I copied this dialogue from manga so many times I can now tell it by heart}
 Dialogue: 0,0:06:30.22,0:06:34.16,Default,,0,0,0,,Hm? What did you just say, young man?
-Dialogue: 0,0:06:35.36,0:06:39.08,Default,,0,0,0,,Isn't it considered shameful for yakuza to deceive others?
+Dialogue: 0,0:06:35.36,0:06:39.08,Default,,0,0,0,,Isn't it considered shameful for Yakuza to deceive others?
 Dialogue: 0,0:06:40.01,0:06:42.75,Default,,0,0,0,,Why don't you take those sunglasses off?
 Dialogue: 0,0:06:44.27,0:06:46.41,Default,,0,0,0,,Looks like the fun and games are over, Shozo.
-Dialogue: 0,0:06:47.44,0:06:52.48,Default,,0,0,0,,Guess I'm losing my knack. To think I'd be caught by a kid,of all people...
+Dialogue: 0,0:06:47.44,0:06:52.48,Default,,0,0,0,,Guess I'm losing my knack. To think I'd be caught by a kid, of all people...
 Dialogue: 0,0:06:52.48,0:06:55.15,Default,,0,0,0,,Hey, not bad, kid.
 Dialogue: 0,0:06:55.72,0:06:56.35,Default,,0,0,0,,Now...
 Dialogue: 0,0:06:57.03,0:07:00.49,Default,,0,0,0,,It looks like Murota didn't even notice.
@@ -140,25 +141,25 @@ Dialogue: 0,0:08:19.40,0:08:24.10,Sign,,0,0,0,,Gangster Blood Feud {暴力団 �
 Dialogue: 0,0:08:24.10,0:08:29.80,Sign,,0,0,0,,Sakurado (Influential Gang) Mobilizes {guess; 桜道会全面\N広域暴力団}
 Dialogue: 0,0:08:24.95,0:08:26.87,Narrator,,0,0,0,,A member of the Shimazu Syndicate,
 Dialogue: 0,0:08:26.87,0:08:29.81,Narrator,,0,0,0,,a part of the Oudou-affiliated Kai Group, was stabbed to death.
-Dialogue: 0,0:08:29.81,0:08:35.00,Sign,,0,0,0,,Miyoshi Family suspect Morita (22) {美好一家 森田容疑者(22)}
-Dialogue: 0,0:08:29.82,0:08:35.64,Narrator,,0,0,0,,The assailant was M from the Miyoshi Family, a rival of the Oudou Syndicate.
+Dialogue: 0,0:08:29.81,0:08:35.00,Sign,,0,0,0,,Miyoshi family suspect Morita (22) {美好一家 森田容疑者(22)}
+Dialogue: 0,0:08:29.82,0:08:35.64,Narrator,,0,0,0,,The assailant was M from the Miyoshi family, a rival of the Oudou Syndicate.
 Dialogue: 0,0:08:35.00,0:08:37.80,Sign,,0,0,0,,Gang member Morita brutally murdered on the street! {森田組員路上にて惨殺!の}
 Dialogue: 0,0:08:35.64,0:08:37.86,Narrator,,0,0,0,,It goes without saying that the Oudou Syndicate
 Dialogue: 0,0:08:37.86,0:08:40.80,Sign,,0,0,0,,Retaliation by the Sakurado-affiliated Kai Family?! {桜道会系甲斐組の報復}
-Dialogue: 0,0:08:37.95,0:08:41.23,Narrator,,0,0,0,,immediately enacted retaliatory measures against the Miyoshi Family.
-Dialogue: 0,0:08:40.80,0:08:43.80,Sign,,0,0,0,,Miyoshi Family executive Takada (38) \Nshot dead at his mistress's house!!! {美好一家高田幹部(38)\N愛人宅にて射殺!!!}
+Dialogue: 0,0:08:37.95,0:08:41.23,Narrator,,0,0,0,,immediately enacted retaliatory measures against the Miyoshi family.
+Dialogue: 0,0:08:40.80,0:08:43.80,Sign,,0,0,0,,Miyoshi family executive Takada (38) \Nshot dead at his mistress's house!!! {美好一家高田幹部(38)\N愛人宅にて射殺!!!}
 Dialogue: 0,0:08:41.87,0:08:45.66,Narrator,,0,0,0,,The Oudou Syndicate boasts of having forces throughout the entire Kanto area.
 Dialogue: 0,0:08:43.80,0:08:46.75,Sign,,0,0,0,,Murder in broad daylight! \NAssistant to the Miyoshi family's lieutenant Ishii (41) shot dead! {白昼殺人!\N美好一家若頭補佐\N石井(41)射殺！}
 Dialogue: 0,0:08:45.66,0:08:49.06,Narrator,,0,0,0,,It is the most widespread crime syndicate in eastern Japan.
-Dialogue: 0,0:08:57.04,0:09:00.53,Default,,0,0,0,,That's what being a yakuza is all about!
+Dialogue: 0,0:08:57.04,0:09:00.53,Default,,0,0,0,,That's what being a Yakuza is all about!
 Dialogue: 0,0:09:00.53,0:09:04.77,Default,,0,0,0,,If someone hits you, you hit them back - several times harder.
 Dialogue: 0,0:09:05.60,0:09:09.39,Default,,0,0,0,,I'm not here to listen to your bragging. \NStop wasting my time.
 Dialogue: 0,0:09:14.79,0:09:20.10,Default,,0,0,0,,I am quite certain that you have it in you - \Nthe thing I'm looking for. That's a big deal.
 Dialogue: 0,0:09:21.20,0:09:23.80,Default,,0,0,0,,You are mine, Dragon.
 Dialogue: 0,0:09:24.43,0:09:27.72,Default,,0,0,0,,Sorry, but I answer to nobody.
 Dialogue: 0,0:09:28.41,0:09:30.21,Default,,0,0,0,,I'm not anyone's property.
-Dialogue: 0,0:09:30.72,0:09:34.39,Default,,0,0,0,,Dragon, I'm carrying the burden of 2000 Oudou and Kai members
-Dialogue: 0,0:09:34.39,0:09:36.13,Default,,0,0,0,,on my back,you know.
+Dialogue: 0,0:09:30.72,0:09:34.39,Default,,0,0,0,,Dragon, I'm carrying the burden of 2,000 Oudou and Kai members
+Dialogue: 0,0:09:34.39,0:09:36.13,Default,,0,0,0,,on my back, you know.
 Dialogue: 0,0:09:37.35,0:09:38.55,Default,,0,0,0,,So?
 Dialogue: 0,0:09:40.11,0:09:45.91,Default,,0,0,0,,Stop making fun of me... \NI need to set a good example for them!
 Dialogue: 0,0:09:50.60,0:09:53.55,Default,,0,0,0,,Shozo, how did that dispute with the Miyoshis turn out?
@@ -199,7 +200,7 @@ Dialogue: 0,0:12:21.48,0:12:24.96,Default,,0,0,0,,Give it to the boss!
 Dialogue: 0,0:12:36.27,0:12:38.05,Default,,0,0,0,,Wh-What was that?! {chapter 5}
 Dialogue: 0,0:12:38.05,0:12:43.48,Default,,0,0,0,,Dragon went with Miyoshi?! \NWhere? Where the fuck are they going?!
 Dialogue: 0,0:12:43.48,0:12:45.95,Sign,,0,0,0,,Mahjong Club Peaceful {I have no idea what the character below is so insert any word here; 麻雀クラブ}
-Dialogue: 0,0:12:46.73,0:12:50.23,Default,,0,0,0,,I run a gambling den for the Miyoshi Family.
+Dialogue: 0,0:12:46.73,0:12:50.23,Default,,0,0,0,,I run a gambling den for the Miyoshi family.
 Dialogue: 0,0:12:50.63,0:12:54.37,Default,,0,0,0,,I've heard the rumors about you, Calling Dragon.
 Dialogue: 0,0:12:54.37,0:12:57.36,Default,,0,0,0,,Apparently you're a pretty good gambler.
 Dialogue: 0,0:12:57.36,0:13:00.56,Default,,0,0,0,,But rumors aren't always true!
@@ -213,11 +214,11 @@ Dialogue: 0,0:13:33.12,0:13:33.99,Default,,0,0,0,,It's ron.
 Dialogue: 0,0:13:39.92,0:13:42.84,Default,,0,0,0,,Urk!\NChinitsu toitoi tanyao...
 Dialogue: 0,0:13:46.90,0:13:49.01,Default,,0,0,0,,So you're Miyoshi-san?
 Dialogue: 0,0:13:49.01,0:13:52.78,Default,,0,0,0,,Looks like the cat was out of the bag from the very start.
-Dialogue: 0,0:13:52.78,0:13:56.43,Default,,0,0,0,,Now I saw it and I believe it.\NYou really are an amazing gambler!
+Dialogue: 0,0:13:52.78,0:13:56.43,Default,,0,0,0,,Now that I've seen it, I believe it.\NYou really are an amazing gambler!
 Dialogue: 0,0:13:56.43,0:13:59.28,Default,,0,0,0,,Don't take this the wrong way, Dragon.
 Dialogue: 0,0:13:59.28,0:14:03.72,Default,,0,0,0,,It just so happens that this parlor is one of the boss's hideouts.
 Dialogue: 0,0:14:03.72,0:14:07.13,Default,,0,0,0,,That's all there is to it.\NDon't get cocky!
-Dialogue: 0,0:14:09.00,0:14:11.53,Default,,0,0,0,,I'm getting used to the yakuza's idea of entertainment.
+Dialogue: 0,0:14:09.00,0:14:11.53,Default,,0,0,0,,I'm getting used to the Yakuza's idea of entertainment.
 Dialogue: 0,0:14:12.02,0:14:13.72,Default,,0,0,0,,Wh-What?
 Dialogue: 0,0:14:18.43,0:14:20.58,Default,,0,0,0,,What was that sound?
 Dialogue: 0,0:14:20.58,0:14:23.35,Default,,0,0,0,,Probably just some punks getting into a fight. {chinpira}
@@ -254,7 +255,7 @@ Dialogue: 0,0:17:01.06,0:17:05.28,Narrator,,0,0,0,,sent a shockwave throughout t
 Dialogue: 0,0:17:06.16,0:17:11.83,Narrator,,0,0,0,,It showed that the Oudou Syndicate was a force to be reckoned with.
 Dialogue: 0,0:17:11.83,0:17:14.00,Narrator,,0,0,0,,But more importantly, it was an exclamation
 Dialogue: 0,0:17:14.00,0:17:18.15,Narrator,,0,0,0,,that put Kai Shouzou's and the Kai Group's names on the map.
-Dialogue: 0,0:17:18.65,0:17:21.96,Narrator,,0,0,0,,Meanwhile, the Miyoshi Family, which had lost its leader,
+Dialogue: 0,0:17:18.65,0:17:21.96,Narrator,,0,0,0,,Meanwhile, the Miyoshi family, which had lost its leader,
 Dialogue: 0,0:17:21.96,0:17:26.58,Narrator,,0,0,0,,was on its last legs. \NTheir destruction was inevitable.
 Dialogue: 0,0:17:27.20,0:17:32.05,Narrator,,0,0,0,,Due to Kai's actions, the conflict came to a tentative end.
 Dialogue: 0,0:17:32.05,0:17:33.48,Narrator,,0,0,0,,However, as time passed,
@@ -262,7 +263,7 @@ Dialogue: 0,0:17:33.48,0:17:38.74,Narrator,,0,0,0,,it felt like unsettling noise
 Dialogue: 0,0:17:44.01,0:17:45.34,Default,,0,0,0,,Hmm...
 Dialogue: 0,0:17:45.34,0:17:46.99,Default,,0,0,0,,Don't think I've seen him. {assuming they're looking for ryuu}
 Dialogue: 0,0:17:46.99,0:17:49.58,Default,,0,0,0,,He's probably never been here before.
-Dialogue: 0,0:17:50.26,0:17:54.59,Default,,0,0,0,,Fuck if I know. We've not been seeing him lately. No, it's the truth!
+Dialogue: 0,0:17:50.26,0:17:54.59,Default,,0,0,0,,Fuck if I know. We've not seen him lately. No, it's the truth!
 Dialogue: 0,0:17:58.11,0:18:02.28,Default,,0,0,0,,I don't know. \NI really know nothing!
 Dialogue: 0,0:18:02.28,0:18:06.58,Default,,0,0,0,,When I woke up this morning, he was already gone. That's all I know.
 Dialogue: 0,0:18:07.43,0:18:11.79,Default,,0,0,0,,I should be the one asking you. \NWhere is he?
@@ -286,7 +287,7 @@ Dialogue: 0,0:19:18.81,0:19:21.61,Default,,0,0,0,,I've got no idea either, \Nand
 Dialogue: 0,0:19:21.61,0:19:24.84,Default,,0,0,0,,And it seems like the Oudou Gangs are always on his tail.
 Dialogue: 0,0:19:25.74,0:19:27.02,Default,,0,0,0,,Oudou Gangs?
 Dialogue: 0,0:19:27.02,0:19:30.57,Default,,0,0,0,,Listen up! You absolutely cannot lose!
-Dialogue: 0,0:19:30.57,0:19:32.98,Default,,0,0,0,,Underestimating the yakuza is a way to get yourself killed!
+Dialogue: 0,0:19:30.57,0:19:32.98,Default,,0,0,0,,Underestimating the Yakuza is a surefire way to die!
 Dialogue: 0,0:19:36.16,0:19:39.36,Default,,0,0,0,,What's wrong? \NYour hands are shaking.
 Dialogue: 0,0:19:39.36,0:19:40.88,Default,,0,0,0,,Shut it!
 Dialogue: 0,0:19:43.65,0:19:44.82,Default,,0,0,0,,Kan.
@@ -298,7 +299,7 @@ Dialogue: 0,0:20:05.93,0:20:07.24,Default,,0,0,0,,Pon!
 Dialogue: 0,0:20:09.02,0:20:12.35,Default,,0,0,0,,What a pity, all 4 are visible. {talking about the 1-sou}
 Dialogue: 0,0:20:13.18,0:20:15.37,Default,,0,0,0,,That means it's not a sanshoku.
 Dialogue: 0,0:20:15.37,0:20:18.65,Default,,0,0,0,,Not an itsuu either, so it's either a chun or a hatsu.
-Dialogue: 0,0:20:20.70,0:20:23.56,Default,,0,0,0,,You're Calling dragon, aren't you?
+Dialogue: 0,0:20:20.70,0:20:23.56,Default,,0,0,0,,You're Calling Dragon, aren't you?
 Dialogue: 0,0:20:23.56,0:20:26.05,Default,,0,0,0,,Why did you come to this backwater den?
 Dialogue: 0,0:20:26.05,0:20:30.07,Default,,0,0,0,,You're not gonna find anything worth your while out here.
 Dialogue: 0,0:20:30.76,0:20:31.27,Default,,0,0,0,,Kan.
@@ -306,12 +307,12 @@ Dialogue: 0,0:20:34.41,0:20:35.89,Default,,0,0,0,,I just felt like it.
 Dialogue: 0,0:20:44.01,0:20:47.57,Default,,0,0,0,,Calling Dragon, can I ask you one more thing?
 Dialogue: 0,0:20:47.57,0:20:50.19,Default,,0,0,0,,Why haven't you called before?
 Dialogue: 0,0:20:50.19,0:20:51.69,Default,,0,0,0,,If the rumor's right...
-Dialogue: 0,0:20:51.69,0:20:53.76,Default,,0,0,0,,D-Did you say Calling dragon?
+Dialogue: 0,0:20:51.69,0:20:53.76,Default,,0,0,0,,D-Did you say Calling Dragon?
 Dialogue: 0,0:20:54.12,0:20:57.73,Default,,0,0,0,,I-It can't be true! \NProve it!
 Dialogue: 0,0:20:57.73,0:20:59.25,Default,,0,0,0,,Riichi!
 Dialogue: 0,0:21:00.08,0:21:01.02,Default,,0,0,0,,Kan.
 Dialogue: 0,0:21:02.90,0:21:07.28,Default,,0,0,0,,I feel like my life grows shorter every time I call.
-Dialogue: 0,0:21:08.63,0:21:11.74,Default,,0,0,0,,Just one call should enough against you guys.
+Dialogue: 0,0:21:08.63,0:21:11.74,Default,,0,0,0,,Just one call should be enough against you guys.
 Dialogue: 0,0:21:11.74,0:21:13.49,Default,,0,0,0,,Sanankou!
 Dialogue: 0,0:21:15.30,0:21:18.10,Default,,0,0,0,,Sanankou, and Sankantsu!
 Dialogue: 0,0:21:31.54,0:21:35.61,Narrator,,0,0,0,,On that day, Dragon glided deftly through the silence.
@@ -341,7 +342,7 @@ Dialogue: 0,0:23:24.98,0:23:29.75,Default,,0,0,0,,He's going to keep fighting un
 Dialogue: 0,0:23:29.75,0:23:34.88,Default,,0,0,0,,Because that is his destiny. \NThat's just how Dragon is.
 Dialogue: 0,0:23:43.23,0:23:46.23,Default,,0,0,0,,Dragon... \NYou're late.
 Dialogue: 0,0:23:47.50,0:23:50.65,Default,,0,0,0,,The passage of time \Nmeans nothing to me.
-Dialogue: 0,0:23:51.87,0:23:56.56,Narrator,,0,0,0,,The first round began under the most strange of circumstances.
+Dialogue: 0,0:23:51.87,0:23:56.56,Narrator,,0,0,0,,The first round began under the strangest of circumstances.
 Dialogue: 0,0:23:56.82,0:23:57.62,Default,,0,0,0,,Pon.
 Dialogue: 0,0:24:00.50,0:24:03.40,Default,,0,0,0,,Dragon, your play-style's been unusually fast.
 Dialogue: 0,0:24:03.40,0:24:05.63,Default,,0,0,0,,Apologies, that's a pon for me.
@@ -362,9 +363,9 @@ Dialogue: 0,0:24:59.49,0:25:00.70,Default,,0,0,0,,Chi.
 Dialogue: 0,0:25:01.48,0:25:02.64,Default,,0,0,0,,Chi.
 Dialogue: 0,0:25:03.28,0:25:04.24,Default,,0,0,0,,Pon.
 Dialogue: 0,0:25:04.64,0:25:05.66,Default,,0,0,0,,Chi.
-Dialogue: 0,0:25:08.24,0:25:10.36,Default,,0,0,0,,Ah, 2,000, 4,000.
-Dialogue: 0,0:25:10.36,0:25:12.62,Default,,0,0,0,,Dragon, you're going to lose today.
-Dialogue: 0,0:25:12.62,0:25:15.07,Default,,0,0,0,,The heavens are on my side!
+Dialogue: 0,0:25:08.24,0:25:10.36,Thought,,0,0,0,,Ah, 2,000, 4,000.
+Dialogue: 0,0:25:10.36,0:25:12.62,Thought,,0,0,0,,Dragon, you're going to lose today.
+Dialogue: 0,0:25:12.62,0:25:15.07,Thought,,0,0,0,,The heavens are on my side!
 Dialogue: 0,0:25:16.07,0:25:19.23,Default,,0,0,0,,Chun, honitsu!
 Dialogue: 0,0:25:19.97,0:25:25.55,Narrator,,0,0,0,,There was no doubt that Kai Shozo had the heavens on his side that night.
 Dialogue: 0,0:25:20.01,0:25:28.41,Sign,,0,0,0,,Mahjong 841
@@ -380,7 +381,7 @@ Dialogue: 0,0:25:51.52,0:25:53.25,Default,,0,0,0,,What's wrong, Dragon?
 Dialogue: 0,0:25:53.25,0:25:54.81,Default,,0,0,0,,Can't decide what to play?
 Dialogue: 0,0:25:54.81,0:25:57.38,Default,,0,0,0,,Or is your hand too messed up? {no idea why he asks that, maybe "is your hand tired"}{falling apart, in shambles, "barabara" (it's normal)}
 Dialogue: 0,0:26:02.38,0:26:03.48,Default,,0,0,0,,Chi.
-Dialogue: 0,0:26:06.72,0:26:08.54,Default,,0,0,0,,A closed 7-pin wait.
+Dialogue: 0,0:26:06.72,0:26:08.54,Thought,,0,0,0,,A closed 7-pin wait.
 Dialogue: 0,0:26:08.54,0:26:12.38,Default,,0,0,0,,Is that chii really a good idea, Dragon?
 Dialogue: 0,0:26:12.38,0:26:17.67,Default,,0,0,0,,You can't win unless you get a haneman direct hit or sanbaiman tsumo.
 Dialogue: 0,0:26:18.31,0:26:21.00,Default,,0,0,0,,I'm not stealing tiles with my calls.
@@ -411,7 +412,7 @@ Dialogue: 0,0:27:45.94,0:27:48.14,Default,,0,0,0,,Not so fast, Dragon kid.
 Dialogue: 0,0:27:49.95,0:27:51.93,Default,,0,0,0,,If there's a shred of humanity left in you,
 Dialogue: 0,0:27:51.93,0:27:55.66,Default,,0,0,0,,how can you leave without even acknowledging Kai's words?
 Dialogue: 0,0:27:56.20,0:28:01.83,Default,,0,0,0,,My poor daughter... Kai's wife, she didn't tell anyone else, but...
-Dialogue: 0,0:28:01.83,0:28:06.38,Default,,0,0,0,,A lead ball was lodged in his lung.
+Dialogue: 0,0:28:01.83,0:28:06.38,Default,,0,0,0,,A lead bullet was lodged in his lung.
 Dialogue: 0,0:28:06.38,0:28:09.88,Default,,0,0,0,,It needs to be taken out as soon as possible!
 Dialogue: 0,0:28:09.88,0:28:14.51,Default,,0,0,0,,However, he only has a fifty-fifty chance of surviving the operation...
 Dialogue: 0,0:28:14.51,0:28:17.93,Default,,0,0,0,,Yet he absolutely refused to undergo the surgery!
@@ -429,7 +430,7 @@ Dialogue: 0,0:29:20.23,0:29:23.12,Default,,0,0,0,,Wh-What did you say? \NChief w
 Dialogue: 0,0:29:23.12,0:29:24.28,Default,,0,0,0,,Why didn't anyone protect him?!
 Dialogue: 0,0:29:24.28,0:29:25.97,Default,,0,0,0,,Where were his bodyguards?!
 Dialogue: 0,0:29:25.97,0:29:30.20,Default,,0,0,0,,Wh-What?! Kai was with him? \NWhat the fuck has he been doing?!
-Dialogue: 0,0:29:33.38,0:29:39.97,Narrator,,0,0,0,,That morning, 36 of the Oudou's upper leaders assembled in secrecy.
+Dialogue: 0,0:29:33.38,0:29:39.97,Narrator,,0,0,0,,That morning, 36 of Oudou's upper leaders assembled in secrecy.
 Dialogue: 0,0:29:39.97,0:29:43.29,Narrator,,0,0,0,,The pressing topic, naturally, was the shooting of the Oudou
 Dialogue: 0,0:29:43.29,0:29:45.51,Narrator,,0,0,0,,Syndicate president the previous night.
 Dialogue: 0,0:29:45.51,0:29:47.61,Narrator,,0,0,0,,The meeting was tumultuous from the very start.
@@ -444,7 +445,7 @@ Dialogue: 0,0:30:11.59,0:30:18.68,Default,,0,0,0,,However! I need to give them p
 Dialogue: 0,0:30:19.85,0:30:23.88,Narrator,,0,0,0,,With those words from Kai, \Nthe meeting was adjourned.
 Dialogue: 0,0:30:30.23,0:30:31.78,Narrator,,0,0,0,,One week later,
 Dialogue: 0,0:30:31.78,0:30:35.25,Narrator,,0,0,0,,a man's corpse was discovered on Mount Takao, brutally murdered.
-Dialogue: 0,0:30:35.25,0:30:41.51,Narrator,,0,0,0,,The corpse was lidentified as S, 36 years old, a member of the Miyoshi Family.
+Dialogue: 0,0:30:35.25,0:30:41.51,Narrator,,0,0,0,,The corpse was identified as S, 36 years old, a member of the Miyoshi family.
 Dialogue: 0,0:30:41.51,0:30:45.52,Narrator,,0,0,0,,It was confirmed that he was the one who shot the Oudou Syndicate president.
 Dialogue: 0,0:30:50.28,0:30:52.48,Default,,0,0,0,,Whoa, I'll be taking that pon.
 Dialogue: 0,0:30:52.48,0:30:55.22,Default,,0,0,0,,Boy, I hope that didn't affect you. {I hope this call didn't hurt on you}
@@ -457,7 +458,7 @@ Dialogue: 0,0:31:14.72,0:31:15.72,Default,,0,0,0,,You...
 Dialogue: 0,0:31:15.72,0:31:18.21,Default,,0,0,0,,Huh? Are you talking to me?
 Dialogue: 0,0:31:20.38,0:31:22.40,Default,,0,0,0,,You're not in this for much longer. {lit: your back is sooty - I don't understand the metaphor, but essentially it's ryuu's way of saying "you've already lost"; https://manba.co.jp/topics/21894}
 Dialogue: 0,0:31:22.40,0:31:22.77,Default,,0,0,0,,Pon.
-Dialogue: 0,0:31:24.88,0:31:29.28,Default,,0,0,0,,Look, kid, I don't understand what this whole "in this for longer" means.
+Dialogue: 0,0:31:24.88,0:31:29.28,Default,,0,0,0,,Look, kid, I don't understand what this whole "in this for much longer" means.
 Dialogue: 0,0:31:29.28,0:31:31.78,Default,,0,0,0,,But if you keep talking shit, you're in for a world of hurt!
 Dialogue: 0,0:31:32.46,0:31:34.91,Default,,0,0,0,,With it, the Sankantsu is done.
 Dialogue: 0,0:31:35.38,0:31:37.88,Default,,0,0,0,,Huh? What'd you just say, kid?
@@ -467,7 +468,7 @@ Dialogue: 0,0:31:40.68,0:31:42.79,Default,,0,0,0,,You fucker, didn't ya just pon
 Dialogue: 0,0:31:50.21,0:31:51.68,Default,,0,0,0,,Please stop!
 Dialogue: 0,0:31:51.68,0:31:52.77,Default,,0,0,0,,Please!
 Dialogue: 0,0:31:52.77,0:31:54.88,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:32:02.62,0:32:06.97,Narrator,,0,0,0,,The Kai Group,over 2500 members strong, including the low-ranking ones,
+Dialogue: 0,0:32:02.62,0:32:06.97,Narrator,,0,0,0,,The Kai Group, over 2,500 members strong, including the low-ranking ones,
 Dialogue: 0,0:32:06.97,0:32:11.30,Narrator,,0,0,0,,began a massacre under Kai Shozo's command.
 Dialogue: 0,0:32:11.30,0:32:15.75,Default,,0,0,0,,Listen up! We're gonna kill every last one of those Miyoshi bastards!
 Dialogue: 0,0:32:17.26,0:32:20.93,Default,,0,0,0,,A dora pon, not bad, buddy.
@@ -484,16 +485,16 @@ Dialogue: 0,0:32:51.41,0:32:54.32,Default,,0,0,0,,What the fuck were those disca
 Dialogue: 0,0:33:01.53,0:33:04.23,Default,,0,0,0,,I went this far so that the president
 Dialogue: 0,0:33:04.23,0:33:07.36,Default,,0,0,0,,would become the greatest boss in the whole country!
 Dialogue: 0,0:33:07.36,0:33:11.35,Default,,0,0,0,,What am I supposed to do, if... \NIf he's gone?
-Dialogue: 0,0:33:11.35,0:33:13.76,Default,,0,0,0,,What have i been living for this whole time?!
+Dialogue: 0,0:33:11.35,0:33:13.76,Default,,0,0,0,,What have I been living for this whole time?!
 Dialogue: 0,0:33:13.76,0:33:18.02,Default,,0,0,0,,Please!\NDon't let him die!
 Dialogue: 0,0:33:18.02,0:33:21.68,Default,,0,0,0,,I'd give my own life many times over!
 Dialogue: 0,0:33:21.68,0:33:26.62,Default,,0,0,0,,Just don't let the old man die now!\NI'm begging you!
 Dialogue: 0,0:33:27.33,0:33:33.02,Narrator,,0,0,0,,For the first time, Dragon felt a certain kinship with Kai's soul. {"felt like he could truly understand Kai" in manga but I think they misunderstood it because later they say that kai lives in ryuu and at this moment kai is dying so I think it's closer to "he felt kai's soul moving into his body"}
 Dialogue: 0,0:33:33.50,0:33:35.13,Default,,0,0,0,,Mr. Toimen.
 Dialogue: 0,0:33:35.13,0:33:38.83,Default,,0,0,0,,Earlier, you said that I'm not in this for much longer, isn't that right?
-Dialogue: 0,0:33:38.83,0:33:41.76,Default,,0,0,0,,I'd really appreciate it if you explained what the fuck it meant!
+Dialogue: 0,0:33:38.83,0:33:41.76,Default,,0,0,0,,I'd really appreciate it if you explained what the fuck that meant!
 Dialogue: 0,0:33:45.26,0:33:48.66,Default,,0,0,0,,You don't carry the burden of even a single person on your back.
-Dialogue: 0,0:33:52.02,0:33:54.30,Default,,0,0,0,,Stop pretending to be a yakuza.
+Dialogue: 0,0:33:52.02,0:33:54.30,Default,,0,0,0,,Stop pretending to be a Yakuza.
 Dialogue: 0,0:33:55.56,0:33:59.44,Narrator,,0,0,0,,Perhaps the true meaning of this phrase could only be revealed
 Dialogue: 0,0:33:59.44,0:34:01.99,Narrator,,0,0,0,,to those who follow the path of destruction.
 Dialogue: 0,0:34:03.36,0:34:04.00,Default,,0,0,0,,Ron.
@@ -527,7 +528,7 @@ Dialogue: 0,0:36:32.68,0:36:35.25,Default,,0,0,0,,You guys wait here.
 Dialogue: 0,0:36:35.61,0:36:38.68,Narrator,,0,0,0,,Namely, that important expectation
 Dialogue: 0,0:36:38.68,0:36:44.17,Narrator,,0,0,0,,had been the last wish of his predecessor Kai Shozo, bequeathed to him.
 Dialogue: 0,0:36:44.73,0:36:48.88,Default,,0,0,0,,Nice work,everyone.\NHow about you let me in?
-Dialogue: 0,0:36:48.88,0:36:52.24,Default,,0,0,0,,With all due respect, sir, this room is for Kawachi Family members only.
+Dialogue: 0,0:36:48.88,0:36:52.24,Default,,0,0,0,,With all due respect, sir, this room is for Kawachi family members only.
 Dialogue: 0,0:36:52.24,0:36:54.72,Default,,0,0,0,,No one is allowed inside without the boss's permission.
 Dialogue: 0,0:36:54.72,0:36:58.03,Default,,0,0,0,,Oh, really? I didn't know that.
 Dialogue: 0,0:36:58.03,0:37:03.50,Default,,0,0,0,,I am Ishikawa, second boss of the Kai Group! Will you still not let me in?
@@ -547,9 +548,9 @@ Dialogue: 0,0:38:13.22,0:38:17.32,Default,,0,0,0,,When others get to tenpai, you
 Dialogue: 0,0:38:17.32,0:38:19.41,Default,,0,0,0,,You could've held that 5-sou.
 Dialogue: 0,0:38:19.41,0:38:24.02,Default,,0,0,0,,but why did you discard that tile from within your hand?
 Dialogue: 0,0:38:24.02,0:38:28.50,Default,,0,0,0,,Weren't you going for pinzu? Let me see it.
-Dialogue: 0,0:38:28.50,0:38:33.21,Default,,0,0,0,,T-This guy, he held onto the 8-sou and broke off his 4-7 wait for a closed 7-sou one.
-Dialogue: 0,0:38:33.21,0:38:34.20,Default,,0,0,0,,How stupid!
-Dialogue: 0,0:38:36.11,0:38:41.06,Default,,0,0,0,,But why did he play that tile for me?
+Dialogue: 0,0:38:28.50,0:38:33.21,Thought,,0,0,0,,T-This guy, he held onto the 8-sou and broke off his 4-7 wait for a closed 7-sou one.
+Dialogue: 0,0:38:33.21,0:38:34.20,Thought,,0,0,0,,How stupid!
+Dialogue: 0,0:38:36.11,0:38:41.06,Thought,,0,0,0,,But why did he play that tile for me?
 Dialogue: 0,0:38:43.54,0:38:46.96,Default,,0,0,0,,Now, now, it's been a while, Boss Kawachi.
 Dialogue: 0,0:38:46.96,0:38:51.17,Default,,0,0,0,,You've been getting pretty full of yourself these days, Ishikawa!
 Dialogue: 0,0:38:51.17,0:38:54.14,Default,,0,0,0,,The president's room is Kawachi territory!
@@ -559,7 +560,7 @@ Dialogue: 0,0:38:59.86,0:39:04.81,Default,,0,0,0,,I was told by the missus herse
 Dialogue: 0,0:39:04.81,0:39:07.08,Default,,0,0,0,,Madam Sakurada told you?
 Dialogue: 0,0:39:08.46,0:39:12.71,Default,,0,0,0,,Well, fine. Have a seat, Ishikawa.\NOr should I say "new Kai boss?"
 Dialogue: 0,0:39:12.71,0:39:15.30,Default,,0,0,0,,You've received quite the promotion!
-Dialogue: 0,0:39:15.30,0:39:17.73,Default,,0,0,0,,now listen up,greenhorn.
+Dialogue: 0,0:39:15.30,0:39:17.73,Default,,0,0,0,,now listen up, greenhorn.
 Dialogue: 0,0:39:17.73,0:39:21.80,Default,,0,0,0,,I don't know what Madam Sakurada told you, but the only ones who can see the president
 Dialogue: 0,0:39:21.80,0:39:23.68,Default,,0,0,0,,are his closest officials.
 Dialogue: 0,0:39:23.68,0:39:28.80,Default,,0,0,0,,Well, I guess that can't be helped. It was decided at the executive meeting, after all.
@@ -570,13 +571,13 @@ Dialogue: 0,0:39:39.07,0:39:41.08,Default,,0,0,0,,Don't take it personally.
 Dialogue: 0,0:39:41.08,0:39:46.52,Default,,0,0,0,,Get it, Ishikawa? You'll just have to work your way up as the new Kai boss, bit by bit...
 Dialogue: 0,0:39:46.52,0:39:48.26,Default,,0,0,0,,I understand...
 Dialogue: 0,0:39:48.26,0:39:52.59,Default,,0,0,0,,I understand, but I'm not backing down!
-Dialogue: 0,0:39:52.59,0:39:56.63,Default,,0,0,0,,In fact, I came here today in order to share sake with boss.
-Dialogue: 0,0:39:56.63,0:40:00.95,Default,,0,0,0,,Until I share a drink with him, i won't move a single step from this spot!
+Dialogue: 0,0:39:52.59,0:39:56.63,Default,,0,0,0,,In fact, I came here today in order to share sake with the boss.
+Dialogue: 0,0:39:56.63,0:40:00.95,Default,,0,0,0,,Until I share a drink with him, I won't move a single step from this spot!
 Dialogue: 0,0:40:00.95,0:40:04.37,Default,,0,0,0,,I-Ishikawa, what the...
 Dialogue: 0,0:40:05.83,0:40:09.14,Narrator,,0,0,0,,Later, Kawachi's close associates revealed that at that time,
-Dialogue: 0,0:40:09.14,0:40:13.65,Narrator,,0,0,0,,Ishikawa stood before Kawachi's, looking as fierce as the yaksha tattooed on his back!
+Dialogue: 0,0:40:09.14,0:40:13.65,Narrator,,0,0,0,,Ishikawa stood before them, looking as fierce as the yaksha tattooed on his back!
 Dialogue: 0,0:40:19.09,0:40:23.70,Thought,,0,0,0,,This guy is definitely going for a souzu hand, from those discards.
-Dialogue: 0,0:40:24.23,0:40:26.58,Thought,,0,0,0,,He's a man who'd hold onto the 5-pin the entire match. 
+Dialogue: 0,0:40:24.23,0:40:26.58,Thought,,0,0,0,,He's a man who'd hold onto the 5-pin the entire match.
 Dialogue: 0,0:40:26.58,0:40:29.61,Thought,,0,0,0,,He'd play everything except souzu.
 Dialogue: 0,0:40:29.61,0:40:32.78,Thought,,0,0,0,,Alright, let's make these souzu shine!
 Dialogue: 0,0:40:40.53,0:40:43.52,Thought,,0,0,0,,I knew it, I knew it!
@@ -608,6 +609,6 @@ Dialogue: 0,0:42:11.36,0:42:13.96,Narrator,,0,0,0,,It was Kai Shozo himself who 
 Dialogue: 0,0:42:14.48,0:42:19.20,Narrator,,0,0,0,,And now, Dragon once again renewed his search for life-or-death gambles.
 Dialogue: 0,0:42:19.20,0:42:22.44,Narrator,,0,0,0,,In the end, it truly was just in his blood.
 Dialogue: 0,0:42:22.44,0:42:25.95,Narrator,,0,0,0,,It was his destiny and he couldn't change it in a thousand years.
-Dialogue: 0,0:42:30.16,0:42:36.21,Default,,0,0,0,,Until i share sake with him, I won't move from this spot!
+Dialogue: 0,0:42:30.16,0:42:36.21,Default,,0,0,0,,Until I share sake with him, I won't move from this spot!
 Dialogue: 0,0:42:36.21,0:42:41.84,Narrator,,0,0,0,,Kai Shozo had left one last person for Dragon: Ishikawa Takashi.
 Dialogue: 0,0:42:43.97,0:42:49.93,Narrator,,0,0,0,,It was then that the battle to decide their fates truly began.
