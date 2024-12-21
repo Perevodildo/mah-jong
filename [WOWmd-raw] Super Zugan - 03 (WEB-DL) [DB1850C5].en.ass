@@ -17,9 +17,9 @@ Keyframes File: zugan keyframes/zugan03_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.250000
-Scroll Position: 338
-Active Line: 344
-Video Position: 30849
+Scroll Position: 335
+Active Line: 342
+Video Position: 30731
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -374,8 +374,8 @@ Dialogue: 10,0:20:56.65,0:20:58.56,Default,,0,0,0,,T-There's no way...
 Dialogue: 10,0:21:02.87,0:21:05.28,Default,,0,0,0,,Stupid Toyotomi-kun!
 Dialogue: 10,0:21:05.28,0:21:09.75,Default,,0,0,0,,Super Zugan!
 Dialogue: 10,0:21:12.00,0:21:16.25,Default,,0,0,0,,It seems I'm way luckier than Toyotomi-kun.
-Dialogue: 10,0:21:16.25,0:21:20.09,Default,,0,0,0,,I guess I should also try to play mahjong more often now?
-Dialogue: 10,0:21:20.09,0:21:22.99,Default,,0,0,0,,Huh? Oh no, I have to move! {no clue what she means, will try to remember to check again after the next episode}
+Dialogue: 10,0:21:16.25,0:21:20.09,Default,,0,0,0,,I guess I should also try playin' mahjong more often?
+Dialogue: 10,0:21:20.09,0:21:22.99,Default,,0,0,0,,Huh? Oh no, the accent spread on me too! {meaning "yasu's chiba accent"}
 Dialogue: 10,0:21:22.99,0:21:25.11,Default,,0,0,0,,Next on Super Zugan:
 Dialogue: 10,0:21:25.11,0:21:27.36,Default,,0,0,0,,Rake Zugan \Nand Akina Once More. {カッパギヅガン / 明菜ふたたび}
 Dialogue: 10,0:21:27.36,0:21:28.81,Default,,0,0,0,,Definitely watch it!
