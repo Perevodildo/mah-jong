@@ -17,9 +17,8 @@ Keyframes File: zugan keyframes/zugan04_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.250000
-Scroll Position: 357
-Active Line: 376
-Video Position: 28649
+Active Line: 6
+Video Position: 1165
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,6 +32,12 @@ Style: Narrator,Rosario,35,&H00FFFFFF,&H000000FF,&H00144253,&H8C000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:08.53,0:00:13.01,Default,,0,0,0,,Toyotomi Hideyoshi, the world's foremost busting out machine. From Chiba Prefecture. {from OG subs, no clue what to make of 天下一のぶっ飛びマシーン }
+Dialogue: 10,0:00:13.01,0:00:17.51,Default,,0,0,0,,Oda Shintaro. A one-hit wonder who is ignorant of theory. From Chiba Prefecture.
+Dialogue: 10,0:00:17.51,0:00:23.02,Default,,0,0,0,,Tokugawa Yasube. An absolute ignoramus who doesn't know when to stop calling. From Chiba. {https://www.weblio.jp/content/%E3%82%BF%E3%82%B3%E9%B3%B4%E3%81%8D - something about calling carelessly ; /with zero knowledge on theory}
+Dialogue: 10,0:00:23.02,0:00:28.52,Default,,0,0,0,,Akechi Koichi. The expert in by-the-book calculative and rational playstyle. From Chiba.
+Dialogue: 10,0:00:28.52,0:00:31.57,Default,,0,0,0,,Hayami Akina. \NTechnically Toyotomi's love interest.
+Dialogue: 10,0:00:31.57,0:00:35.01,Default,,0,0,0,,Born with incredible luck. \NFrom Chiba Prefecture.
 Dialogue: 10,0:00:47.90,0:00:49.63,Default,,0,0,0,,It's from Mom!
 Dialogue: 10,0:00:54.58,0:00:59.14,Thought,,0,0,0,,My dear Hideyuki, \Nare you doing fine?
 Dialogue: 10,0:00:59.14,0:01:05.04,Thought,,0,0,0,,I keep worrying about you every day, \Nas I look up at the autumn sky.
@@ -263,7 +268,7 @@ Dialogue: 10,0:14:33.84,0:14:34.91,Default,,0,0,0,,Riichi!
 Dialogue: 10,0:14:35.29,0:14:36.97,Default,,0,0,0,,Embrace the nonresistance. {無抵抗主義}
 Dialogue: 10,0:14:36.97,0:14:38.34,Default,,0,0,0,,Ippatsu!
 Dialogue: 10,0:14:49.20,0:14:51.20,Default,,0,0,0,,He's coming!
-Dialogue: 10,0:14:51.25,0:15:01.80,Default,,0,0,0,,Long live Gandhi! \NLong live Gandhi! {I hear "the" there, idk why, originally people shouted “Long live Mahatma Gandhi” }
+Dialogue: 10,0:14:51.20,0:15:01.80,Default,,0,0,0,,Long live Zugandhi! \NLong live Zugandhi!
 Dialogue: 10,0:15:01.80,0:15:04.42,Default,,0,0,0,,Toyotomi-kun! Toyotomi-kun!
 Dialogue: 10,0:15:04.42,0:15:05.17,Default,,0,0,0,,Huh?
 Dialogue: 10,0:15:05.17,0:15:06.32,Default,,0,0,0,,Akina-chan!
@@ -379,7 +384,7 @@ Dialogue: 10,0:21:07.00,0:21:08.34,Narrator,,0,0,0,,Thank you for listening.
 Dialogue: 10,0:21:12.17,0:21:16.91,Default,,0,0,0,,The autumn is almost over, \Nso maybe it's time for {mahjong thing, muzu help}
 Dialogue: 10,0:21:16.91,0:21:21.71,Default,,0,0,0,,For you, who had no luck this past year, {mahjong thing}
 Dialogue: 10,0:21:22.28,0:21:24.03,Default,,0,0,0,,Next on Super Zugan:
-Dialogue: 10,0:21:24.03,0:21:27.13,Default,,0,0,0,,You're a Perfect Person \NPart 1 and Part 2. {君は完璧さ}
+Dialogue: 10,0:21:24.03,0:21:27.13,Default,,0,0,0,,You are Perfection \NPart 1 and Part 2. {君は完璧さ}
 Dialogue: 10,0:21:27.13,0:21:28.27,Default,,0,0,0,,Make sure to catch it!
 Dialogue: 10,0:21:28.27,0:21:29.87,Default,,0,0,0,,Don't sleep!
 Comment: 0,0:21:29.87,0:21:31.87,Default,,0,0,0,,
@@ -387,20 +392,20 @@ Dialogue: 0,0:01:56.19,0:02:01.23,Sign,,0,0,0,,{\b1\pos(319.14,105.14)\c&HF1FCFF
 Dialogue: 0,0:02:01.23,0:02:07.98,Sign,,0,0,0,,{\fs15\c&H492B4E&\3c&HF6E6E6&\frz343.6\pos(581.68,315.81)\blur1}Don't walk on the lawn! {芝生に入るな!!}
 Dialogue: 0,0:02:49.02,0:02:51.00,Sign,,0,0,0,,{\c&HF5EDF0&\3c&H9D8863&\fax-0.245645\fscx98.78\fscy104.74\frx-3.0714\fry-9.2781\xbord1.78\ybord1.89\frz11.23\org(404.2,204.05)\pos(423.25,194.77)}Student Cooperative Textbook Store {生協教科書売場}
 Dialogue: 0,0:03:35.08,0:03:37.53,Sign,,0,0,0,,{\fs12\bord1\c&H4A4D68&\3c&HDBF1EE&\frz358.2\pos(575.95,152.47)}University-wide \NMahjong \N{\c&H8A80D8&}Tournament {some characters in the middle but I didn't understand}{全学 縊決起 麻雀大会}
-Dialogue: 0,0:03:37.54,0:03:39.32,Sign,,0,0,0,,{\c&H2B2356&\3c&H8070F6&\fax-0.210921\fscx99.32\fscy80.48\frz25.0451\frx0.4246\fry-47.2879\xbord1.79\ybord1.45\org(277.51,104.34)\pos(280.13,94.28)}Mahjong parlor 
+Dialogue: 0,0:03:37.54,0:03:39.32,Sign,,0,0,0,,{\c&H2B2356&\3c&H8070F6&\fax-0.210921\fscx99.32\fscy80.48\frz25.0451\frx0.4246\fry-47.2879\xbord1.79\ybord1.45\org(277.51,104.34)\pos(280.13,94.28)}Mahjong parlor
 Dialogue: 0,0:03:37.54,0:03:39.32,Sign,,0,0,0,,{\c&H2B2356&\3c&H8070F6&\fax-0.164095\fscx76.61\fscy140.09\frz22.8249\frx18.1657\fry-32.8062\xbord1.38\ybord2.52\org(373.26,208.69)\pos(376.4,173.69)}Spider's \NWeb {雀荘 蜘蛛の巣}
 Dialogue: 0,0:03:52.71,0:03:58.77,Sign,,0,0,0,,{\bord1\blur1\c&H272D45&\3c&HDCE9E6&\b1\move(668,181.78,158.78,180.45,25,5030)}Dora
 Dialogue: 0,0:06:01.30,0:06:05.72,Sign,,0,0,0,,{\fs40\bord0\blur1\b1\c&HF1FAFB&\4c&H958EAA&\xshad-3\blur0.7\4a&H00&}REMATCH {muzu}
 Dialogue: 0,0:09:18.53,0:09:20.06,Sign,,0,0,0,,{\bord1\blur1\c&H1E1918&\3c&H898163&\b1\fs40\move(155.21,97.78,-75.37,95.56,28,1529)}Dora
 Dialogue: 0,0:10:00.12,0:10:03.75,Sign,,0,0,0,,{\fs40\fade(0,100)\bord0\blur1\b1\c&HF1FAFB&\4c&H958EAA&\xshad-3\blur0.7\4a&H00&}All Last
 Dialogue: 0,0:10:21.81,0:10:23.86,Sign,,0,0,0,,{\bord1\blur1\c&H272D45&\3c&HDCE9E6&\b1\move(444.31,282.22,663.13,282.67,603,2021)}Dora
-Dialogue: 0,0:11:06.48,0:11:08.61,Sign,,0,0,0,,{\fs40\bord0\blur1\b1\c&HF1FAFB&\4c&H958EAA&\xshad-3\blur0.7\4a&H00&}Haitei 
-Dialogue: 0,0:11:31.83,0:11:36.80,Sign,,0,0,0,,{\c&H2E1936&\3c&H723E73&\frx14\fry350\frz10.6\pos(324.89,45.56)}Mahjong parlor 
+Dialogue: 0,0:11:06.48,0:11:08.61,Sign,,0,0,0,,{\fs40\bord0\blur1\b1\c&HF1FAFB&\4c&H958EAA&\xshad-3\blur0.7\4a&H00&}Haitei
+Dialogue: 0,0:11:31.83,0:11:36.80,Sign,,0,0,0,,{\c&H2E1936&\3c&H723E73&\frx14\fry350\frz10.6\pos(324.89,45.56)}Mahjong parlor
 Dialogue: 0,0:11:31.83,0:11:36.80,Sign,,0,0,0,,{\c&H2E1936&\3c&H442B46&\fs40\frx14\fry352\frz9.326\pos(392.28,286.23)}Spider's \NWeb {雀荘 蜘蛛の巣}
 Dialogue: 0,0:12:08.34,0:12:12.67,Sign,,0,0,0,,{\fade(800,1000)\c&H363D66&\3c&HF1FFFF&}Toyotomi Noe, Anegasaki City, Chiba Prefecture {don't care so gonna trust the OG subs}
 Dialogue: 0,0:12:20.72,0:12:30.43,Sign,,0,0,0,,{muzu}East 3, West seat, turn 9, 27600 points Tsumo: 5p Dora: 4s
 Dialogue: 0,0:12:30.43,0:12:36.36,Sign,,0,0,0,,Read RB1
-Dialogue: 0,0:12:36.36,0:12:39.82,Sign,,0,0,0,,{\fade(700,0)\c&H7B4F58&\bord1\blur1\frx14\fry16\pos(312.88,170)\3c&HE7F8DF&\frz355.1}Mahjong Parlor 
+Dialogue: 0,0:12:36.36,0:12:39.82,Sign,,0,0,0,,{\fade(700,0)\c&H7B4F58&\bord1\blur1\frx14\fry16\pos(312.88,170)\3c&HE7F8DF&\frz355.1}Mahjong Parlor
 Dialogue: 0,0:12:36.36,0:12:39.82,Sign,,0,0,0,,{\fade(700,0)\c&H605099&\b1\bord1\blur1\3c&HE3F8FD&\pos(309.55,344.89)\org(326.01,317.78)\frz357.5\frx6\fry12}No country for suckers {タコいらず}{liberal}
 Dialogue: 0,0:12:41.82,0:12:46.83,Sign,,0,0,0,,{\c&HE9E0FA&\3c&H9977BA&\b1\blur5\bord5\pos(306.88,110.22)\3a&H00&}Episode 4 Part 2 \N{\fs60}Akina Once More {明菜ふたたび}
 Dialogue: 0,0:13:07.68,0:13:19.65,Sign,,0,0,0,,{\an7\bord1\blur1\fs50\c&HF0F1F5&\3c&HA1BBD8&\fscx70\pos(182.34,46.21)}East 1\N2\N3\N4\N\N\NSouth 1\N2\N3\N4\N20,000 points or less\N10,000 points or more \NA single stick {unsure here, muzucheck} \NBox
