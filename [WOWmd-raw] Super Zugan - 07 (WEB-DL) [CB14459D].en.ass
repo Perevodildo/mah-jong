@@ -17,9 +17,9 @@ Keyframes File: zugan keyframes/zugan07_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.375000
-Scroll Position: 134
-Active Line: 135
-Video Position: 12726
+Scroll Position: 353
+Active Line: 374
+Video Position: 25511
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,12 +74,12 @@ Dialogue: 10,0:03:14.30,0:03:16.26,Default,,0,0,0,,
 Dialogue: 10,0:03:17.15,0:03:19.22,Default,,0,0,0,,He's a genius!
 Dialogue: 10,0:03:22.24,0:03:24.44,Default,,0,0,0,,And that's what happened.
 Dialogue: 10,0:03:24.44,0:03:28.19,Default,,0,0,0,,Hm? So Toyotomi's got an illegitimate child, huh...
-Dialogue: 10,0:03:28.19,0:03:33.11,Default,,0,0,0,,Akina, it's about time ya forgot that rake and be happy with me!
+Dialogue: 10,0:03:28.19,0:03:33.11,Default,,0,0,0,,Akina-chan, it's about time ya forgot that rake and be happy with me!
 Dialogue: 10,0:03:33.11,0:03:34.79,Default,,0,0,0,,Preposterous.
-Dialogue: 10,0:03:34.79,0:03:38.86,Default,,0,0,0,,Do you really think our Toyotomi has what it takes to father an illegitimate child? {no clue}
+Dialogue: 10,0:03:34.79,0:03:38.86,Default,,0,0,0,,Do you really think our Toyotomi-kun has what it takes to father an illegitimate child? {no clue}
 Dialogue: 10,0:03:38.86,0:03:41.53,Default,,0,0,0,,Who knows... Oh, that's ron!
 Dialogue: 10,0:03:42.08,0:03:44.58,Default,,0,0,0,,Riichi ippatsu chinitsu!
-Dialogue: 10,0:03:44.58,0:03:48.04,Default,,0,0,0,,Whatever you say, I bet you're very upset, Akina!
+Dialogue: 10,0:03:44.58,0:03:48.04,Default,,0,0,0,,Whatever you say, I bet you're very upset, Akina-chan!
 Dialogue: 10,0:03:48.04,0:03:50.46,Default,,0,0,0,,Well, speak of the devil.
 Dialogue: 10,0:03:54.42,0:03:57.52,Default,,0,0,0,,Toyotomi, is that baby related to you in any way at all?
 Dialogue: 10,0:03:57.52,0:03:59.32,Default,,0,0,0,,Great question!
@@ -100,7 +100,7 @@ Dialogue: 10,0:04:39.93,0:04:42.34,Default,,0,0,0,,D-Don't say nonsense!
 Dialogue: 10,0:04:42.34,0:04:44.30,Default,,0,0,0,,{3m wait!}
 Dialogue: 10,0:04:44.30,0:04:46.81,Default,,0,0,0,,Oh! A 3m wait!
 Dialogue: 10,0:04:46.81,0:04:52.01,Default,,0,0,0,,Have ya really stooped so low that ya have to rely on that brat?!
-Dialogue: 10,0:04:52.01,0:04:55.79,Default,,0,0,0,,Since you say so, Oda,\Nseems he hit the bull's eye!
+Dialogue: 10,0:04:52.01,0:04:55.79,Default,,0,0,0,,Since you say so, Oda-kun,\Nseems he hit the bull's eye!
 Dialogue: 10,0:04:55.79,0:05:00.78,Default,,0,0,0,,Your voice is a pristine vibrato! \NLook, riichi!
 Dialogue: 10,0:05:00.78,0:05:04.72,Thought,,0,0,0,,That jerk... \NDiscarding the dora...
 Dialogue: 10,0:05:10.66,0:05:12.67,Default,,0,0,0,,Don't you look down on me!
@@ -132,10 +132,10 @@ Dialogue: 10,0:06:43.88,0:06:45.25,Default,,0,0,0,,{probs nothing?}
 Dialogue: 10,0:06:45.25,0:06:48.26,Default,,0,0,0,,Ew, it's all dirty! \NI don't need that shit anymore!
 Dialogue: 10,0:06:49.82,0:06:51.37,Default,,0,0,0,,If you don't call...
 Dialogue: 10,0:06:51.37,0:06:53.88,Default,,0,0,0,,Ippatsu tsumo!
-Dialogue: 10,0:06:54.53,0:06:56.72,Default,,0,0,0,,Impressive, Toyotomi.
+Dialogue: 10,0:06:54.53,0:06:56.72,Default,,0,0,0,,Impressive, Toyotomi-kun.
 Dialogue: 10,0:06:56.72,0:07:00.79,Default,,0,0,0,,You're leveraging the baby's strengths to help you win...
 Dialogue: 10,0:07:00.79,0:07:03.41,Default,,0,0,0,,You two really are a parent and child!
-Dialogue: 10,0:07:03.41,0:07:05.56,Default,,0,0,0,,That's not true, Akina!
+Dialogue: 10,0:07:03.41,0:07:05.56,Default,,0,0,0,,That's not true, Akina-chan!
 Dialogue: 10,0:07:05.56,0:07:08.41,Default,,0,0,0,,No use for excuses, boss.
 Dialogue: 10,0:07:08.41,0:07:11.54,Default,,0,0,0,,Your combination is that \Nof a father and child.
 Dialogue: 10,0:07:11.54,0:07:15.58,Default,,0,0,0,,But what if I severed off that bond?!
@@ -156,14 +156,14 @@ Dialogue: 10,0:08:00.88,0:08:02.84,Default,,0,0,0,,Daisuke!
 Dialogue: 10,0:08:03.50,0:08:05.84,Default,,0,0,0,,Wh-Who are you?
 Dialogue: 10,0:08:05.84,0:08:08.43,Default,,0,0,0,,I'm Daisuke's mother!
 Dialogue: 10,0:08:09.72,0:08:12.80,Default,,0,0,0,,Please give Daisuke back to me!
-Dialogue: 10,0:08:12.80,0:08:14.78,Default,,0,0,0,,Ponta's mom?
+Dialogue: 10,0:08:12.80,0:08:14.78,Default,,0,0,0,,Ponta-kun's mom?
 Dialogue: 10,0:08:14.78,0:08:17.02,Default,,0,0,0,,I don't think we should call him that anymore.
 Dialogue: 10,0:08:17.02,0:08:19.98,Default,,0,0,0,,It's my Daisuke! \NPlease give him back to me!
 Dialogue: 10,0:08:19.98,0:08:23.40,Default,,0,0,0,,He's the Mahjong Prodigy Ponta, not Daisuke!
 Dialogue: 10,0:08:23.40,0:08:29.36,Default,,0,0,0,,I'm sorry. I'll never pose as the delivery service to get rid of him again. Please give Daisuke back!
 Dialogue: 10,0:08:29.36,0:08:31.03,Default,,0,0,0,,Lady's roight, mate!
 Dialogue: 10,0:08:31.03,0:08:35.05,Default,,0,0,0,,Not happening! I'll raise Ponta myself!
-Dialogue: 10,0:08:35.47,0:08:36.99,Default,,0,0,0,,Toyotomi...
+Dialogue: 10,0:08:35.47,0:08:36.99,Default,,0,0,0,,Toyotomi-kun...
 Dialogue: 10,0:08:36.99,0:08:40.32,Default,,0,0,0,,Ponta, Chiita, or whatever, \Nyou gotta give him back!
 Dialogue: 10,0:08:40.32,0:08:42.04,Default,,0,0,0,,No means no!
 Dialogue: 10,0:08:42.04,0:08:46.55,Default,,0,0,0,,All right, I know what to do. \NToyotomi Hideyuki vs Ponta's mother.
@@ -222,7 +222,7 @@ Dialogue: 10,0:12:37.76,0:12:38.78,Default,,0,0,0,,Wait.
 Dialogue: 10,0:12:41.32,0:12:43.02,Default,,0,0,0,,That jerk!
 Dialogue: 10,0:12:43.02,0:12:46.34,Default,,0,0,0,,You'd never think he'd be hiding out in such a place.
 Dialogue: 10,0:12:46.34,0:12:50.29,Default,,0,0,0,,He's trying to outsmart us, huh? \NLike hell we're letting him get away with it. {no clue}
-Dialogue: 10,0:12:55.64,0:12:57.05,Default,,0,0,0,,Toyotomi...
+Dialogue: 10,0:12:55.64,0:12:57.05,Default,,0,0,0,,Toyotomi-kun...
 Dialogue: 10,0:13:00.47,0:13:02.87,Default,,0,0,0,,He's here! He's here! He's here! He's here!
 Dialogue: 10,0:13:02.87,0:13:03.97,Default,,0,0,0,,Hey!
 Dialogue: 10,0:13:04.40,0:13:05.35,Default,,0,0,0,,Wait!
@@ -349,7 +349,7 @@ Dialogue: 10,0:19:14.51,0:19:15.69,Default,,0,0,0,,It's a Ron!
 Dialogue: 10,0:19:15.69,0:19:17.22,Default,,0,0,0,,Ron...
 Dialogue: 10,0:19:20.90,0:19:23.88,Default,,0,0,0,,A resounding roll... {was missing, muzuhelp, "ローリン" in manga}
 Dialogue: 10,0:19:24.76,0:19:26.36,Default,,0,0,0,,Hi!
-Dialogue: 10,0:19:26.87,0:19:31.36,Default,,0,0,0,,Akina, come swap with me! \NThey're the perfect players for you! {入って入って!キミにピッタリの打ち手たちなんだ}
+Dialogue: 10,0:19:26.87,0:19:31.36,Default,,0,0,0,,Akina-chan, come swap with me! \NThey're the perfect players for you! {入って入って!キミにピッタリの打ち手たちなんだ}
 Dialogue: 10,0:19:31.36,0:19:35.34,Default,,0,0,0,,Oh no! You've only got 1300 points left...
 Dialogue: 10,0:19:36.23,0:19:38.56,Default,,0,0,0,,Just you watch, jongputer kid!
 Dialogue: 10,0:19:38.56,0:19:41.24,Default,,0,0,0,,I'll show you the ultimate human jongputer!
@@ -379,8 +379,8 @@ Dialogue: 10,0:20:52.80,0:20:58.75,Narrator,,0,0,0,,There is no telling if the s
 Dialogue: 10,0:20:58.75,0:21:03.88,Narrator,,0,0,0,,Until the day people reclaim the soul of mahjong, hang in there, Akina!
 Dialogue: 10,0:21:03.88,0:21:07.54,Narrator,,0,0,0,,Fight on, Super Zugan Toyotomi!
 Dialogue: 10,0:21:12.29,0:21:16.56,Default,,0,0,0,,This next story is a little hard for me to tell.
-Dialogue: 10,0:21:16.56,0:21:20.57,Default,,0,0,0,,I thought I was doing it for Toyotomi, \Nbut it seems I went a little too far.
-Dialogue: 10,0:21:20.57,0:21:24.18,Default,,0,0,0,,I'm sorry, Toyotomi. \NNext on Super Zugan:
+Dialogue: 10,0:21:16.56,0:21:20.57,Default,,0,0,0,,I thought I was doing it for Toyotomi-kun, \Nbut it seems I went a little too far.
+Dialogue: 10,0:21:20.57,0:21:24.18,Default,,0,0,0,,I'm sorry, Toyotomi-kun. \NNext on Super Zugan:
 Dialogue: 10,0:21:24.18,0:21:26.96,Default,,0,0,0,,Tsumo-Jong to Make You Cry: \NPart 1, Part 2. {泣かせるツモジャン}
 Dialogue: 10,0:21:26.96,0:21:27.85,Default,,0,0,0,,Make sure to watch it!
 Dialogue: 10,0:21:27.85,0:21:29.88,Default,,0,0,0,,You can't sleep!

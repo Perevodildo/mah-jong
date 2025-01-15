@@ -17,9 +17,9 @@ Keyframes File: zugan keyframes/zugan02_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.000000
-Scroll Position: 306
-Active Line: 337
-Video Position: 30501
+Scroll Position: 318
+Active Line: 342
+Video Position: 29442
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,42 +33,12 @@ Style: Narrator,Rosario,35,&H00FFFFFF,&H000000FF,&H00144253,&H8C000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{OPED}
-Dialogue: 0,0:00:00.00,0:00:08.53,Sign,,0,0,0,,{\c&HEEC2D2&\blur0.6\b1\bord0\pos(314.66,21.11)}Article 186 of the Penal Code:
-Dialogue: 0,0:00:00.00,0:00:08.53,Sign,,0,0,0,,{\c&HEEC2D2&\pos(402.51,382.66)\b0\bord0}A person who engages in frequent gambling can be subject to criminal penalties, including imprisonment for up to tree years.
-Dialogue: 0,0:00:35.06,0:00:45.07,Sign,,0,0,0,,{Super Zugan}
-Dialogue: 0,0:23:14.08,0:23:21.92,Sign,,0,0,0,,{\an9\c&HFEFFFF&\bord0\blur0.5\b1\pos(294.28,301.71)}Encoding\NTranslation \NTranslation check & TS \NMahjong translation check
-Dialogue: 0,0:23:14.08,0:23:21.92,Sign,,0,0,0,,{\an7\c&HFEFFFF&\bord0\blur0.5\b1\pos(314.28,301.71)}WOWmd\N/mjg/ \NPerevodildo \NMuzussawa
-Dialogue: 10,0:21:33.06,0:21:36.27,Song,,0,0,0,,Yo! Check out this new style, Super Zugan!
-Dialogue: 10,0:21:36.27,0:21:40.49,Song,,0,0,0,,If you think mahjong ain't happening, \Nget down with the midnight fever Zugan Zugan!
-Dialogue: 10,0:21:40.49,0:21:44.37,Song,,0,0,0,,Zugan! It's time for that point of the eternal!
-Dialogue: 10,0:21:44.37,0:21:48.33,Song,,0,0,0,,The international star of pop, \NMinami Haruo!
-Dialogue: 10,0:21:55.25,0:21:59.92,Song,,0,0,0,,Don't rush, don't fuss, don't panic \NGrab a tile and dream a Sengoku romance {急ぐな騒ぐなあわてるなパイをつかめば\N戦国ロマンの夢が湧く}
-Dialogue: 10,0:21:59.92,0:22:04.47,Song,,0,0,0,,Whatever fortune may bring, call riichi \NDon't stop me, toimen-san {運賦 天賦 とリーチを賭ける\N止めてくれるな正面さん}
-Dialogue: 10,0:22:04.47,0:22:08.01,Song,,0,0,0,,You just got to go Zugan! {ズガーンと行かねばならぬのだ}
-Dialogue: 10,0:22:08.01,0:22:09.97,Song,,0,0,0,,Riichi ippatsu pinfu ittsuu!
-Dialogue: 10,0:22:09.97,0:22:14.73,Song,,0,0,0,,Shimocha and kamicha are both my mahjong buddies \NBut when we're gambling I'll snipe them without mercy {下チャ上チャも 雀仲間 勝負懸けたら\N情け無用の狙いうち}
-Dialogue: 10,0:22:14.73,0:22:17.52,Song,,0,0,0,,Aren't you a great lucky charm to your man? {君はあげ満素敵じゃないか}
-Dialogue: 10,0:22:17.52,0:22:19.36,Song,,0,0,0,,Why don't you tsumo a mangan with me? {僕と満願ツモろうよ}
-Dialogue: 10,0:22:19.36,0:22:23.07,Song,,0,0,0,,With zugan, the happiness is within reach {ズガーンと幸せ掴もうぞ}
-Dialogue: 10,0:22:23.07,0:22:24.95,Song,,0,0,0,,Super Zugan!
-Dialogue: 10,0:22:24.95,0:22:37.75,Song,,0,0,0,,A heart waiting for a yakuman in the dark... \NWill it soar and bloom into cherry blossoms? {闇で役満 待つ心翔んで花見が咲くものか}
-Dialogue: 10,0:22:37.75,0:22:39.71,Song,,0,0,0,,Super Zugan!
-Dialogue: 10,0:22:39.71,0:22:44.38,Song,,0,0,0,,This is the time for a three-sided wait \NLet's go with kanchan, the final battle for a Kokushi Musou! {ここが三面待ちどころ行くぜカンチャン\N国士無双[こくしむそう]の関ヶ原 - kokushimusou is actually a mahjong thing too so needs checking from muzu} {yep, that's about as close I can get}
-Dialogue: 10,0:22:44.38,0:22:47.14,Song,,0,0,0,,Crashing through without even a tsumo payment lost {ツモニモ負けずにやり抜いて}
-Dialogue: 10,0:22:47.14,0:22:48.97,Song,,0,0,0,,The beer tastes the best after winning! {勝って飲み干すビールがうまい}
-Dialogue: 10,0:22:48.97,0:22:52.60,Song,,0,0,0,,Zugan can decide a man's fate! {ズガーンと男は命がけ}
-Dialogue: 10,0:22:52.60,0:22:54.60,Song,,0,0,0,,Super Zugan!
-Dialogue: 10,0:22:56.31,0:22:58.23,Song,,0,0,0,,Super Zugan!
-Dialogue: 10,0:23:00.07,0:23:01.90,Song,,0,0,0,,Super Zugan!
-Dialogue: 10,0:23:01.90,0:23:10.12,Song,,0,0,0,,You just have... You've got to go Zugan! {ズガーンと ズガーンと行かねばならぬのだ}
 Dialogue: 10,0:00:08.53,0:00:13.01,Default,,0,0,0,,Toyotomi Hideyoshi, the world's foremost busting out machine. From Chiba Prefecture. {from OG subs, no clue what to make of 天下一のぶっ飛びマシーン }
 Dialogue: 10,0:00:13.01,0:00:17.51,Default,,0,0,0,,Oda Shintaro. A one-hit wonder who is ignorant of theory. From Chiba Prefecture.
 Dialogue: 10,0:00:17.51,0:00:23.02,Default,,0,0,0,,Tokugawa Yasube. An absolute ignoramus who doesn't know when to stop calling. From Chiba. {https://www.weblio.jp/content/%E3%82%BF%E3%82%B3%E9%B3%B4%E3%81%8D - something about calling carelessly ; /with zero knowledge on theory}
 Dialogue: 10,0:00:23.02,0:00:28.52,Default,,0,0,0,,Akechi Koichi. The expert in by-the-book calculative and rational playstyle. From Chiba.
 Dialogue: 10,0:00:28.52,0:00:31.57,Default,,0,0,0,,Hayami Akina. \NTechnically Toyotomi's love interest.
 Dialogue: 10,0:00:31.57,0:00:34.80,Default,,0,0,0,,Born with incredible luck. \NFrom Chiba Prefecture.
-Comment: 0,0:00:05.19,0:00:07.19,Default,,0,0,0,,{OPED}
 Dialogue: 10,0:00:47.03,0:00:48.53,Default,,0,0,0,,Riichi!
 Dialogue: 10,0:00:50.99,0:00:52.51,Thought,,0,0,0,,Here it comes...
 Dialogue: 10,0:00:57.05,0:00:58.55,Thought,,0,0,0,,I see...
@@ -97,8 +67,8 @@ Dialogue: 10,0:02:10.15,0:02:14.11,Default,,0,0,0,,Ron on takame! Riichi Itsuu\N
 Dialogue: 10,0:02:14.74,0:02:20.09,Default,,0,0,0,,Zugaaaan...
 Dialogue: 10,0:02:24.77,0:02:25.98,Thought,,0,0,0,,Just a dream?
 Dialogue: 10,0:02:55.30,0:02:57.31,Default,,0,0,0,,Yes? Toyotomi here.
-Dialogue: 10,0:02:57.31,0:03:00.44,Default,,0,0,0,,Ah, Toyotomi? \NThis is Hayami.
-Dialogue: 10,0:03:00.44,0:03:01.84,Default,,0,0,0,,Akina?
+Dialogue: 10,0:02:57.31,0:03:00.44,Default,,0,0,0,,Ah, Toyotomi-kun? \NThis is Hayami.
+Dialogue: 10,0:03:00.44,0:03:01.84,Default,,0,0,0,,Akina-chan?
 Dialogue: 10,0:03:01.84,0:03:03.68,Default,,0,0,0,,Truth is, it's my birthday today.
 Dialogue: 10,0:03:03.68,0:03:04.99,Default,,0,0,0,,Huh, is that so?
 Dialogue: 10,0:03:04.99,0:03:07.14,Default,,0,0,0,,So I wanted to ask \Nif you'd like to come today.
@@ -188,12 +158,12 @@ Dialogue: 10,0:07:31.63,0:07:35.49,Thought,,0,0,0,,Judging by the discards, a 9s
 Dialogue: 10,0:07:36.62,0:07:39.25,Thought,,0,0,0,,And as long as it doesn't connect to the dealer,\Nthere's no chances of a gyakuten.
 Dialogue: 10,0:07:41.08,0:07:42.25,Thought,,0,0,0,,I won!
 Dialogue: 10,0:07:42.25,0:07:44.02,Thought,,0,0,0,,With this, the victory is mine!
-Dialogue: 10,0:07:44.02,0:07:46.99,Thought,,0,0,0,,Akina, I'll be with you soon!
-Dialogue: 10,0:07:55.45,0:07:57.96,Default,,0,0,0,,Congratulations, Akina!
-Dialogue: 10,0:07:58.60,0:08:00.75,Default,,0,0,0,,Thank you, Toyotomi.
+Dialogue: 10,0:07:44.02,0:07:46.99,Thought,,0,0,0,,Akina-chan, I'll be with you soon!
+Dialogue: 10,0:07:55.45,0:07:57.96,Default,,0,0,0,,Congratulations, Akina-chan!
+Dialogue: 10,0:07:58.60,0:08:00.75,Default,,0,0,0,,Thank you, Toyotomi-kun.
 Dialogue: 10,0:08:04.06,0:08:06.90,Default,,0,0,0,,Whoa! This stew's delicious!
 Dialogue: 10,0:08:07.30,0:08:09.15,Default,,0,0,0,,The salad's great too!
-Dialogue: 10,0:08:11.36,0:08:13.51,Default,,0,0,0,,What's wrong, Akina?
+Dialogue: 10,0:08:11.36,0:08:13.51,Default,,0,0,0,,What's wrong, Akina-chan?
 Dialogue: 10,0:08:14.45,0:08:18.48,Default,,0,0,0,,I just thought it almost looks like it's your own birthday instead!
 Dialogue: 10,0:08:21.98,0:08:25.10,Default,,0,0,0,,But I'm really glad you came.
 Dialogue: 10,0:08:33.03,0:08:37.36,Default,,0,0,0,,Ron! Riichi Ippatsu South Dora 1, 12000!
@@ -215,7 +185,7 @@ Dialogue: 10,0:09:47.43,0:09:49.00,Default,,0,0,0,,Thanks for the cake!
 Dialogue: 10,0:09:49.00,0:09:51.38,Default,,0,0,0,,Quite a productive day we had, right?
 Dialogue: 10,0:09:50.34,0:09:51.35,Overlap,,0,0,0,,Sure did.
 Dialogue: 10,0:09:56.88,0:09:59.54,Default,,0,0,0,,Zugan...
-Dialogue: 10,0:10:04.68,0:10:06.96,Default,,0,0,0,,Toyotomi sure is late...
+Dialogue: 10,0:10:04.68,0:10:06.96,Default,,0,0,0,,Toyotomi-kun sure is late...
 Dialogue: 10,0:10:25.08,0:10:26.50,Narrator,,0,0,0,,If only...
 Dialogue: 10,0:10:26.50,0:10:32.27,Narrator,,0,0,0,,If only he had left without hurry after eating that cup ramen...
 Dialogue: 10,0:10:32.27,0:10:36.26,Narrator,,0,0,0,,He might have never even \Ncome across that trio.
@@ -254,19 +224,19 @@ Dialogue: 10,0:13:23.36,0:13:24.49,Default,,0,0,0,,Zugan...
 Dialogue: 10,0:13:24.49,0:13:27.45,Default,,0,0,0,,That's nothing! Tsumo! \NHontoutou Chiitoitsu.
 Dialogue: 10,0:13:27.45,0:13:29.38,Default,,0,0,0,,Tsumo! Suuankou!
 Dialogue: 10,0:13:29.38,0:13:33.39,Default,,0,0,0,,Zugan, zugaaan...
-Dialogue: 10,0:13:47.60,0:13:49.45,Default,,0,0,0,,Akina!
-Dialogue: 10,0:13:53.98,0:13:55.84,Default,,0,0,0,,Good morning, Toyotomi!
+Dialogue: 10,0:13:47.60,0:13:49.45,Default,,0,0,0,,Akina-chan!
+Dialogue: 10,0:13:53.98,0:13:55.84,Default,,0,0,0,,Good morning, Toyotomi-kun!
 Dialogue: 10,0:13:56.41,0:13:58.50,Default,,0,0,0,,Sorry I'm late.
 Dialogue: 10,0:13:58.50,0:14:00.74,Default,,0,0,0,,It's probably due to that nightmare I had...
 Dialogue: 10,0:14:01.25,0:14:03.99,Default,,0,0,0,,I mean... No, nevermind! Let's go!
-Dialogue: 10,0:14:07.47,0:14:11.80,Thought,,0,0,0,,Please make it so that things would work out \Nbetween me and Akina someday.
-Dialogue: 10,0:14:11.80,0:14:15.25,Thought,,0,0,0,,Please make it so that Toyotomi \Nstops playing mahjong.
+Dialogue: 10,0:14:07.47,0:14:11.80,Thought,,0,0,0,,Please make it so that things would work out \Nbetween me and Akina-chan someday.
+Dialogue: 10,0:14:11.80,0:14:15.25,Thought,,0,0,0,,Please make it so that Toyotomi-kun \Nstops playing mahjong.
 Dialogue: 10,0:14:19.65,0:14:21.54,Default,,0,0,0,,Hey, let's draw some fortune slips!
 Dialogue: 10,0:14:21.54,0:14:22.34,Default,,0,0,0,,Sure!
 Dialogue: 10,0:14:24.69,0:14:25.96,Default,,0,0,0,,I got 6!
 Dialogue: 10,0:14:25.96,0:14:27.36,Default,,0,0,0,,I got 12.
 Dialogue: 10,0:14:27.85,0:14:30.59,Default,,0,0,0,,Yay! I'm going to be in luck!
-Dialogue: 10,0:14:30.59,0:14:32.23,Default,,0,0,0,,What have you got, Toyotomi?
+Dialogue: 10,0:14:30.59,0:14:32.23,Default,,0,0,0,,What have you got, Toyotomi-kun?
 Dialogue: 10,0:14:35.79,0:14:38.50,Default,,0,0,0,,W-Wanna try drawing another one?
 Dialogue: 10,0:14:38.50,0:14:39.90,Default,,0,0,0,,Yeah. One more!
 Dialogue: 10,0:14:42.86,0:14:44.78,Default,,0,0,0,,O-One more...
@@ -279,14 +249,14 @@ Dialogue: 10,0:15:03.11,0:15:05.09,Default,,0,0,0,,Did it!
 Dialogue: 10,0:15:05.94,0:15:08.39,Default,,0,0,0,,That'll be 5000 yen for all the slips.
 Dialogue: 10,0:15:08.39,0:15:10.56,Default,,0,0,0,,Zugaaaan...
 Dialogue: 10,0:15:11.51,0:15:16.49,Default,,0,0,0,,Still, even if it cost 5,000, you managed to draw a Lesser Luck, so it was worth it, wasn't it?
-Dialogue: 10,0:15:16.99,0:15:20.83,Default,,0,0,0,,I really admire that resilient part of yours, Toyotomi.
+Dialogue: 10,0:15:16.99,0:15:20.83,Default,,0,0,0,,I really admire that resilient part of yours, Toyotomi-kun.
 Dialogue: 10,0:15:19.58,0:15:21.48,Overlap,,0,0,0,,{what}
 Dialogue: 10,0:15:22.38,0:15:24.00,Default,,0,0,0,,Oh? Look!
 Dialogue: 10,0:15:24.00,0:15:26.46,Default,,0,0,0,,They're staging a Noh performance over there. {noh theater performed at night by a fire}
-Dialogue: 10,0:15:38.06,0:15:40.08,Default,,0,0,0,,What's wrong Toyotomi?
+Dialogue: 10,0:15:38.06,0:15:40.08,Default,,0,0,0,,What's wrong Toyotomi-kun?
 Dialogue: 10,0:15:40.08,0:15:41.83,Default,,0,0,0,,Why do you look so scared?
 Dialogue: 10,0:15:46.80,0:15:48.32,Default,,0,0,0,,Zugaaan...
-Dialogue: 10,0:15:50.21,0:15:52.26,Default,,0,0,0,,Toyotomi!
+Dialogue: 10,0:15:50.21,0:15:52.26,Default,,0,0,0,,Toyotomi-kun!
 Dialogue: 10,0:16:02.42,0:16:04.67,Thought,,0,0,0,,Just like in my nightmare... {no clue what he means}
 Dialogue: 10,0:16:05.33,0:16:06.67,Default,,0,0,0,,Oh, Toyotomi!
 Dialogue: 10,0:16:06.67,0:16:09.61,Default,,0,0,0,,Wow, to think we'd meet here!
@@ -325,12 +295,12 @@ Dialogue: 10,0:17:49.08,0:17:50.63,Default,,0,0,0,,Unlucky...
 Dialogue: 10,0:17:51.38,0:17:53.38,Default,,0,0,0,,What a luckless man I am!
 Dialogue: 10,0:17:53.38,0:18:00.20,Default,,0,0,0,,Because I was being so inattentive, I'll never, \Never get to eat steamed buns from hot springs!
 Dialogue: 10,0:18:00.20,0:18:03.06,Default,,0,0,0,,Easy now. These things happen.
-Dialogue: 10,0:18:03.98,0:18:08.42,Thought,,0,0,0,,I really like that resilient part of yours, Toyotomi!
+Dialogue: 10,0:18:03.98,0:18:08.42,Thought,,0,0,0,,I really like that resilient part of yours, Toyotomi-kun!
 Dialogue: 10,0:18:10.33,0:18:12.28,Thought,,0,0,0,,T-That's right!
 Dialogue: 10,0:18:12.28,0:18:15.46,Thought,,0,0,0,,After so many unlucky slips, \NI finally got one one with Lesser Luck.
 Dialogue: 10,0:18:15.46,0:18:20.61,Thought,,0,0,0,,Men of the future need to be more resilient! \NStickier than fermented beans! {I have no idea why it's here but imma assume it makes sense. we see the ひきわり納豆 in the back after all}
 Dialogue: 10,0:18:20.61,0:18:22.93,Thought,,0,0,0,,I’ll keep fighting with the tenacity of a bull! {no clue what he means by 糸を引く}
-Dialogue: 10,0:18:22.93,0:18:25.08,Thought,,0,0,0,,Watch me closely Akina!
+Dialogue: 10,0:18:22.93,0:18:25.08,Thought,,0,0,0,,Watch me closely Akina-chan!
 Dialogue: 10,0:18:26.92,0:18:28.13,Thought,,0,0,0,,Did it!
 Dialogue: 10,0:18:28.85,0:18:31.23,Thought,,0,0,0,,Suuankou Tenpai.
 Dialogue: 10,0:18:31.73,0:18:35.07,Thought,,0,0,0,,Hmm... I'll wait on it on the chun.
@@ -360,7 +330,7 @@ Dialogue: 10,0:20:18.76,0:20:21.30,Default,,0,0,0,,32000 here.
 Dialogue: 10,0:20:21.30,0:20:22.97,Default,,0,0,0,,I'm 80000.
 Dialogue: 10,0:20:22.97,0:20:24.57,Default,,0,0,0,,Keep a tab of it, will you?
 Dialogue: 10,0:20:24.57,0:20:26.27,Default,,0,0,0,,Zugaaan...
-Dialogue: 10,0:20:30.56,0:20:31.99,Default,,0,0,0,,Akina!
+Dialogue: 10,0:20:30.56,0:20:31.99,Default,,0,0,0,,Akina-chan!
 Dialogue: 10,0:20:32.42,0:20:36.54,Default,,0,0,0,,You left me all alone at the shrine to play mahjong again, didn't you?!
 Dialogue: 10,0:20:36.54,0:20:37.98,Default,,0,0,0,,Forget that I ever knew you!
 Dialogue: 10,0:20:39.11,0:20:40.61,Default,,0,0,0,,W-Wait, it was by force of circum—
@@ -370,7 +340,7 @@ Dialogue: 10,0:20:47.78,0:20:52.04,Narrator,,0,0,0,,The spring quickly changes t
 Dialogue: 10,0:20:52.04,0:20:56.90,Narrator,,0,0,0,,Will Toyotomi's spring ever arrive?
 Dialogue: 10,0:20:57.42,0:21:03.28,Narrator,,0,0,0,,Haiku: O crimson dragonfly, whither doth thy path lie in yon boundless azure firmament?
 Dialogue: 10,0:21:03.28,0:21:09.10,Narrator,,0,0,0,,There's always tomorrow. \NDon't give up, Toyotomi! Good luck, Toyotomi!
-Dialogue: 10,0:21:12.14,0:21:15.51,Default,,0,0,0,,If we turn Toyotomi into an augmented\Nsuperhuman mahjong machine,
+Dialogue: 10,0:21:12.14,0:21:15.51,Default,,0,0,0,,If we turn Toyotomi-kun into an augmented\Nsuperhuman mahjong machine,
 Dialogue: 10,0:21:15.51,0:21:17.68,Default,,0,0,0,,he might be capable of defeating the trio!
 Dialogue: 10,0:21:18.06,0:21:20.77,Default,,0,0,0,,And then he'll go back \Nto how he used to be!
 Dialogue: 10,0:21:21.32,0:21:23.24,Default,,0,0,0,,Next time: Super Zugan!
@@ -400,7 +370,7 @@ Dialogue: 0,0:14:44.78,0:14:47.26,Sign,,0,0,0,,{\c&H17101D&\3c&HD7D7E3&\b1\fs60\
 Dialogue: 0,0:14:47.26,0:14:53.26,Sign,,0,0,0,,{\c&H191B37&\3c&HB9A8BF&\bord3\blur1}Zugan {凶}
 Dialogue: 0,0:15:00.10,0:15:03.11,Sign,,0,0,0,,{\c&H171528&\3c&HC3C0D5&}Lesser Luck \NI got fed up with your persistence {小吉\Nあんたの粘りにゃまけたよ}
 Dialogue: 0,0:15:05.09,0:15:10.56,Sign,,0,0,0,,{\fs20\c&H1F2040&\b1\3c&HB9C3DD&\fax-0.051491\fscx103.67\fscy112.57\frz-15.3268\frx-2.0699\fry-17.2262\xbord1.87\ybord2.03\org(138.63,57.38)\pos(139.17,46.13)}Fortune slips
-Dialogue: 0,0:15:52.26,0:15:54.70,Sign,,0,0,0,,{\c&H864F59&\fs30\b1\blur1\fax0.020013\fscx97.73\fscy96.98\frz-0.8388\frx1.6877\fry6.0403\xbord0.00\ybord0.00\org(316.22,166.8)\pos(315.93,152.25)}Mahjong parlor
+Dialogue: 0,0:15:52.26,0:15:54.70,Sign,,0,0,0,,{\c&H864F59&\fs30\b1\blur1\fax0.020013\fscx97.73\fscy96.98\frz-0.8388\frx1.6877\fry6.0403\xbord0.00\ybord0.00\org(316.22,166.8)\pos(315.93,152.25)}Mahjong parlor 
 Dialogue: 0,0:15:52.26,0:15:54.70,Sign,,0,0,0,,{\c&H864F59&\fs30\b1\blur1\fax-0.036223\fscx163.76\fscy204.11\frz0.8467\frx-0.1791\fry6.1861\xbord0.00\ybord0.00\org(365.79,407.95)\pos(366.68,377.33)}Long Dive {雀荘 転落}
 Dialogue: 0,0:16:21.75,0:16:33.51,Sign,,0,0,0,,{\fade(350,0)\blur1\c&H25254D&\3c&HB9C1DF&\frz7.489\pos(163.79,105.67)}Allowance {餞別 - actually "Farewell gift" but I like this more}
 Dialogue: 0,0:16:40.99,0:16:45.89,Sign,,0,0,0,,{\c&HDFEEE3&\fs45\3c&H151114&}{muzu}
