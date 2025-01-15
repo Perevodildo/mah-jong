@@ -17,9 +17,9 @@ Keyframes File: zugan keyframes/zugan06_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.625000
-Scroll Position: 392
-Active Line: 402
-Video Position: 30751
+Scroll Position: 21
+Active Line: 58
+Video Position: 6358
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Style: Narrator,Rosario,35,&H00FFFFFF,&H000000FF,&H00144253,&H8C000000,0,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:21.93,0:00:24.48,Default,,0,0,0,,Hey! I need to leave! \NCan you fill in for me? {no clue what he means by pinchi, but that's what happens eventually}
-Dialogue: 0,0:00:24.48,0:00:27.47,Default,,0,0,0,,Toyotomi-kun! \NTable 4 needs to fill in!
+Dialogue: 0,0:00:24.48,0:00:27.47,Default,,0,0,0,,Toyotomi! \NTable 4 needs to fill in!
 Dialogue: 0,0:00:27.47,0:00:29.43,Default,,0,0,0,,Got it!
 Dialogue: 0,0:00:29.43,0:00:34.15,Default,,0,0,0,,I'm up by about 10,000, \Nso you can take it easy.
 Dialogue: 0,0:00:34.15,0:00:34.89,Default,,0,0,0,,Got it!
@@ -48,11 +48,11 @@ Dialogue: 0,0:00:55.62,0:00:56.87,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:00:56.87,0:00:59.60,Default,,0,0,0,,Crikey! Not again!
 Dialogue: 0,0:00:59.60,0:01:01.83,Default,,0,0,0,,Give us a break, wontcha!
 Dialogue: 0,0:01:09.56,0:01:12.55,Default,,0,0,0,,Riichi ippatsu tsumo pei!
-Dialogue: 0,0:01:14.47,0:01:17.43,Default,,0,0,0,,Toyotomi-kun, what's the matter \Nwith you today?!
+Dialogue: 0,0:01:14.47,0:01:17.43,Default,,0,0,0,,Toyotomi, what's the matter \Nwith you today?!
 Dialogue: 0,0:01:17.43,0:01:19.70,Default,,0,0,0,,Did you see it, Manager?
 Dialogue: 0,0:01:20.89,0:01:24.33,Default,,0,0,0,,I hope nothing bad happens now!
 Dialogue: 0,0:01:25.75,0:01:29.32,Default,,0,0,0,,Why would it? \NIt's all skill, no luck involved!
-Dialogue: 0,0:01:37.33,0:01:39.50,Default,,0,0,0,,Akina-chan...
+Dialogue: 0,0:01:37.33,0:01:39.50,Default,,0,0,0,,Akina...
 Dialogue: 0,0:02:17.07,0:02:19.22,Default,,0,0,0,,Wh-Who the hell are you?
 Dialogue: 0,0:02:20.97,0:02:22.54,Default,,0,0,0,,Come on, stop sleeping!
 Dialogue: 0,0:02:23.14,0:02:24.56,Default,,0,0,0,,Who are you?!
@@ -91,13 +91,13 @@ Dialogue: 0,0:04:16.28,0:04:18.02,Default,,0,0,0,,How can ya say that?
 Dialogue: 0,0:04:18.02,0:04:20.65,Default,,0,0,0,,Ya'r me master now, mate!
 Dialogue: 0,0:04:20.65,0:04:23.24,Default,,0,0,0,,Ah! Oi, babe, another cuppa, please.
 Dialogue: 0,0:04:23.24,0:04:25.16,Default,,0,0,0,,Who the hell are you, anyway?!
-Dialogue: 0,0:04:25.16,0:04:28.29,Default,,0,0,0,,Sorry I'm late! \NDid I make you wait, Toyotomi-kun?
+Dialogue: 0,0:04:25.16,0:04:28.29,Default,,0,0,0,,Sorry I'm late! \NDid I make you wait, Toyotomi?
 Dialogue: 0,0:04:28.29,0:04:30.35,Default,,0,0,0,,Oh hey, no! I just got here.
 Dialogue: 0,0:04:30.35,0:04:31.00,Default,,0,0,0,,Crikey!
 Dialogue: 0,0:04:31.88,0:04:35.39,Default,,0,0,0,,M-Much obliged for takin' care of me master.
 Dialogue: 0,0:04:35.39,0:04:37.86,Default,,0,0,0,,Yes, I'm Hayami, hello. \NWho is this?
-Dialogue: 0,0:04:37.86,0:04:40.38,Default,,0,0,0,,Akina-chan, just ignore him altogether!
-Dialogue: 0,0:04:40.38,0:04:44.05,Default,,0,0,0,,By the way, do ya happen to dabble in mahjong, Akina-san?
+Dialogue: 0,0:04:37.86,0:04:40.38,Default,,0,0,0,,Akina, just ignore him altogether!
+Dialogue: 0,0:04:40.38,0:04:44.05,Default,,0,0,0,,By the way, do ya happen to dabble in mahjong, Akina?
 Dialogue: 0,0:04:44.05,0:04:46.06,Default,,0,0,0,,Yeah, I can play.
 Dialogue: 0,0:04:46.06,0:04:47.47,Default,,0,0,0,,Das wonderful!
 Dialogue: 0,0:04:47.47,0:04:48.20,Default,,0,0,0,,
@@ -105,19 +105,19 @@ Dialogue: 0,0:04:48.20,0:04:52.53,Default,,0,0,0,,Playing mahjong with a hottie 
 Dialogue: 0,0:04:52.53,0:04:53.69,Default,,0,0,0,,No!
 Dialogue: 0,0:04:53.69,0:04:55.48,Default,,0,0,0,,Who else should we invite?
 Dialogue: 0,0:04:56.17,0:04:58.38,Default,,0,0,0,,Hey, that's my address book!
-Dialogue: 0,0:04:58.38,0:05:04.07,Default,,0,0,0,,Akechi, Oda and Tokugawa're gonna rock up, and maybe even Baba-san!
+Dialogue: 0,0:04:58.38,0:05:04.07,Default,,0,0,0,,Akechi, Oda and Tokugawa're gonna rock up, and maybe even Baba!
 Dialogue: 0,0:05:04.07,0:05:05.53,Default,,0,0,0,,Tea 'n' bickies: OK!
 Dialogue: 0,0:05:05.53,0:05:06.79,Default,,0,0,0,,Pillows: OK!
 Dialogue: 0,0:05:06.79,0:05:08.09,Default,,0,0,0,,Point sticks: OK!
 Dialogue: 0,0:05:08.09,0:05:10.21,Default,,0,0,0,,Ashtray and matches: OK! {was tempted to keep "for the fags"}
-Dialogue: 0,0:05:10.21,0:05:14.33,Default,,0,0,0,,Now, now, ya can just get yerself seated, Master and Akina-san.
+Dialogue: 0,0:05:10.21,0:05:14.33,Default,,0,0,0,,Now, now, ya can just get yerself seated, Master and Akina.
 Dialogue: 0,0:05:15.23,0:05:16.88,Default,,0,0,0,,Long time no see!
-Dialogue: 0,0:05:16.88,0:05:19.38,Default,,0,0,0,,Ya'r right on time, Baba-san!
-Dialogue: 0,0:05:22.68,0:05:25.53,Default,,0,0,0,,Oi, Baba-san, \NI've a shedload to ask ya... {unsure}
+Dialogue: 0,0:05:16.88,0:05:19.38,Default,,0,0,0,,Ya'r right on time, Baba!
+Dialogue: 0,0:05:22.68,0:05:25.53,Default,,0,0,0,,Oi, Baba, \NI've a shedload to ask ya... {unsure}
 Dialogue: 0,0:05:25.53,0:05:27.60,Default,,0,0,0,,Who is this feller, by the way?
 Dialogue: 0,0:05:29.14,0:05:33.16,Default,,0,0,0,,Me? In Osaka, I am known as the Calling Dabo Ken! {僕ねー 大阪じゃあ哭きのダボ健っていわれてたんスよ - no clue what daboken refers to, there's a character by the same name in https://en.wikipedia.org/wiki/Sailor_Suit_and_Machine_Gun }
 Dialogue: 0,0:05:33.16,0:05:35.40,Default,,0,0,0,,Oh, really?
-Dialogue: 0,0:05:35.40,0:05:40.57,Default,,0,0,0,,Hey... Show some more respect! Baba-san is a pro, yet he agreed to play with us. {a diamond on a dunghill is still a diamond; quality is quality; an old eagle is better than a young crow; even if it's rotten, it's still sea bream​}
+Dialogue: 0,0:05:35.40,0:05:40.57,Default,,0,0,0,,Hey... Show some more respect! Baba is a pro, yet he agreed to play with us. {a diamond on a dunghill is still a diamond; quality is quality; an old eagle is better than a young crow; even if it's rotten, it's still sea bream​}
 Dialogue: 0,0:05:40.57,0:05:43.57,Default,,0,0,0,,I'm just a C League pro.
 Dialogue: 0,0:05:43.57,0:05:46.24,Default,,0,0,0,,Aight-o! Mate, this haipai's a pearler!
 Dialogue: 0,0:05:46.88,0:05:48.22,Default,,0,0,0,,Oi, let's see! {don't suppose "ripper" is a MJ term}
@@ -154,22 +154,22 @@ Dialogue: 0,0:06:59.94,0:07:02.53,Default,,0,0,0,,Hey! I got 7 ura dora!
 Dialogue: 0,0:07:03.02,0:07:04.13,Default,,0,0,0,,Mangan?
 Dialogue: 0,0:07:04.13,0:07:05.53,Default,,0,0,0,,That's a baiman, girl.
 Dialogue: 0,0:07:05.53,0:07:07.76,Default,,0,0,0,,Unbelievable! {no clue, was "アネイブル コントロール" in manga so here it's also probably something in English}
-Dialogue: 0,0:07:08.74,0:07:14.50,Default,,0,0,0,,Hayami-san, ya came a bloody gutser calling a reachie with the pretty bone!
+Dialogue: 0,0:07:08.74,0:07:14.50,Default,,0,0,0,,Hayami, ya came a bloody gutser calling a reachie with the pretty bone!
 Dialogue: 0,0:07:14.50,0:07:16.96,Default,,0,0,0,,Oh, why's that? It's a suji trap.
 Dialogue: 0,0:07:16.96,0:07:20.94,Default,,0,0,0,,As if I'm gonna bugger off with me bloody huge hand! {ひっかけかてわいはでかい手やのにおりるわけないやろ!}
 Dialogue: 0,0:07:20.94,0:07:23.36,Default,,0,0,0,,But you discarded the 8m anyway!\N
 Dialogue: 0,0:07:23.36,0:07:25.65,Default,,0,0,0,,Das not what I bloody mean! {そういうことじゃなくて}
 Dialogue: 0,0:07:25.65,0:07:28.05,Default,,0,0,0,,Hm? Then what {\i1}do{\i0} you mean?
-Dialogue: 0,0:07:28.05,0:07:32.76,Thought,,0,0,0,,It's about time to show Akina-chan what it means to play with a pro.
+Dialogue: 0,0:07:28.05,0:07:32.76,Thought,,0,0,0,,It's about time to show Akina what it means to play with a pro.
 Dialogue: 0,0:07:34.56,0:07:36.62,Thought,,0,0,0,,The ideal discards.
 Dialogue: 0,0:07:37.52,0:07:38.75,Default,,0,0,0,,Riichi!
 Dialogue: 0,0:07:40.50,0:07:42.83,Default,,0,0,0,,If I win this hanchan...
-Dialogue: 0,0:07:43.77,0:07:45.71,Default,,0,0,0,,Baba-san, you're amazing!
+Dialogue: 0,0:07:43.77,0:07:45.71,Default,,0,0,0,,Baba, you're amazing!
 Dialogue: 0,0:07:45.71,0:07:48.76,Default,,0,0,0,,I've always wanted a strong man like you to have me! {/hug/hold on his hands}
 Dialogue: 0,0:07:48.76,0:07:50.90,Default,,0,0,0,,Sure! I'll "have" all of you!
 Dialogue: 0,0:07:51.47,0:07:53.05,Thought,,0,0,0,,Just like that!
 Dialogue: 0,0:07:56.14,0:07:58.81,Default,,0,0,0,,Ah, I can see your 3p kanchan!
-Dialogue: 0,0:07:58.81,0:08:01.42,Default,,0,0,0,,Baba-san, it ain't funny, mate. {馬場さんシャレになりませんよ}
+Dialogue: 0,0:07:58.81,0:08:01.42,Default,,0,0,0,,Baba, it ain't funny, mate. {馬場さんシャレになりませんよ}
 Dialogue: 0,0:08:01.42,0:08:04.65,Thought,,0,0,0,,If I know his wait, I'm dead set to win this!
 Dialogue: 0,0:08:04.65,0:08:05.33,Default,,0,0,0,,6s.
 Dialogue: 0,0:08:05.33,0:08:05.94,Default,,0,0,0,,Pon!
@@ -225,7 +225,7 @@ Dialogue: 0,0:10:27.41,0:10:30.67,Default,,0,0,0,,This world is cash! \NCash mak
 Dialogue: 0,0:10:30.67,0:10:33.42,Default,,0,0,0,,That's the Way of Osaka Finance!\N{TN: A popular '90s manga - https://en.wikipedia.org/wiki/Naniwa_Kin%27y%C5%ABd%C5%8D}
 Dialogue: 0,0:10:33.42,0:10:38.13,Default,,0,0,0,,The mysterious man from Osaka, \Nthe self-proclaimed Calling Dabo Ken
 Dialogue: 0,0:10:38.13,0:10:40.06,Default,,0,0,0,,will return in the second part. {GOD PLEASE NO}
-Dialogue: 0,0:11:03.10,0:11:06.10,Default,,0,0,0,,Well, Toyotomi-kun, looks like you're the Scum again! {daihinmin; daifugō; card game similar to President - maybe just "lost again" to make it more clear}
+Dialogue: 0,0:11:03.10,0:11:06.10,Default,,0,0,0,,Well, Toyotomi, looks like you're the Scum again! {daihinmin; daifugō; card game similar to President - maybe just "lost again" to make it more clear}
 Dialogue: 0,0:11:06.10,0:11:07.29,Default,,0,0,0,,No luck!
 Dialogue: 0,0:11:07.29,0:11:11.02,Default,,0,0,0,,Master! Master! Deal 'em to me too!
 Dialogue: 0,0:11:11.02,0:11:12.98,Default,,0,0,0,,C'mon, Master!
@@ -237,7 +237,7 @@ Dialogue: 0,0:11:22.60,0:11:24.36,Default,,0,0,0,,Who the hell are you?
 Dialogue: 0,0:11:24.36,0:11:26.83,Default,,0,0,0,,Actually, I don't know either.
 Dialogue: 0,0:11:26.83,0:11:29.41,Default,,0,0,0,,That's a good one, who are you?
 Dialogue: 0,0:11:29.41,0:11:32.23,Default,,0,0,0,,Mate, such a bunch of bloody wallies you are!
-Dialogue: 0,0:11:32.23,0:11:34.44,Default,,0,0,0,,Master 'n' Akina-san 'n' Baba-san too!
+Dialogue: 0,0:11:32.23,0:11:34.44,Default,,0,0,0,,Master 'n' Akina 'n' Baba too!
 Dialogue: 0,0:11:34.44,0:11:37.86,Default,,0,0,0,,Didja already forget the mahjong session we had yesterday?!
 Dialogue: 0,0:11:37.86,0:11:40.49,Default,,0,0,0,,Back home they call me Kenjin. {probably reference to something else but I don't care}
 Dialogue: 0,0:11:40.49,0:11:42.48,Default,,0,0,0,,I come from Osaka.
@@ -277,7 +277,7 @@ Dialogue: 0,0:13:07.31,0:13:08.83,Default,,0,0,0,,Relax, girl!
 Dialogue: 0,0:13:08.83,0:13:12.79,Default,,0,0,0,,Oi! Oi! Whatcha gon' do if ya can't cross this?! {ほいほいこんなん わたれないでどーしまっか}
 Dialogue: 0,0:13:12.79,0:13:14.73,Default,,0,0,0,,Ah! Stop it!
 Dialogue: 0,0:13:14.73,0:13:15.44,Default,,0,0,0,,Ah...
-Dialogue: 0,0:13:16.79,0:13:20.30,Default,,0,0,0,,Baba-san! Come help us!
+Dialogue: 0,0:13:16.79,0:13:20.30,Default,,0,0,0,,Baba! Come help us!
 Dialogue: 0,0:13:20.30,0:13:23.40,Default,,0,0,0,,It rained yesterday, \Nso the water level is just right.
 Dialogue: 0,0:13:23.40,0:13:24.55,Default,,0,0,0,,Yeah, it is.
 Dialogue: 0,0:13:25.13,0:13:27.89,Default,,0,0,0,,Welcome to our inn!
@@ -432,7 +432,7 @@ Dialogue: 0,0:20:51.27,0:20:56.75,Default,,0,0,0,,Master! Am I just a paper lant
 Dialogue: 0,0:20:56.75,0:21:02.80,Narrator,,0,0,0,,"The record with my memories of you of yesteryear is still playing..."
 Dialogue: 0,0:21:02.80,0:21:05.30,Narrator,,0,0,0,,Is what Toyotomi was thinking.
 Dialogue: 0,0:21:05.30,0:21:09.12,Narrator,,0,0,0,,"Let the pain fly away."
-Dialogue: 0,0:21:13.10,0:21:19.02,Default,,0,0,0,,So Kenjin-kun ended up freeloading at Toyotomi-kun's place and he's here to stay.
+Dialogue: 0,0:21:13.10,0:21:19.02,Default,,0,0,0,,So Kenjin ended up freeloading at Toyotomi's place and he's here to stay.
 Dialogue: 0,0:21:19.02,0:21:20.80,Default,,0,0,0,,Pleasure being here!
 Dialogue: 0,0:21:20.80,0:21:22.57,Default,,0,0,0,,Next time on Super Zugan:
 Dialogue: 0,0:21:22.57,0:21:25.83,Default,,0,0,0,,Baby Player Ponta {ベイビー雀士・ポン太}\Nand Jongputer in a Pond. {井の中の雀ピューター}{believing the OG subs, no idea what jumpyuuta refers to}

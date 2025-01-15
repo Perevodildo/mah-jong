@@ -17,8 +17,9 @@ Keyframes File: zugan keyframes/zugan05_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.500000
-Active Line: 2
-Video Position: 437
+Scroll Position: 297
+Active Line: 319
+Video Position: 29850
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,7 +69,7 @@ Dialogue: 10,0:02:24.54,0:02:26.18,Default,,0,0,0,,Oh, that was so fast!
 Dialogue: 10,0:02:26.18,0:02:28.99,Default,,0,0,0,,A-All right, let’s dive into the action, then!
 Dialogue: 10,0:02:28.99,0:02:31.46,Default,,0,0,0,,Hey, me too, me too!
 Dialogue: 10,0:02:31.46,0:02:33.98,Default,,0,0,0,,Who ever said we were gonna play with you?
-Dialogue: 10,0:02:33.98,0:02:37.69,Default,,0,0,0,,We came here today \Nto play mahjong with Akina-chan.
+Dialogue: 10,0:02:33.98,0:02:37.69,Default,,0,0,0,,We came here today \Nto play mahjong with Akina.
 Dialogue: 10,0:02:37.69,0:02:41.43,Default,,0,0,0,,Just because Hayami dragged you along doesn't mean you get to act all cocky!
 Dialogue: 10,0:02:41.43,0:02:43.89,Default,,0,0,0,,H-How come...?
 Dialogue: 10,0:02:43.89,0:02:47.81,Default,,0,0,0,,It's fine! Let's all just play together, okay?
@@ -247,7 +248,7 @@ Dialogue: 10,0:13:50.31,0:13:51.43,Default,,0,0,0,,Impossible! {no clue, not in 
 Dialogue: 10,0:13:53.79,0:13:56.91,Default,,0,0,0,,{probably nothing?}
 Dialogue: 10,0:14:04.99,0:14:07.82,Default,,0,0,0,,Tch, the 5p passed, huh?!
 Dialogue: 10,0:14:09.59,0:14:10.45,Default,,0,0,0,,Ah...
-Dialogue: 10,0:14:12.96,0:14:16.48,Thought,,0,0,0,,Ah! Shintaro-kun's still got a white!
+Dialogue: 10,0:14:12.96,0:14:16.48,Thought,,0,0,0,,Ah! Shintaro's still got a white!
 Dialogue: 10,0:14:18.02,0:14:21.39,Thought,,0,0,0,,Since he cut one earlier, it'll come out next turn for sure!
 Dialogue: 10,0:14:21.39,0:14:24.55,Default,,0,0,0,,Let's see! Tsumogiri!
 Dialogue: 10,0:14:24.55,0:14:27.45,Thought,,0,0,0,,How can he be always that luckless?
@@ -260,22 +261,22 @@ Dialogue: 10,0:14:44.38,0:14:45.63,Default,,0,0,0,,You can't!
 Dialogue: 10,0:14:46.88,0:14:51.08,Default,,0,0,0,, Ron! Ron! Ron-ron! Ron! Ron!
 Dialogue: 10,0:14:46.88,0:14:51.08,Overlap,,0,0,0,,No! No! No-no-no! No! No!
 Dialogue: 10,0:14:51.08,0:14:53.71,Default,,0,0,0,,Don't ron me, okay? Please!
-Dialogue: 10,0:15:01.38,0:15:02.90,Default,,0,0,0,,Toyotomi-kun...
+Dialogue: 10,0:15:01.38,0:15:02.90,Default,,0,0,0,,Toyotomi...
 Dialogue: 10,0:15:07.78,0:15:09.80,Default,,0,0,0,,Guess I have no choice...
-Dialogue: 10,0:15:09.80,0:15:12.93,Default,,0,0,0,,Wow, you're so sweet! \NI love you, Toyotomi-kun!
+Dialogue: 10,0:15:09.80,0:15:12.93,Default,,0,0,0,,Wow, you're so sweet! \NI love you, Toyotomi!
 Dialogue: 10,0:15:13.87,0:15:15.85,Default,,0,0,0,,Yeah, dream about it!
 Dialogue: 10,0:15:16.58,0:15:18.00,Default,,0,0,0,,Ron! Pinfu only!
 Dialogue: 10,0:15:22.53,0:15:25.90,Default,,0,0,0,,
 Dialogue: 10,0:15:28.55,0:15:31.53,Default,,0,0,0,,Mahjong is a cruel game, {\i1}baby{\i0}.
-Dialogue: 10,0:15:31.53,0:15:35.21,Default,,0,0,0,,To-Toyotomi-kun, you idiot!
+Dialogue: 10,0:15:31.53,0:15:35.21,Default,,0,0,0,,To-Toyotomi, you idiot!
 Dialogue: 10,0:15:35.21,0:15:38.22,Default,,0,0,0,,Whew, Toyotomi, you're such a cruel guy.
-Dialogue: 10,0:15:38.22,0:15:40.95,Default,,0,0,0,,Ya made poor Akina-chan cry.
+Dialogue: 10,0:15:38.22,0:15:40.95,Default,,0,0,0,,Ya made poor Akina cry.
 Dialogue: 10,0:15:40.95,0:15:44.82,Default,,0,0,0,,What's her deal? It's just 1000 points! \NIs she making fun of me?
 Dialogue: 10,0:15:44.82,0:15:48.24,Default,,0,0,0,,She thinks she can never deal in herself? \NHow arrogant!
 Dialogue: 10,0:15:48.69,0:15:50.47,Default,,0,0,0,,Toyotomi, lemme tell you...
 Dialogue: 10,0:15:50.47,0:15:53.43,Default,,0,0,0,,Akechi, ya still got a noodle sticking from your nose.
-Dialogue: 10,0:15:53.43,0:15:55.25,Default,,0,0,0,,I'll have ya know that Akina-chan...
-Dialogue: 10,0:15:57.99,0:15:59.90,Default,,0,0,0,,It's fine, Akechi-kun.
+Dialogue: 10,0:15:53.43,0:15:55.25,Default,,0,0,0,,I'll have ya know that Akina...
+Dialogue: 10,0:15:57.99,0:15:59.90,Default,,0,0,0,,It's fine, Akechi.
 Dialogue: 10,0:15:59.90,0:16:03.19,Default,,0,0,0,,I'm sorry. Let's continue.
 Dialogue: 10,0:16:03.82,0:16:08.30,Default,,0,0,0,,Tsk! Girls are such a bother sometimes! C'mon!
 Dialogue: 10,0:16:08.82,0:16:12.99,Default,,0,0,0,,Ron! Tanyao iipeikou dora dora!
@@ -320,7 +321,7 @@ Dialogue: 10,0:18:23.29,0:18:25.71,Default,,0,0,0,,Right on... {no clue, ホッ 
 Dialogue: 10,0:18:28.07,0:18:28.92,Default,,0,0,0,,Pon!
 Dialogue: 10,0:18:32.90,0:18:35.69,Default,,0,0,0,,D-Don't tell me...
 Dialogue: 10,0:18:54.67,0:18:55.99,Default,,0,0,0,,What's wrong?
-Dialogue: 10,0:18:56.87,0:18:58.45,Default,,0,0,0,,A-Akina-chan...
+Dialogue: 10,0:18:56.87,0:18:58.45,Default,,0,0,0,,A-Akina...
 Dialogue: 10,0:18:59.13,0:19:00.41,Default,,0,0,0,,What is it?
 Dialogue: 10,0:19:00.41,0:19:04.14,Default,,0,0,0,,S-Sorry for ronning you for 1000 earlier...
 Dialogue: 10,0:19:04.14,0:19:07.13,Default,,0,0,0,,T-That wasn't very considerate on my part, I regret it now...
@@ -341,22 +342,22 @@ Dialogue: 10,0:19:53.11,0:19:56.90,Default,,0,0,0,,Thanks to Toyotomi playing, \
 Dialogue: 10,0:19:57.78,0:19:59.90,Default,,0,0,0,,It was really fun, guys!
 Dialogue: 10,0:19:59.90,0:20:02.23,Default,,0,0,0,,We should all do that again sometime!
 Dialogue: 10,0:20:02.23,0:20:05.23,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:20:08.04,0:20:11.02,Default,,0,0,0,,What are you so excited about, Toyotomi-kun?
+Dialogue: 10,0:20:08.04,0:20:11.02,Default,,0,0,0,,What are you so excited about, Toyotomi?
 Dialogue: 10,0:20:12.54,0:20:13.44,Default,,0,0,0,,Huh?
 Dialogue: 10,0:20:13.48,0:20:16.59,Default,,0,0,0,,Nobody said we'll bring you along.
 Dialogue: 10,0:20:17.57,0:20:22.13,Default,,0,0,0,,Without Toyotomi, \Nwe'd be the only chronic losers.
 Dialogue: 10,0:20:22.13,0:20:23.57,Default,,0,0,0,,Yes, exactly!
-Dialogue: 10,0:20:23.57,0:20:28.75,Default,,0,0,0,,Um, Hayami-kun, could you go back on that \Nand let Toyotomi-kun in too?
+Dialogue: 10,0:20:23.57,0:20:28.75,Default,,0,0,0,,Um, Hayami, could you go back on that \Nand let Toyotomi in too?
 Dialogue: 10,0:20:28.75,0:20:31.25,Default,,0,0,0,,All right! Now then, why don't we get going? {I feel this ii no yo could actually mean the opposite: "why should I?"}
 Dialogue: 10,0:20:35.56,0:20:37.24,Default,,0,0,0,,Um, what about me?
 Dialogue: 10,0:20:37.24,0:20:41.09,Default,,0,0,0,,Since you're the only one who lost, \Nyou will walk home as a punishment!
 Dialogue: 10,0:20:41.09,0:20:44.06,Default,,0,0,0,,No way! {no clue}
-Dialogue: 10,0:20:44.97,0:20:48.02,Default,,0,0,0,,Akina-chan...
+Dialogue: 10,0:20:44.97,0:20:48.02,Default,,0,0,0,,Akina...
 Dialogue: 10,0:20:49.22,0:20:53.71,Narrator,,0,0,0,,At last, even Akina has given Toyotomi the cold shoulder.
 Dialogue: 10,0:20:55.71,0:20:58.52,Narrator,,0,0,0,,This cold rain pouring down \Non the autumn day...
 Dialogue: 10,0:20:58.52,0:21:03.42,Narrator,,0,0,0,,Could it actually be the tears flowing from his frozen heart?
 Dialogue: 10,0:21:03.42,0:21:09.72,Narrator,,0,0,0,,Don't try to stop him, mother. \NWhere will Toyotomi go as a man? {TN: This line parodies a famous poster from the 1968 student unrest.}
-Dialogue: 10,0:21:12.04,0:21:16.27,Default,,0,0,0,,Next time we'll meet that mysterious man Baba-san with thick lips.
+Dialogue: 10,0:21:12.04,0:21:16.27,Default,,0,0,0,,Next time we'll meet that mysterious man Baba with thick lips.
 Dialogue: 10,0:21:16.27,0:21:19.18,Default,,0,0,0,,And also another mysterious young man from Kansai.
 Dialogue: 10,0:21:19.18,0:21:21.90,Default,,0,0,0,,And then we'll go to the hot springs!
 Dialogue: 10,0:21:21.90,0:21:23.69,Default,,0,0,0,,Next on Super Zugan:

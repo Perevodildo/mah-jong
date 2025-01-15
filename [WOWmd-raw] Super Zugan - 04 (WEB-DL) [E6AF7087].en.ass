@@ -17,8 +17,9 @@ Keyframes File: zugan keyframes/zugan04_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.250000
-Active Line: 6
-Video Position: 1165
+Scroll Position: 210
+Active Line: 237
+Video Position: 21622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,17 +157,17 @@ Dialogue: 10,0:07:56.84,0:07:58.64,Default,,0,0,0,,Good grief!
 Dialogue: 10,0:07:58.64,0:08:02.25,Default,,0,0,0,,Well then, let's just fold with genbutsu.
 Dialogue: 10,0:08:02.25,0:08:02.89,Default,,0,0,0,,Wait!
 Dialogue: 10,0:08:03.94,0:08:05.84,Default,,0,0,0,,How can you allow yourself to talk this way? {no clue}
-Dialogue: 10,0:08:05.84,0:08:07.29,Default,,0,0,0,,Akina-chan...
+Dialogue: 10,0:08:05.84,0:08:07.29,Default,,0,0,0,,Akina...
 Dialogue: 10,0:08:07.29,0:08:09.08,Default,,0,0,0,,You're still young, aren't you?!
 Dialogue: 10,0:08:09.08,0:08:11.26,Default,,0,0,0,,Why aren't you going all-in with this hand?!
 Dialogue: 10,0:08:11.26,0:08:16.18,Default,,0,0,0,,Well, going from previous experience, this is usually the dealer's winning tile...
 Dialogue: 10,0:08:16.18,0:08:18.70,Default,,0,0,0,,Leave weakness to the old and frail!
 Dialogue: 10,0:08:19.10,0:08:19.85,Default,,0,0,0,,Whoa!
 Dialogue: 10,0:08:19.85,0:08:24.90,Default,,0,0,0,,Young players must have the determination to make a comeback even after they dealt in once!
-Dialogue: 10,0:08:25.86,0:08:28.32,Default,,0,0,0,,That's no good, Akina-chan!
+Dialogue: 10,0:08:25.86,0:08:28.32,Default,,0,0,0,,That's no good, Akina!
 Dialogue: 10,0:08:28.32,0:08:30.28,Default,,0,0,0,,If it passes, it passes!
 Dialogue: 10,0:08:42.68,0:08:44.10,Default,,0,0,0,,It passed.
-Dialogue: 10,0:08:44.64,0:08:47.12,Default,,0,0,0,,We did it, Toyotomi-kun!
+Dialogue: 10,0:08:44.64,0:08:47.12,Default,,0,0,0,,We did it, Toyotomi!
 Dialogue: 10,0:08:47.12,0:08:50.38,Default,,0,0,0,,Ugh, I mean riichi! \NThat was a riichi! {(TN: This is against the rules.)}
 Dialogue: 10,0:08:50.89,0:08:52.34,Default,,0,0,0,,Ugh, poor me...
 Dialogue: 10,0:08:53.80,0:08:57.03,Default,,0,0,0,,Ron! Mentanpin ippatsu sanshoku!
@@ -191,7 +192,7 @@ Dialogue: 10,0:09:51.70,0:09:55.61,Default,,0,0,0,,Riichi ippatsu tsumo tanyao s
 Dialogue: 10,0:09:55.61,0:10:00.12,Default,,0,0,0,,No! I don't wanna hear a call that's {\i1}that{\i0} long! {なげ\Nわ~~\Nそんな長え\N呪文聞きたく\Nねェ~~~!!!! - unsure if I called it "call" right, muzucheck}
 Dialogue: 10,0:10:04.39,0:10:08.40,Default,,0,0,0,,Wow! So many point sticks! \NNot sure I can lift it all! {/I'm feeling weak}
 Dialogue: 10,0:10:10.73,0:10:12.97,Default,,0,0,0,,I hope you fall and break your neck. {no clue}
-Dialogue: 10,0:10:12.97,0:10:15.44,Default,,0,0,0,,You should be all right now, Toyotomi-kun.
+Dialogue: 10,0:10:12.97,0:10:15.44,Default,,0,0,0,,You should be all right now, Toyotomi.
 Dialogue: 10,0:10:15.44,0:10:17.39,Default,,0,0,0,,I have a seminar now, so I've gotta run.
 Dialogue: 10,0:10:17.42,0:10:19.61,Default,,0,0,0,,Sure thing! Leave it to me!
 Dialogue: 10,0:10:22.27,0:10:26.07,Default,,0,0,0,,I did it! 369m three sided tenpai!
@@ -269,9 +270,9 @@ Dialogue: 10,0:14:35.29,0:14:36.97,Default,,0,0,0,,Embrace the nonresistance. {�
 Dialogue: 10,0:14:36.97,0:14:38.34,Default,,0,0,0,,Ippatsu!
 Dialogue: 10,0:14:49.20,0:14:51.20,Default,,0,0,0,,He's coming!
 Dialogue: 10,0:14:51.20,0:15:01.80,Default,,0,0,0,,Long live Zugandhi! \NLong live Zugandhi!
-Dialogue: 10,0:15:01.80,0:15:04.42,Default,,0,0,0,,Toyotomi-kun! Toyotomi-kun!
+Dialogue: 10,0:15:01.80,0:15:04.42,Default,,0,0,0,,Toyotomi! Toyotomi!
 Dialogue: 10,0:15:04.42,0:15:05.17,Default,,0,0,0,,Huh?
-Dialogue: 10,0:15:05.17,0:15:06.32,Default,,0,0,0,,Akina-chan!
+Dialogue: 10,0:15:05.17,0:15:06.32,Default,,0,0,0,,Akina!
 Dialogue: 10,0:15:06.32,0:15:07.64,Default,,0,0,0,,I knew I'd find you here!
 Dialogue: 10,0:15:07.64,0:15:09.10,Default,,0,0,0,,What's the matter today?
 Dialogue: 10,0:15:09.10,0:15:13.30,Default,,0,0,0,,Look, there's a Yoneyone Club concert today. {was "Lionel Richie" originally lol}
@@ -281,7 +282,7 @@ Dialogue: 10,0:15:16.77,0:15:20.58,Default,,0,0,0,,Actually, I'm also a huge fan
 Dialogue: 10,0:15:20.58,0:15:22.80,Default,,0,0,0,,Man, what are the odds?
 Dialogue: 10,0:15:22.80,0:15:25.66,Default,,0,0,0,,"In the name of the Father, the Son, the Yo-yo Spirit..." {no clue but obviously a buddhist chant so w/e}
 Dialogue: 10,0:15:25.66,0:15:27.70,Default,,0,0,0,,What are you talking about?!
-Dialogue: 10,0:15:27.70,0:15:28.90,Default,,0,0,0,,Akina-san...
+Dialogue: 10,0:15:27.70,0:15:28.90,Default,,0,0,0,,Akina...
 Dialogue: 10,0:15:28.90,0:15:30.99,Default,,0,0,0,,I'm sorry, but Toyotomi can't go with you.
 Dialogue: 10,0:15:31.72,0:15:33.16,Default,,0,0,0,,How come?
 Dialogue: 10,0:15:33.68,0:15:36.21,Default,,0,0,0,,Right now, Toyotomi's this much in the red.
@@ -295,7 +296,7 @@ Dialogue: 10,0:16:00.33,0:16:01.73,Default,,0,0,0,,Ya clear off to yonder, bro!
 Dialogue: 10,0:16:02.71,0:16:04.35,Thought,,0,0,0,,Dumb girl.
 Dialogue: 10,0:16:04.35,0:16:07.81,Thought,,0,0,0,,She got a bit lucky the other day \Nso she's getting cocky.
 Dialogue: 10,0:16:07.81,0:16:11.76,Thought,,0,0,0,,She really thinks she can win against us twice in a row!?
-Dialogue: 10,0:16:11.76,0:16:18.46,Default,,0,0,0,,By the way, if Akina-san loses, she can pay off her losses with something other than money...
+Dialogue: 10,0:16:11.76,0:16:18.46,Default,,0,0,0,,By the way, if Akina loses, she can pay off her losses with something other than money...
 Dialogue: 10,0:16:18.46,0:16:19.71,Default,,0,0,0,,Really?
 Dialogue: 10,0:16:19.71,0:16:21.06,Default,,0,0,0,,I wonder what's that!
 Dialogue: 10,0:16:21.06,0:16:23.64,Default,,0,0,0,,She gonna pay with 'er body or something, huh?
@@ -361,11 +362,11 @@ Dialogue: 10,0:19:47.43,0:19:50.56,Default,,0,0,0,,Moreover, she has no idea she
 Dialogue: 10,0:19:50.56,0:19:52.90,Default,,0,0,0,,What a blissfully ignorant girl! {no clue what they mean by "fool-loving"; was "Raketing" in OG}
 Dialogue: 10,0:19:54.87,0:19:59.72,Default,,0,0,0,,Oh, I'm so embarrassed! \NAnd we ended up 60,000 in the green too!
 Dialogue: 10,0:19:59.72,0:20:02.30,Default,,0,0,0,,Really, you guys should've just let me go! {/forgave my debt}
-Dialogue: 10,0:20:02.30,0:20:04.70,Default,,0,0,0,,You're still no match for my Akina-chan! {/is too strong}
-Dialogue: 10,0:20:04.70,0:20:06.70,Default,,0,0,0,,Oh, you, Toyotomi-kun!
+Dialogue: 10,0:20:02.30,0:20:04.70,Default,,0,0,0,,You're still no match for my Akina! {/is too strong}
+Dialogue: 10,0:20:04.70,0:20:06.70,Default,,0,0,0,,Oh, you, Toyotomi!
 Dialogue: 10,0:20:06.70,0:20:08.89,Default,,0,0,0,,Super Zugan.
 Dialogue: 10,0:20:09.73,0:20:15.26,Default,,0,0,0,,All right, gentlemen, since you lost, please hurry up to admit it! Don't be shy!
-Dialogue: 10,0:20:17.07,0:20:18.92,Default,,0,0,0,,Hey, Toyotomi-kun!
+Dialogue: 10,0:20:17.07,0:20:18.92,Default,,0,0,0,,Hey, Toyotomi!
 Dialogue: 10,0:20:18.92,0:20:23.95,Default,,0,0,0,,Since we made such a great comeback, \Nwhy don't we go eat something nice to celebrate?
 Dialogue: 10,0:20:24.64,0:20:28.83,Default,,0,0,0,,It's a deal, then! Sushi and steaks! \NAnd Spanish food!
 Dialogue: 10,0:20:28.83,0:20:32.69,Default,,0,0,0,,Oh no! There's no way we can eat all of that!
