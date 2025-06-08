@@ -30,6 +30,36 @@ Style: NarTop,Rosario,35,&H00FFFFFF,&H000000FF,&H00144253,&H8C000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{OPED}
+Dialogue: 0,0:00:00.00,0:00:08.53,Sign,,0,0,0,,{\c&HDFCFE3&\blur0.6\b1\bord0\pos(314.66,21.11)}Article 186 of the Penal Code:
+Dialogue: 0,0:00:00.00,0:00:08.53,Sign,,0,0,0,,{\c&HDFCFE3&\pos(402.51,382.66)\b0\bord0}A person who engages in frequent gambling can be subject to criminal penalties, including imprisonment for up to three years.
+Dialogue: 0,0:00:35.06,0:00:45.07,Sign,,0,0,0,,{Super Zugan}
+Dialogue: 0,0:23:14.33,0:23:22.00,Sign,,0,0,0,,{\an9\c&HFEFFFF&\bord0\blur0.5\b1\pos(294.28,301.71)}Encoding\NTranslation \NTranslation check & TS \NMahjong translation check
+Dialogue: 0,0:23:14.33,0:23:22.00,Sign,,0,0,0,,{\an7\c&HFEFFFF&\bord0\blur0.5\b1\pos(314.28,301.71)}WOWmd\N/mjg/ \NPerevodildo \NMuzussawa
+Dialogue: 10,0:21:33.31,0:21:36.52,Song,,0,0,0,,Yo! Check out this new style, Super Zugan!
+Dialogue: 10,0:21:36.52,0:21:40.74,Song,,0,0,0,,If you think mahjong ain't happening, \Nget down with the midnight fever Zugan Zugan!
+Dialogue: 10,0:21:40.74,0:21:44.62,Song,,0,0,0,,Zugan! It's time for that point of the eternal!
+Dialogue: 10,0:21:44.62,0:21:48.58,Song,,0,0,0,,The international star of pop, \NMinami Haruo!
+Dialogue: 10,0:21:55.50,0:22:00.17,Song,,0,0,0,,Don't rush, don't fuss, don't panic \NGrab a tile and dream a Sengoku romance {急ぐな騒ぐなあわてるなパイをつかめば\N戦国ロマンの夢が湧く}
+Dialogue: 10,0:22:00.17,0:22:04.72,Song,,0,0,0,,Whatever fortune may bring, call riichi \NDon't stop me, toimen-san {運賦 天賦 とリーチを賭ける\N止めてくれるな正面さん}
+Dialogue: 10,0:22:04.72,0:22:08.26,Song,,0,0,0,,You just got to go Zugan! {ズガーンと行かねばならぬのだ}
+Dialogue: 10,0:22:08.26,0:22:10.22,Song,,0,0,0,,Riichi ippatsu pinfu ittsuu!
+Dialogue: 10,0:22:10.22,0:22:14.98,Song,,0,0,0,,Shimocha and kamicha are both my mahjong buddies \NBut when we're gambling I'll snipe them without mercy {下チャ上チャも 雀仲間 勝負懸けたら\N情け無用の狙いうち}
+Dialogue: 10,0:22:14.98,0:22:17.77,Song,,0,0,0,,Aren't you a great lucky charm to your man? {君はあげ満素敵じゃないか}
+Dialogue: 10,0:22:17.77,0:22:19.61,Song,,0,0,0,,Why don't you tsumo a mangan with me? {僕と満願ツモろうよ}
+Dialogue: 10,0:22:19.61,0:22:23.32,Song,,0,0,0,,With zugan, the happiness is within reach {ズガーンと幸せ掴もうぞ}
+Dialogue: 10,0:22:23.32,0:22:25.20,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:22:25.20,0:22:38.00,Song,,0,0,0,,A heart waiting for a yakuman in the dark... \NWill it soar and bloom into cherry blossoms? {闇で役満 待つ心翔んで花見が咲くものか}
+Dialogue: 10,0:22:38.00,0:22:39.96,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:22:39.96,0:22:44.63,Song,,0,0,0,,This is the time for a three-sided wait \NLet's go with kanchan, the final battle for a Kokushi Musou! {ここが三面待ちどころ行くぜカンチャン\N国士無双[こくしむそう]の関ヶ原}
+Dialogue: 10,0:22:44.63,0:22:47.39,Song,,0,0,0,,Crashing through without even a tsumo payment lost {ツモニモ負けずにやり抜いて}
+Dialogue: 10,0:22:47.39,0:22:49.22,Song,,0,0,0,,The beer tastes the best after winning! {勝って飲み干すビールがうまい}
+Dialogue: 10,0:22:49.22,0:22:52.85,Song,,0,0,0,,Zugan can decide a man's fate! {ズガーンと男は命がけ}
+Dialogue: 10,0:22:52.85,0:22:54.85,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:22:56.56,0:22:58.48,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:23:00.32,0:23:02.15,Song,,0,0,0,,Super Zugan!
+Dialogue: 10,0:23:02.15,0:23:10.37,Song,,0,0,0,,You just have... You've got to go Zugan! {ズガーンと ズガーンと行かねばならぬのだ}
+Comment: 0,0:00:05.19,0:00:07.19,Default,,0,0,0,,{OPED}
 Dialogue: 10,0:00:58.83,0:01:00.29,Default,,0,0,0,,Ngaw!
 Dialogue: 10,0:01:00.29,0:01:02.50,Default,,0,0,0,,Nothing beats a pool in midwinter!
 Dialogue: 10,0:01:02.50,0:01:04.48,Default,,0,0,0,,It's a feast for the eyes!
