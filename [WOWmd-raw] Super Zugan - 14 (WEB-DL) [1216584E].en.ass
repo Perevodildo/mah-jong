@@ -30,6 +30,12 @@ Style: NarTop,Rosario,35,&H00FFFFFF,&H000000FF,&H00144253,&H8C000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:08.53,0:00:13.01,Default,,0,0,0,,Toyotomi Hideyuki, the world's foremost busting out machine. From Chiba Prefecture. {from OG subs, no clue what to make of 天下一のぶっ飛びマシーン }
+Dialogue: 10,0:00:13.01,0:00:17.51,Default,,0,0,0,,Oda Shintaro. A one-hit wonder who is ignorant of theory. From Chiba Prefecture.
+Dialogue: 10,0:00:17.51,0:00:23.02,Default,,0,0,0,,Tokugawa Yasube. An absolute ignoramus who doesn't know when to stop calling. From Chiba. {https://www.weblio.jp/content/%E3%82%BF%E3%82%B3%E9%B3%B4%E3%81%8D - something about calling carelessly ; /with zero knowledge on theory}
+Dialogue: 10,0:00:23.02,0:00:28.52,Default,,0,0,0,,Akechi Koichi. The expert in by-the-book calculative and rational playstyle. From Chiba.
+Dialogue: 10,0:00:28.52,0:00:31.57,Default,,0,0,0,,Hayami Akina. \NTechnically Toyotomi's love interest.
+Dialogue: 10,0:00:31.57,0:00:35.01,Default,,0,0,0,,Born with incredible luck. \NFrom Chiba Prefecture.
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{OPED}
 Dialogue: 0,0:00:00.00,0:00:08.53,Sign,,0,0,0,,{\c&HDFCFE3&\blur0.6\b1\bord0\pos(314.66,21.11)}Article 186 of the Penal Code:
 Dialogue: 0,0:00:00.00,0:00:08.53,Sign,,0,0,0,,{\c&HDFCFE3&\pos(402.51,382.66)\b0\bord0}A person who engages in frequent gambling can be subject to criminal penalties, including imprisonment for up to three years.
