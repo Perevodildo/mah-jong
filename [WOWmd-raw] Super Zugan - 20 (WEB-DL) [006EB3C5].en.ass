@@ -17,9 +17,9 @@ Keyframes File: zugan keyframes/zugan20_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 389
-Active Line: 2830
-Video Position: 29335
+Scroll Position: 373
+Active Line: 374
+Video Position: 30808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -407,7 +407,7 @@ Dialogue: 10,0:21:16.63,0:21:18.24,Default,,0,0,0,,Toyotomi-kun,
 Dialogue: 10,0:21:18.24,0:21:19.55,Default,,0,0,0,,farewell!
 Dialogue: 10,0:21:20.32,0:21:21.64,Default,,0,0,0,,Akina-chan...
 Dialogue: 10,0:21:22.36,0:21:24.83,Default,,0,0,0,,Next time, the last episode of Super Zugan:
-Dialogue: 10,0:21:24.83,0:21:27.47,Default,,0,0,0,,"Zugan Flowers are Forever{ツカンコよ永遠に…}" part I and II!
+Dialogue: 10,0:21:24.83,0:21:27.47,Default,,0,0,0,,"Zuganers are Forever{ツカンコよ永遠に…}" part I and II!
 Dialogue: 10,0:21:27.47,0:21:30.06,Default,,0,0,0,,Don't miss it! \NDon't want to you to sleep on it!
 Comment: 0,0:21:30.06,0:21:33.06,Default,,0,0,0,,
 Dialogue: 0,0:00:18.54,0:00:18.58,Sign,,0,0,0,,{=0=1}{\bord1.8\alpha&HFF&\blur0.8\c&H63615F&\1a&HFF&\fnEighty Percent Caps\fax-0.000002\fscx62.52\fscy108.57\frz-0.71\frx2.1353\fry-16.5288\xbord0\ybord0\org(427.05,-253.86)\pos(482.58,210.66)}First \NBuilding
