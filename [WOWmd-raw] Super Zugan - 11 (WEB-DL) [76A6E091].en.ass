@@ -15,10 +15,10 @@ Audio File: [WOWmd-raw] Super Zugan - 11 (WEB-DL) [76A6E091].mp4
 Video File: [WOWmd-raw] Super Zugan - 11 (WEB-DL) [76A6E091].mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.875000
-Scroll Position: 379
-Active Line: 513
-Video Position: 2761
+Video Zoom Percent: 1.500000
+Scroll Position: 149
+Active Line: 150
+Video Position: 9887
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -109,7 +109,7 @@ Dialogue: 10,0:02:45.68,0:02:49.02,Default,,0,0,0,,Are you really trying \Nto ma
 Dialogue: 10,0:02:49.30,0:02:50.11,Default,,0,0,0,,Huh?
 Dialogue: 10,0:02:50.40,0:02:51.42,Default,,0,0,0,,I...
 Dialogue: 10,0:02:51.74,0:02:53.11,Default,,0,0,0,,I...
-Dialogue: 10,0:02:53.53,0:02:56.53,Default,,0,0,0,,I shan't feel the buzz at a measly 'go! {ワイは5じゃしびれへんのや!}
+Dialogue: 10,0:02:53.53,0:02:56.53,Default,,0,0,0,,I won't feel the buzz at a measly go! {ワイは5じゃしびれへんのや!}
 Dialogue: 10,0:02:56.53,0:02:59.53,Default,,0,0,0,,I'll do 'pin! \NA man can only feel alive at 'pin! {ピン = counter for dot tiles​? I have no fucking clue, muzuplz; 4ch: (1000 pts = 100 yen)}{short for Tenpin; explained it on line 72}
 Dialogue: 10,0:02:59.53,0:03:01.06,Default,,0,0,0,,I see...
 Dialogue: 10,0:03:01.06,0:03:03.38,Default,,0,0,0,,Mama! One open seat at the 'pin table!
@@ -182,7 +182,7 @@ Dialogue: 10,0:06:40.57,0:06:43.04,Default,,0,0,0,,You said that last time, and 
 Dialogue: 10,0:06:41.69,0:06:44.86,Overlap,,0,0,0,,Hey, hurry up! You wanna play or what?
 Dialogue: 10,0:06:44.86,0:06:46.84,Default,,0,0,0,,Sure thing!
 Dialogue: 10,0:06:47.37,0:06:49.30,Default,,0,0,0,,Will he be okay?
-Dialogue: 10,0:06:50.64,0:06:53.66,Default,,0,0,0,,Now Ryanpin, that's a real bewt...
+Dialogue: 10,0:06:50.64,0:06:53.66,Default,,0,0,0,,Now Ryanpin, that's a real godsend...
 Dialogue: 10,0:06:53.66,0:06:55.12,Default,,0,0,0,,Riichi!
 Dialogue: 10,0:07:01.07,0:07:02.04,Default,,0,0,0,,This one!
 Dialogue: 10,0:07:02.04,0:07:03.53,Default,,0,0,0,,Pass.
@@ -400,7 +400,7 @@ Dialogue: 10,0:19:07.48,0:19:09.36,Thought,,0,0,0,,Damn it!
 Dialogue: 10,0:19:09.36,0:19:12.67,Thought,,0,0,0,,Th-This time I won't fold!
 Dialogue: 10,0:19:12.67,0:19:14.67,Default,,0,0,0,,Let's go! Riichi!
 Dialogue: 10,0:19:14.67,0:19:15.68,Default,,0,0,0,,{?}
-Dialogue: 10,0:19:40.71,0:19:56.68,Default,,0,0,0,,Riichi only...
+Dialogue: 10,0:19:40.71,0:19:56.84,Default,,0,0,0,,Riichi only...
 Dialogue: 10,0:19:56.84,0:20:00.47,Default,,0,0,0,,What's with all the special effects \Nover a measly Riichi only?!
 Dialogue: 10,0:20:04.48,0:20:05.16,Default,,0,0,0,,R...
 Dialogue: 10,0:20:06.10,0:20:07.26,Default,,0,0,0,,Ro...
