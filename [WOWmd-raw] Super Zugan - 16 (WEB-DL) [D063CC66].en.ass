@@ -13,13 +13,12 @@ PlayResY: 480
 Last Style Storage: super sugan
 Audio File: [WOWmd-raw] Super Zugan - 16 (WEB-DL) [D063CC66].mp4
 Video File: [WOWmd-raw] Super Zugan - 16 (WEB-DL) [D063CC66].mp4
-Keyframes File: zugan keyframes/zugan16_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.500000
-Scroll Position: 417
-Active Line: 2263
-Video Position: 26459
+Video Zoom Percent: 2.125000
+Scroll Position: 403
+Active Line: 1034
+Video Position: 3927
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,15 +69,15 @@ Dialogue: 10,0:00:31.45,0:00:32.93,Default,,0,0,0,,Well, time for South!
 Dialogue: 10,0:00:38.23,0:00:40.81,Default,,0,0,0,,Toyotomi's drive is really something today!
 Dialogue: 10,0:00:40.81,0:00:43.31,Default,,0,0,0,,You haven't seen anything, \Nthat's just the East round!
 Dialogue: 10,0:00:43.31,0:00:44.70,Default,,0,0,0,,Riichi!
-Dialogue: 10,0:00:45.90,0:00:50.12,Thought,,0,0,0,,If I draw 6p or 7p, \Nit's tanyao sanshoku tenpai...
-Dialogue: 10,0:00:52.95,0:00:55.91,Thought,,0,0,0,,Dealer riichi? 2s is dangerous...
-Dialogue: 10,0:00:55.91,0:00:57.87,Thought,,0,0,0,,"Rich men shouldn't pick fights!" Mawashi!
+Dialogue: 10,0:00:45.90,0:00:50.12,Thought,,0,0,0,,If I draw a 6-pin or 7-pin, \Nit's Tanyao Sanshoku tenpai...
+Dialogue: 10,0:00:52.95,0:00:55.91,Thought,,0,0,0,,Dealer riichi? The 2-sou is dangerous...
+Dialogue: 10,0:00:55.91,0:00:57.87,Thought,,0,0,0,,"Rich men shouldn't pick fights!" Let's go around it!
 Dialogue: 10,0:00:58.68,0:00:59.83,Thought,,0,0,0,,I drew it...
 Dialogue: 10,0:01:08.25,0:01:09.32,Default,,0,0,0,,Boss!
-Dialogue: 10,0:01:09.32,0:01:12.18,Default,,0,0,0,,If ya hadn't cut the 4s, \Nya could've won ya best out!
-Dialogue: 10,0:01:12.18,0:01:15.14,Default,,0,0,0,,If the 4m and 2s had passed, that is.
-Dialogue: 10,0:01:15.14,0:01:17.85,Default,,0,0,0,,All right! Riichi tsumo!
-Dialogue: 10,0:01:21.10,0:01:24.19,Default,,0,0,0,,Oi! The dealer's wait was 58m!
+Dialogue: 10,0:01:09.32,0:01:12.18,Default,,0,0,0,,If ya hadn't cut the 4-sou, \Nya could've won ya best out!
+Dialogue: 10,0:01:12.18,0:01:15.14,Default,,0,0,0,,If the 4-man and 2-sou had passed, that is.
+Dialogue: 10,0:01:15.14,0:01:17.85,Default,,0,0,0,,All right! Riichi Tsumo!
+Dialogue: 10,0:01:21.10,0:01:24.19,Default,,0,0,0,,Oi! The dealer's wait was 5-8-man!
 Dialogue: 10,0:01:24.19,0:01:26.36,Default,,0,0,0,,Either one would've passed!
 Dialogue: 10,0:01:26.36,0:01:28.40,Default,,0,0,0,,E-Easy to say in hindsight...
 Dialogue: 10,0:01:28.40,0:01:30.53,Default,,0,0,0,,Well, it was cheap anyway, \Nit was the right call.
@@ -99,14 +98,14 @@ Dialogue: 10,0:02:09.21,0:02:11.19,Default,,0,0,0,,Mama-san, cold water please.
 Dialogue: 10,0:02:11.59,0:02:12.29,Default,,0,0,0,,Here you go.
 Dialogue: 10,0:02:15.61,0:02:16.38,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:02:16.38,0:02:17.51,Default,,0,0,0,,Good night!
-Dialogue: 10,0:02:22.78,0:02:25.34,Default,,0,0,0,,Havin' to go for two minute noodles's pretty shoddy.
+Dialogue: 10,0:02:22.78,0:02:25.34,Default,,0,0,0,,Havin' to go for three-minute noodles's pretty shoddy.
 Dialogue: 10,0:02:25.34,0:02:27.56,Default,,0,0,0,,Why couldn't I take first place...
 Dialogue: 10,0:02:29.47,0:02:32.59,Default,,0,0,0,,I always get good draws in East...
 Dialogue: 10,0:02:32.59,0:02:36.97,Default,,0,0,0,,Today too! \NI had 48,000 points going into South!
 Dialogue: 10,0:02:36.97,0:02:39.20,Default,,0,0,0,,I got it, Boss.
 Dialogue: 10,0:02:39.20,0:02:42.43,Default,,0,0,0,,The problem's the dealer Riichi in South 1!
 Dialogue: 10,0:02:42.43,0:02:43.77,Default,,0,0,0,,Riichi!
-Dialogue: 10,0:02:43.77,0:02:49.06,Default,,0,0,0,,Ya cut your only genbutsu, 4s, and bludged! {betaori}
+Dialogue: 10,0:02:43.77,0:02:49.06,Default,,0,0,0,,Ya cut your only genbutsu, 4-sou, and bludged! {betaori}
 Dialogue: 10,0:02:49.06,0:02:52.99,Default,,0,0,0,,That's the obvious play as first place.
 Dialogue: 10,0:02:52.99,0:02:54.97,Default,,0,0,0,,Fair enough, but after that...
 Dialogue: 10,0:02:54.97,0:02:57.24,Default,,0,0,0,,All right! Riichi tsumo!
@@ -116,15 +115,15 @@ Dialogue: 10,0:03:00.20,0:03:01.37,Default,,0,0,0,,Ron! 7,700.
 Dialogue: 10,0:03:01.37,0:03:02.56,Default,,0,0,0,,Tsumo! 500/1,000!
 Dialogue: 10,0:03:02.82,0:03:03.83,Default,,0,0,0,,Ron! 6,400!
 Dialogue: 10,0:03:03.83,0:03:05.25,Default,,0,0,0,,Tsumo! 8,000!
-Dialogue: 10,0:03:07.25,0:03:10.01,Default,,0,0,0,,O-Okay, you can stop already. {I hear "predictions are bad" but idk how to connect it to the next line}
-Dialogue: 10,0:03:10.01,0:03:14.47,Default,,0,0,0,,I shan't! That 4s is the reason for all ya losses, Boss!
+Dialogue: 10,0:03:07.25,0:03:10.01,Default,,0,0,0,,O-Okay, you can stop already. {I hear "predictions are bad" but idk how to connect it to the next line}{he's actually saying that his meal will go bad if Kenjin keeps reminding him of his mistakes}
+Dialogue: 10,0:03:10.01,0:03:14.47,Default,,0,0,0,,I shan't! That 4-sou is the reason for all ya losses, Boss!
 Dialogue: 10,0:03:15.17,0:03:16.45,Default,,0,0,0,,Right-o, Boss?
 Dialogue: 10,0:03:16.45,0:03:21.66,Default,,0,0,0,,If yer gambling hard and don't play head-on, \Nthat's piss-poor! Got it? {???????}
 Dialogue: 10,0:03:21.66,0:03:23.01,Default,,0,0,0,,Head-on?
 Dialogue: 10,0:03:23.01,0:03:25.81,Default,,0,0,0,,Too right! Like at Sekigahara!
 Dialogue: 10,0:03:25.81,0:03:28.48,Default,,0,0,0,,When the victory of the Eastern Army was already assured!
 Dialogue: 10,0:03:34.46,0:03:38.66,Default,,0,0,0,,Two thousand Satsuma soldiers from the Western Army remained on the battlefield!
-Dialogue: 10,0:03:38.66,0:03:39.99,Default,,0,0,0,,Criminy! {?????}
+Dialogue: 10,0:03:38.66,0:03:39.99,Default,,0,0,0,,Onward! {?????}{https://jisho.org/word/ちぇすと}
 Dialogue: 10,0:03:39.99,0:03:42.42,Default,,0,0,0,,It seems our Western Army is defeated!
 Dialogue: 10,0:03:42.42,0:03:46.63,Default,,0,0,0,,If we're to retreat anyway, then we'll show them the spirit of Satsuma first!
 Dialogue: 10,0:03:46.63,0:03:48.39,Default,,0,0,0,,
@@ -145,7 +144,7 @@ Dialogue: 10,0:04:31.27,0:04:33.16,Default,,0,0,0,,From the front!
 Dialogue: 10,0:04:33.16,0:04:34.63,Default,,0,0,0,,Too right!
 Dialogue: 10,0:04:34.63,0:04:37.09,Default,,0,0,0,,I get it! A man's gotta take things head-on!
 Dialogue: 10,0:04:37.62,0:04:39.24,Default,,0,0,0,,It's the same with mahjong!
-Dialogue: 10,0:04:39.24,0:04:45.06,Default,,0,0,0,,If yer gonna get last anyway, \Nit's better to pull it head on than by folding!
+Dialogue: 10,0:04:39.24,0:04:45.06,Default,,0,0,0,,If yer gonna get last anyway, \Nit's better to pull it head on than folding!
 Dialogue: 10,0:04:46.52,0:04:48.62,Default,,0,0,0,,Even if ya lose big time
 Dialogue: 10,0:04:48.62,0:04:53.21,Default,,0,0,0,,and end up 100,000 in the red, \Nat the end of the day, it's just a last place!
 Dialogue: 10,0:04:53.21,0:04:54.23,Default,,0,0,0,,That's right!
@@ -174,45 +173,45 @@ Dialogue: 10,0:05:55.13,0:05:56.01,Default,,0,0,0,,Righto.
 Dialogue: 10,0:05:57.50,0:05:59.99,Default,,0,0,0,,No worries, mate. Head on!
 Dialogue: 10,0:05:59.99,0:06:04.47,Default,,0,0,0,,Wait for it! To play head-on means trying to win greedily!
 Dialogue: 10,0:06:05.43,0:06:06.47,Default,,0,0,0,,Riichi.
-Dialogue: 10,0:06:06.47,0:06:10.20,Default,,0,0,0,,Oh no, I was too slow with discarding 8m!
-Dialogue: 10,0:06:10.20,0:06:12.94,Default,,0,0,0,,And with 5p and 3s!
+Dialogue: 10,0:06:06.47,0:06:10.20,Default,,0,0,0,,Oh no, I was too slow with my 8-man discard!
+Dialogue: 10,0:06:10.20,0:06:12.94,Default,,0,0,0,,And with the 5-pin and 3-sou!
 Dialogue: 10,0:06:12.94,0:06:13.87,Default,,0,0,0,,What?!
 Dialogue: 10,0:06:13.87,0:06:17.87,Default,,0,0,0,,N-No worries, mate! Just talkin' to myself, carry on, mate!
-Dialogue: 10,0:06:21.21,0:06:22.97,Default,,0,0,0,,Greeding successful!
-Dialogue: 10,0:06:22.97,0:06:26.22,Default,,0,0,0,,Hey. If I cut 4m, \NI'll have tanpin sanshoku tenpai!
-Dialogue: 10,0:06:26.22,0:06:28.35,Default,,0,0,0,,Do you think 4m will pass?
-Dialogue: 10,0:06:28.35,0:06:31.87,Default,,0,0,0,,Times like these, \Nya gotta believe she'll be right!
-Dialogue: 10,0:06:32.35,0:06:37.79,Default,,0,0,0,,It's London to a brick he's waiting on the 25p ya got an anko of! {>_>}
+Dialogue: 10,0:06:21.21,0:06:22.97,Default,,0,0,0,,Greed status: successful! {idk what to do to do it properly}
+Dialogue: 10,0:06:22.97,0:06:26.22,Default,,0,0,0,,Hey, if I cut the 4-man, \NI'll have Tanpin Sanshoku tenpai!
+Dialogue: 10,0:06:26.22,0:06:28.35,Default,,0,0,0,,Do you think the 4-man will pass?
+Dialogue: 10,0:06:28.35,0:06:31.87,Default,,0,0,0,,Times like these, \Nya gotta believe it'll be 'right!
+Dialogue: 10,0:06:32.35,0:06:37.79,Default,,0,0,0,,It's London to a brick he's waiting on the 2-5-pin ya got an anko of! {>_>}
 Dialogue: 10,0:06:37.79,0:06:39.75,Default,,0,0,0,,All right, let's go!
-Dialogue: 10,0:06:39.75,0:06:42.79,Default,,0,0,0,,Ron! Riichi pinfu.
+Dialogue: 10,0:06:39.75,0:06:42.79,Default,,0,0,0,,Ron! Riichi Pinfu.
 Dialogue: 10,0:06:42.79,0:06:43.99,Default,,0,0,0,,Zugan!
 Dialogue: 10,0:06:43.99,0:06:44.72,Default,,0,0,0,,Crikey!
 Dialogue: 10,0:06:45.28,0:06:46.07,Default,,0,0,0,,Riichi.
 Dialogue: 10,0:06:46.68,0:06:48.14,Default,,0,0,0,,Fold.
-Dialogue: 10,0:06:49.28,0:06:53.02,Default,,0,0,0,,Hmm, I can chii 2p and get keishiki tenpai with upgrade to sanshoku...
+Dialogue: 10,0:06:49.28,0:06:53.02,Default,,0,0,0,,Hmm, I can chii the 2-pin and get keishiki tenpai with a chance of sanshoku...
 Dialogue: 10,0:06:53.02,0:06:53.60,Default,,0,0,0,,But...
-Dialogue: 10,0:06:54.11,0:06:56.56,Default,,0,0,0,,Will the 8s pass?
+Dialogue: 10,0:06:54.11,0:06:56.56,Default,,0,0,0,,Will the 8-sou pass?
 Dialogue: 10,0:06:56.56,0:06:57.40,Default,,0,0,0,,Chii!
 Dialogue: 10,0:06:58.31,0:07:00.73,Default,,0,0,0,,Whatever! Push for tenpai!
-Dialogue: 10,0:07:00.73,0:07:05.80,Default,,0,0,0,,Knock-knock! Riichi chanta sanshoku, mangan!
+Dialogue: 10,0:07:00.73,0:07:05.80,Default,,0,0,0,,Kaboom{ドカーン}! Riichi Chanta Sanshoku, mangan!
 Dialogue: 10,0:07:05.80,0:07:06.81,Default,,0,0,0,,Crikey!
 Dialogue: 10,0:07:06.81,0:07:09.70,Default,,0,0,0,,Zugan!
 Dialogue: 10,0:07:09.70,0:07:12.82,Default,,0,0,0,,Toyotomi's pitchin' fast tonight!
 Dialogue: 10,0:07:14.04,0:07:16.67,Default,,0,0,0,,Boss, ya still got 1,000 points left.
-Dialogue: 10,0:07:17.04,0:07:20.83,Default,,0,0,0,,Even at the risk of busting out, \Nif ya play head on you'll get good hands for sure!
-Dialogue: 10,0:07:21.47,0:07:22.59,Default,,0,0,0,,Really!
+Dialogue: 10,0:07:17.04,0:07:20.83,Default,,0,0,0,,Even at the risk of busting out, \Nif ya play head-on you'll get good hands for sure!
+Dialogue: 10,0:07:21.47,0:07:22.59,Default,,0,0,0,,Really?
 Dialogue: 10,0:07:22.88,0:07:26.43,Default,,0,0,0,,Wow, it's true! What a great hand!
 Dialogue: 10,0:07:26.43,0:07:27.30,Default,,0,0,0,,Told ya!
 Dialogue: 10,0:07:29.10,0:07:30.08,Default,,0,0,0,,Pon!
 Dialogue: 10,0:07:30.53,0:07:31.43,Default,,0,0,0,,Chii!
-Dialogue: 10,0:07:32.56,0:07:36.52,Default,,0,0,0,,Tsumo! Nan honitsu chanta!
+Dialogue: 10,0:07:32.56,0:07:36.52,Default,,0,0,0,,Tsumo! Nan Honitsu Chanta!
 Dialogue: 10,0:07:36.52,0:07:38.48,Default,,0,0,0,,Attaway!
-Dialogue: 10,0:07:38.48,0:07:40.40,Default,,0,0,0,,Honitsu iipeikou!
-Dialogue: 10,0:07:40.40,0:07:42.40,Default,,0,0,0,,Riichi chiitoi!
-Dialogue: 10,0:07:42.40,0:07:44.36,Default,,0,0,0,,Pinfu dora dora!
-Dialogue: 10,0:07:44.36,0:07:46.32,Default,,0,0,0,,Tanyao dora 3!
-Dialogue: 10,0:07:46.32,0:07:48.28,Default,,0,0,0,,Junchan ryanpeikou!
-Dialogue: 10,0:07:48.28,0:07:50.68,Default,,0,0,0,,Boss! The head-on's shit-hot!
+Dialogue: 10,0:07:38.48,0:07:40.40,Default,,0,0,0,,Honitsu Iipeikou!
+Dialogue: 10,0:07:40.40,0:07:42.40,Default,,0,0,0,,Riichi Chiitoi!
+Dialogue: 10,0:07:42.40,0:07:44.36,Default,,0,0,0,,Pinfu Dora Dora!
+Dialogue: 10,0:07:44.36,0:07:46.32,Default,,0,0,0,,Tanyao Dora 3!
+Dialogue: 10,0:07:46.32,0:07:48.28,Default,,0,0,0,,Junchan Ryanpeikou!
+Dialogue: 10,0:07:48.28,0:07:50.68,Default,,0,0,0,,Boss! The head-on's pipin' hot!
 Dialogue: 10,0:07:50.68,0:07:52.57,Default,,0,0,0,,Yer first in all last!
 Dialogue: 10,0:07:52.57,0:07:55.37,Default,,0,0,0,,All right, now it's simple!
 Dialogue: 10,0:07:56.04,0:07:58.25,Default,,0,0,0,,Take first by winning a hand!
@@ -222,33 +221,33 @@ Dialogue: 10,0:08:08.22,0:08:10.64,Thought,,0,0,0,,Time for a power move!
 Dialogue: 10,0:08:10.64,0:08:11.56,Default,,0,0,0,,Kan!
 Dialogue: 10,0:08:12.60,0:08:14.64,Default,,0,0,0,,Keep revving up yer head-on, Boss!
 Dialogue: 10,0:08:14.64,0:08:15.96,Default,,0,0,0,,You bet I will!
-Dialogue: 10,0:08:15.96,0:08:17.85,Thought,,0,0,0,,All right, drew a 3p anko!
+Dialogue: 10,0:08:15.96,0:08:17.85,Thought,,0,0,0,,All right, drew a 3-pin anko!
 Dialogue: 10,0:08:18.88,0:08:19.77,Default,,0,0,0,,Haku pon!
 Dialogue: 10,0:08:21.77,0:08:23.74,Default,,0,0,0,,Kan this too!
 Dialogue: 10,0:08:23.74,0:08:26.84,Thought,,0,0,0,,Whoa, amazing draws!
 Dialogue: 10,0:08:27.95,0:08:29.94,Default,,0,0,0,,Kan! Kan! Kan!
-Dialogue: 10,0:08:30.79,0:08:34.91,Thought,,0,0,0,,All right, tenpai for toitoi sankantsu haku dora 3!
-Dialogue: 10,0:08:35.25,0:08:36.68,Default,,0,0,0,,She'll be right now! {??}
+Dialogue: 10,0:08:30.79,0:08:34.91,Thought,,0,0,0,,All right, tenpai for Toitoi Sankantsu Haku Dora 3!
+Dialogue: 10,0:08:35.25,0:08:36.68,Default,,0,0,0,,They grow up so fast. {??}
 Dialogue: 10,0:08:36.68,0:08:38.46,Default,,0,0,0,,I say this passes!
 Dialogue: 10,0:08:38.46,0:08:40.46,Default,,0,0,0,,It's a Kan!
 Dialogue: 10,0:08:40.46,0:08:42.42,Default,,0,0,0,,Boss!
 Dialogue: 10,0:08:42.92,0:08:45.18,Default,,0,0,0,,Suukantsu?!
 Dialogue: 10,0:08:55.19,0:08:55.73,Default,,0,0,0,,
-Dialogue: 10,0:08:55.93,0:08:57.83,Default,,0,0,0,,Nothin' personnel, Toyotomi.
+Dialogue: 10,0:08:55.93,0:08:57.83,Default,,0,0,0,,Nothin' personal, Toyotomi.
 Dialogue: 10,0:08:57.83,0:08:59.25,Default,,0,0,0,,Ton, kan!
 Dialogue: 10,0:08:59.89,0:09:01.06,Default,,0,0,0,,
 Dialogue: 10,0:09:01.06,0:09:03.19,Default,,0,0,0,,Now it's a draw.
 Dialogue: 10,0:09:03.68,0:09:06.85,Default,,0,0,0,,Th-There's no abortive draw when there's a suukantsu!
 Dialogue: 10,0:09:06.85,0:09:10.65,Default,,0,0,0,,Don't be stupid, Toyotomi! \NThere's no rinshan to draw anymore!
 Dialogue: 10,0:09:10.65,0:09:16.62,Top,,0,0,0,,\N\N\N\N\N\NBut hey, Shintaro,\NI kind of agree with Toyotomi though... {(he's in suuankou tenpai)}
-Dialogue: 10,0:09:18.00,0:09:21.17,Top,,0,0,0,,\N\N\N\N\N\NI also think it doesn't go to draw in this case.\N{(also in suuankou tenpai)}
+Dialogue: 10,0:09:18.00,0:09:21.17,Top,,0,0,0,,\N\N\N\N\N\NI also think it doesn't draw in this case.\N{(also in suuankou tenpai)}
 Dialogue: 10,0:09:23.05,0:09:25.49,Thought,,0,0,0,,Toyotomi won't be the one to win this round.
 Dialogue: 10,0:09:25.49,0:09:29.01,Thought,,0,0,0,,I'll win a suuankou before him!
 Dialogue: 10,0:09:29.01,0:09:34.97,Default,,0,0,0,,All right, got it! Then I'll just draw this dora indicator! Don't mind if I do!
 Dialogue: 10,0:09:34.97,0:09:36.93,Default,,0,0,0,,No way!
-Dialogue: 10,0:09:36.93,0:09:39.35,Default,,0,0,0,,Whoa, 1m tsumo!
-Dialogue: 10,0:09:39.98,0:09:42.62,Default,,0,0,0,,Whoa, my winning tile was there?!
-Dialogue: 10,0:09:42.62,0:09:46.72,Default,,0,0,0,,Tsumo, sanankou dora 8! \NComeback into first!
+Dialogue: 10,0:09:36.93,0:09:39.35,Default,,0,0,0,,Whoa, 1-man tsumo!
+Dialogue: 10,0:09:39.98,0:09:42.62,Default,,0,0,0,,Whoa, so this tile was there?! {the pei which gives him 4 new dora}
+Dialogue: 10,0:09:42.62,0:09:46.72,Default,,0,0,0,,Tsumo, San-ankou Dora 8! \NComeback into first!
 Dialogue: 10,0:09:46.72,0:09:51.07,Default,,0,0,0,,Zugan!
 Dialogue: 10,0:09:51.70,0:09:54.57,Default,,0,0,0,,Oh? So that's what happened last night?
 Dialogue: 10,0:09:54.57,0:09:57.16,Default,,0,0,0,,My head-on playstyle backfired...
@@ -259,7 +258,7 @@ Dialogue: 10,0:10:12.24,0:10:15.62,Default,,0,0,0,,Zugaaan...
 Dialogue: 10,0:10:18.10,0:10:21.25,Narrator,,0,0,0,,Duke said, "Don't stand {\i1}behind{\i0} me!"\N{(TN: from the manga Golgo 13)}
 Dialogue: 10,0:10:21.25,0:10:24.71,Narrator,,0,0,0,,Miho-chan said, "Who's {\i1}behind{\i0} me now?"\N{(TN: from the nursery rhyme Kagome Kagome)}
 Dialogue: 10,0:10:24.71,0:10:28.90,Narrator,,0,0,0,,The Grumman F4F pilot said, \N"Don't fly a Zero {\i1}behind{\i0} me."
-Dialogue: 10,0:10:28.90,0:10:35.06,Narrator,,0,0,0,,Toyotomi thought, "Maybe it's not so bad to try a model from {\i1}behind{\i0} sometimes!" {I have no idea what he means}
+Dialogue: 10,0:10:28.90,0:10:35.06,Narrator,,0,0,0,,Toyotomi thought, "Maybe it's not so bad to try out a model from {\i1}behind{\i0} sometimes!" {I have no idea what he means}
 Dialogue: 10,0:10:56.93,0:10:58.03,Default,,0,0,0,,Wassup!
 Dialogue: 10,0:10:58.03,0:10:59.79,Default,,0,0,0,,How do you do, Mama-san?
 Dialogue: 10,0:10:59.79,0:11:03.27,Default,,0,0,0,,Ah, welcome. \NYou're also here today, Akina-chan?
@@ -289,25 +288,25 @@ Dialogue: 10,0:12:33.36,0:12:35.36,Default,,0,0,0,,Whoa! That's a ballsy discard
 Dialogue: 10,0:12:35.36,0:12:39.32,Default,,0,0,0,,Hey, buddy. \NCutting safe tiles isn't ballsy, you know.
 Dialogue: 10,0:12:39.32,0:12:42.78,Default,,0,0,0,,What's a safe tile?! I drew that to get into tenpai.
 Dialogue: 10,0:12:46.00,0:12:48.54,Default,,0,0,0,,Now yer cutting risky tiles too!
-Dialogue: 10,0:12:49.50,0:12:55.34,Default,,0,0,0,,I read your wait, is all. \NIt's 69m, and I have an anko of it.
-Dialogue: 10,0:12:55.34,0:12:58.95,Default,,0,0,0,,6m just passed! \NPay attention, you dimwit!
+Dialogue: 10,0:12:49.50,0:12:55.34,Default,,0,0,0,,I read your wait, is all. \NIt's 6-9-man, and I have an anko of it.
+Dialogue: 10,0:12:55.34,0:12:58.95,Default,,0,0,0,,The 6-man just passed! \NPay attention, you dimwit!
 Dialogue: 10,0:12:59.28,0:13:03.93,Thought,,0,0,0,,Wutcha sayin'? You're gonna deal into my 18,000 anyway, Shintaro.
 Dialogue: 10,0:13:03.93,0:13:05.98,Thought,,0,0,0,,C'mon, draw it.
 Dialogue: 10,0:13:12.25,0:13:15.75,Thought,,0,0,0,,C'mon, deal in, you fat loser.
 Dialogue: 10,0:13:26.25,0:13:27.54,Thought,,0,0,0,,The dora...
-Dialogue: 10,0:13:27.54,0:13:30.46,Thought,,0,0,0,,I'll turn it to baiman! Dora tanki!
-Dialogue: 10,0:13:32.34,0:13:35.71,Default,,0,0,0,,The fat guy's 2p was one turn too early...
+Dialogue: 10,0:13:27.54,0:13:30.46,Thought,,0,0,0,,I'll turn it into baiman! Dora tanki!
+Dialogue: 10,0:13:32.34,0:13:35.71,Default,,0,0,0,,The fat guy's 2-pin was one turn too early...
 Dialogue: 10,0:13:46.66,0:13:50.27,Thought,,0,0,0,,Ugh! Would have been ippatsu...
-Dialogue: 10,0:13:50.27,0:13:52.10,Default,,0,0,0,,All right, tsumo dora 1!
+Dialogue: 10,0:13:50.27,0:13:52.10,Default,,0,0,0,,All right, Tsumo Dora 1!
 Dialogue: 10,0:13:52.67,0:13:53.73,Default,,0,0,0,,Furiten?!
-Dialogue: 10,0:13:53.73,0:13:56.25,Default,,0,0,0,,And just a tsumo dora 1?
+Dialogue: 10,0:13:53.73,0:13:56.25,Default,,0,0,0,,And just a Tsumo Dora 1?
 Dialogue: 10,0:13:56.25,0:13:58.08,Default,,0,0,0,,What a cheesy win!
 Dialogue: 10,0:14:00.84,0:14:04.45,Default,,0,0,0,,That's what happens when I read \Nand hold on to all your waits!
 Dialogue: 10,0:14:07.11,0:14:07.99,Default,,0,0,0,,Riichi!
-Dialogue: 10,0:14:08.33,0:14:12.01,Default,,0,0,0,,Oh, 7m suji trap again? I won't fall for it!
+Dialogue: 10,0:14:08.33,0:14:12.01,Default,,0,0,0,,Oh, a 7-man suji trap again? I won't fall for it!
 Dialogue: 10,0:14:12.38,0:14:13.19,Default,,0,0,0,,Pon!
 Dialogue: 10,0:14:13.19,0:14:16.79,Default,,0,0,0,,You like toitoi, huh? \NYou have a shanpon of ton and chun!
-Dialogue: 10,0:14:17.07,0:14:21.76,Default,,0,0,0,,Bro, even if you dama that pinfu ittsuu, \NI won't cut your 4m takame!
+Dialogue: 10,0:14:17.07,0:14:21.76,Default,,0,0,0,,Bro, even if you dama that Pinfu Ittsuu, \NI won't cut your best out, 4-man!
 Dialogue: 10,0:14:23.29,0:14:24.87,Default,,0,0,0,,He's reading...
 Dialogue: 10,0:14:24.87,0:14:26.99,Default,,0,0,0,,our waits...
 Dialogue: 10,0:14:27.68,0:14:29.44,Default,,0,0,0,,perfectly...
@@ -331,9 +330,9 @@ Dialogue: 10,0:15:17.79,0:15:20.19,Default,,0,0,0,,Rude! I'm playing too!
 Dialogue: 10,0:15:21.36,0:15:22.82,Default,,0,0,0,,Riichi!
 Dialogue: 10,0:15:23.36,0:15:27.82,Thought,,0,0,0,,Made it! I have a dora pair! I can even get haneman!
 Dialogue: 10,0:15:27.84,0:15:29.05,Default,,0,0,0,,There, Suji!
-Dialogue: 10,0:15:30.24,0:15:35.49,Default,,0,0,0,,Ron! Riichi ippatsu iipeikou ura 1!
+Dialogue: 10,0:15:30.24,0:15:35.49,Default,,0,0,0,,Ron! Riichi Ippatsu Iipeikou Ura 1!
 Dialogue: 10,0:15:35.49,0:15:36.98,Default,,0,0,0,,Zugan!
-Dialogue: 10,0:15:36.98,0:15:40.92,Default,,0,0,0,,I should have been less greedy and cut 1p genbutsu!
+Dialogue: 10,0:15:36.98,0:15:40.92,Default,,0,0,0,,I should have been less greedy and cut the 1-pin genbutsu!
 Dialogue: 10,0:15:42.92,0:15:48.40,Default,,0,0,0,,A parlor employee dumb enough to deal into such an obvious suji trap?!
 Dialogue: 10,0:15:48.87,0:15:52.39,Default,,0,0,0,,Anyway, sorry Mama-san! \NHead bump!
 Dialogue: 10,0:15:53.39,0:15:55.16,Default,,0,0,0,,What's so funny?
@@ -349,28 +348,28 @@ Dialogue: 10,0:16:23.42,0:16:26.80,Default,,0,0,0,,You were doing drugs \Nto imp
 Dialogue: 10,0:16:26.80,0:16:28.59,Default,,0,0,0,,Tsk. He saw me...
 Dialogue: 10,0:16:28.59,0:16:30.91,Default,,0,0,0,,We can't allow such dangerous people in our parlor,
 Dialogue: 10,0:16:30.91,0:16:34.39,Default,,0,0,0,,I'll be taking this to Mama, thank you and goodbye and please don't come again!
-Dialogue: 10,0:16:34.39,0:16:36.87,Default,,0,0,0,,Wait a moment! \NWhat the fuck are you saying?
+Dialogue: 10,0:16:34.39,0:16:36.87,Default,,0,0,0,,Wait a moment! \NWhat the hell are you saying?
 Dialogue: 10,0:16:36.87,0:16:38.64,Default,,0,0,0,,It's just ordinary glucose!
 Dialogue: 10,0:16:38.95,0:16:39.99,Default,,0,0,0,,What? Glucose?
 Dialogue: 10,0:16:42.03,0:16:43.11,Default,,0,0,0,,Wow, it's actually sweet.
 Dialogue: 10,0:16:43.11,0:16:44.63,Default,,0,0,0,,Of course!
 Dialogue: 10,0:16:44.63,0:16:46.80,Default,,0,0,0,,It's just a type of sugar.
-Dialogue: 10,0:16:46.80,0:16:51.07,Default,,0,0,0,,I'm merely using the nutrients \Nto nourish my instincts. {俺は栄養剤によってカンを養ってん だthat's basically the thing that toyotomi accused him of so idk how to word it}
+Dialogue: 10,0:16:46.80,0:16:51.07,Default,,0,0,0,,I'm merely using this to supplement \N my skills. {俺は栄養剤によってカンを養ってん だthat's basically the thing that toyotomi accused him of so idk how to word it}
 Dialogue: 10,0:16:51.07,0:16:53.01,Default,,0,0,0,,Ah, that hits the spot...
 Dialogue: 10,0:16:53.01,0:16:55.87,Default,,0,0,0,,Oh, so that's why you're so fat!
 Dialogue: 10,0:16:57.33,0:16:59.83,Default,,0,0,0,,I can see it. I can see better already!
 Dialogue: 10,0:16:59.83,0:17:00.92,Default,,0,0,0,,Riichi!
 Dialogue: 10,0:17:00.92,0:17:04.88,Default,,0,0,0,,Even a big guy like you couldn't read my wait here!
-Dialogue: 10,0:17:04.88,0:17:08.04,Default,,0,0,0,,Ah, a 69m wait? That's a nice wait.
+Dialogue: 10,0:17:04.88,0:17:08.04,Default,,0,0,0,,Ah, a 6-9-man wait? That's a nice wait.
 Dialogue: 10,0:17:08.04,0:17:10.49,Default,,0,0,0,,Or so it would have been if you weren't playing against me!
 Dialogue: 10,0:17:10.49,0:17:11.59,Default,,0,0,0,,No way!
 Dialogue: 10,0:17:11.59,0:17:12.64,Default,,0,0,0,,Tsumo!
-Dialogue: 10,0:17:18.31,0:17:22.27,Default,,0,0,0,,Nice tsumo, \NI knew that 6m was your wait.
+Dialogue: 10,0:17:18.31,0:17:22.27,Default,,0,0,0,,Nice tsumo, \NI knew that 6-man was your wait.
 Dialogue: 10,0:17:22.27,0:17:25.71,Thought,,0,0,0,,If I riichi, he'll read my wait. I'll dama now!
-Dialogue: 10,0:17:26.11,0:17:29.69,Default,,0,0,0,,I can read dama too! \N2s kanchan, isn't it?
+Dialogue: 10,0:17:26.11,0:17:29.69,Default,,0,0,0,,I can read dama too! \N2-sou kanchan, isn't it?
 Dialogue: 10,0:17:29.69,0:17:34.55,Default,,0,0,0,,Oh no! How did you know?! \NTsumo, haneman!
 Dialogue: 10,0:17:36.12,0:17:39.18,Thought,,0,0,0,,There's no way he can read this wait...
-Dialogue: 10,0:17:41.13,0:17:44.69,Default,,0,0,0,,I can read shanpon too! 5m and 8s!
+Dialogue: 10,0:17:41.13,0:17:44.69,Default,,0,0,0,,I can read shanpon too! 5-man and 8-sou!
 Dialogue: 10,0:17:45.54,0:17:48.48,Default,,0,0,0,,Ah! I got exposed like an idiot!
 Dialogue: 10,0:17:48.48,0:17:51.72,Default,,0,0,0,,Tsumo! I'm embarrassed, \Nbut it's dealer baiman!
 Dialogue: 10,0:17:54.51,0:17:59.00,Default,,0,0,0,,This is bad... \NI have to get this girl off dealer quick.
@@ -380,47 +379,47 @@ Dialogue: 10,0:18:02.98,0:18:06.73,Default,,0,0,0,,Tsumo! 300/500 with 1 honba, 
 Dialogue: 10,0:18:06.73,0:18:07.80,Default,,0,0,0,,I'm bust!
 Dialogue: 10,0:18:11.16,0:18:15.57,Default,,0,0,0,,N-No good! \NI'm 20,000 in the red and in third place!
 Dialogue: 10,0:18:15.57,0:18:17.66,Default,,0,0,0,,I need to go on the attack!
-Dialogue: 10,0:18:18.75,0:18:21.78,Thought,,0,0,0,,She's got an early 58p wait, right?
-Dialogue: 10,0:18:24.05,0:18:26.54,Default,,0,0,0,,What's this? 5p kan!
-Dialogue: 10,0:18:27.17,0:18:29.13,Default,,0,0,0,,And then, 8p kan!
+Dialogue: 10,0:18:18.75,0:18:21.78,Thought,,0,0,0,,She's got an early 5-8-pin wait, right?
+Dialogue: 10,0:18:24.05,0:18:26.54,Default,,0,0,0,,What's this? 5-pin kan!
+Dialogue: 10,0:18:27.17,0:18:29.13,Default,,0,0,0,,And then, 8-pin kan!
 Dialogue: 10,0:18:30.55,0:18:31.89,Default,,0,0,0,,Riichi!
-Dialogue: 10,0:18:37.19,0:18:40.43,Thought,,0,0,0,,With that hand, she can't but cut 67p!
+Dialogue: 10,0:18:37.19,0:18:40.43,Thought,,0,0,0,,With that hand, she can't cut anything but 6-7-pin!
 Dialogue: 10,0:18:44.89,0:18:45.98,Default,,0,0,0,,Riichi!
 Dialogue: 10,0:18:46.60,0:18:47.75,Default,,0,0,0,,What?!
 Dialogue: 10,0:18:48.61,0:18:50.37,Default,,0,0,0,,Impossible!
-Dialogue: 10,0:18:50.37,0:18:54.22,Default,,0,0,0,,Ron! Riichi ippatsu tanyao chiitoi!
-Dialogue: 10,0:18:54.22,0:18:55.91,Default,,0,0,0,,Dora dora dora dora!
+Dialogue: 10,0:18:50.37,0:18:54.22,Default,,0,0,0,,Ron! Riichi Ippatsu Tanyao Chiitoi!
+Dialogue: 10,0:18:54.22,0:18:55.91,Default,,0,0,0,,Dora Dora Dora Dora!
 Dialogue: 10,0:18:56.32,0:19:00.29,Default,,0,0,0,,Dora Dora Dora Dora Dora Dora Dora Dora Dora...
-Dialogue: 10,0:19:01.72,0:19:04.75,Default,,0,0,0,,What do you know! It looks like you got shadowrealmed in East 1 too!
-Dialogue: 10,0:19:04.75,0:19:07.75,Default,,0,0,0,,I'm not gonna hear to that \Nfrom the likes of you!
+Dialogue: 10,0:19:01.72,0:19:04.75,Default,,0,0,0,,What do you know! It looks like you busted out in East 1 too!
+Dialogue: 10,0:19:04.75,0:19:07.75,Default,,0,0,0,,I'm not gonna hear that \Nfrom the likes of you!
 Dialogue: 10,0:19:08.65,0:19:10.71,Default,,0,0,0,,Another hanchan!
 Dialogue: 10,0:19:11.13,0:19:12.67,Default,,0,0,0,,Early riichi!
-Dialogue: 10,0:19:12.67,0:19:14.42,Default,,0,0,0,,7p penchan, isn't it?
-Dialogue: 10,0:19:14.42,0:19:17.93,Default,,0,0,0,,Oh no, you're spot on! \NIppatsu tsumo, dealer's mangan!
+Dialogue: 10,0:19:12.67,0:19:14.42,Default,,0,0,0,,7-pin penchan, isn't it?
+Dialogue: 10,0:19:14.42,0:19:17.93,Default,,0,0,0,,Oh no, you're spot on! \NIppatsu Tsumo, dealer's mangan!
 Dialogue: 10,0:19:17.93,0:19:20.49,Default,,0,0,0,,So I thought!
 Dialogue: 10,0:19:21.64,0:19:24.33,Default,,0,0,0,,Your read was right! \NTsumo, haneman!
 Dialogue: 10,0:19:24.33,0:19:25.10,Default,,0,0,0,,So I thought!
 Dialogue: 10,0:19:25.10,0:19:28.06,Default,,0,0,0,,Spot-on! Tsumo, 2,000/4,000!
 Dialogue: 10,0:19:28.06,0:19:30.98,Default,,0,0,0,,Spot-on! Tsumo, 3,000/6,000!
-Dialogue: 10,0:19:33.90,0:19:35.61,Default,,0,0,0,,Kokushi, waiting on 9s!
+Dialogue: 10,0:19:33.90,0:19:35.61,Default,,0,0,0,,Kokushi, waiting on 9-sou!
 Dialogue: 10,0:19:35.61,0:19:36.82,Default,,0,0,0,,Kyaa!
 Dialogue: 10,0:19:36.82,0:19:39.93,Default,,0,0,0,,I'm no match for your reads!
 Dialogue: 10,0:19:39.93,0:19:42.77,Default,,0,0,0,,Tsumo, yakuman!
-Dialogue: 10,0:19:45.79,0:19:46.98,Default,,0,0,0,,Shadowrealmed.
+Dialogue: 10,0:19:45.79,0:19:46.98,Default,,0,0,0,,Busted out.
 Dialogue: 10,0:19:49.59,0:19:53.32,Default,,0,0,0,,Say, big guy, was losing \Nalso part of your point read?
 Dialogue: 10,0:19:53.32,0:19:54.63,Default,,0,0,0,,Wh-What?!
 Dialogue: 10,0:19:54.63,0:19:57.88,Default,,0,0,0,,You've got a bit mouth for someone \Nwho busted out the first!
-Dialogue: 10,0:19:57.88,0:20:01.82,Default,,0,0,0,,We both did now, but I'm starting dealer! \NAnd you're West seat!
+Dialogue: 10,0:19:57.88,0:20:01.82,Default,,0,0,0,,We both did now, but I'm starting dealer! \NAnd you're in the West seat!
 Dialogue: 10,0:20:01.82,0:20:04.85,Default,,0,0,0,,In other words... \NYou're last by placement!
 Dialogue: 10,0:20:12.99,0:20:16.89,Default,,0,0,0,,Well done, Toyotomi-kun! \NIn the end, it was you who dealt the final blow.
 Dialogue: 10,0:20:18.13,0:20:23.12,Thought,,0,0,0,,If reading their waits doesn't work... \NI won't even look at them anymore!
 Dialogue: 10,0:20:23.12,0:20:25.53,Default,,0,0,0,,There is only attack!
-Dialogue: 10,0:20:25.53,0:20:28.25,Default,,0,0,0,,All right, my takame came out!
+Dialogue: 10,0:20:25.53,0:20:28.25,Default,,0,0,0,,All right, my best out came out!
 Dialogue: 10,0:20:28.25,0:20:31.54,Default,,0,0,0,,Honitsu Ittsuu Iipeikou, Haneman!
-Dialogue: 10,0:20:31.54,0:20:32.83,Default,,0,0,0,,For you!
+Dialogue: 10,0:20:31.54,0:20:32.83,Default,,0,0,0,,That's a wrap! {ラスト!}
 Dialogue: 10,0:20:32.83,0:20:36.47,Default,,0,0,0,,Mate, that's too painful even for you.
 Dialogue: 10,0:20:36.47,0:20:39.03,Default,,0,0,0,,Yeah, at least try to read his wait!
-Dialogue: 10,0:20:39.03,0:20:42.01,Default,,0,0,0,,Look, you drew a suji!
+Dialogue: 10,0:20:39.03,0:20:42.01,Default,,0,0,0,,Look, this one's a suji!
 Dialogue: 10,0:20:46.15,0:20:50.19,Default,,0,0,0,,Coming up! Big guy on table three \Nbusted out again!
 Dialogue: 10,0:20:50.56,0:20:53.21,Default,,0,0,0,,I guess floating and sinking \Ngo together in life!
 Dialogue: 10,0:20:53.21,0:20:57.09,Default,,0,0,0,,But you're the one \Nthat made him sink! You!
@@ -430,7 +429,7 @@ Dialogue: 10,0:21:13.26,0:21:18.88,Default,,0,0,0,,This next story is a tad sad 
 Dialogue: 10,0:21:18.88,0:21:22.56,Default,,0,0,0,,And about a lovely girl \Nthat Kenjin-kun met on Valentine's Day.
 Dialogue: 10,0:21:23.01,0:21:26.16,Default,,0,0,0,,Next time: \N"My Zugan Valentine{バレンタインはツカンポの香り},"
 Dialogue: 10,0:21:26.16,0:21:27.92,Default,,0,0,0,,and "Akina Triangle{明菜トライアングル}."
-Dialogue: 10,0:21:27.92,0:21:30.61,Default,,0,0,0,,Don't miss it! \NI'll kill myself if you sleep!
+Dialogue: 10,0:21:27.92,0:21:30.61,Default,,0,0,0,,Don't miss it! \N{I'll kill myself}{<- lol}I'll never forgive you if you sleep!
 Comment: 0,0:21:30.61,0:21:33.61,Default,,0,0,0,,
 Dialogue: 0,0:00:18.46,0:00:18.50,Sign,,0,0,0,,{=0=1}{\bord1.45\alpha&HFF&\org(324.44,244.44)\pos(378.93,210.7)\blur0.56\c&H533C4C&\1a&HFF&\fnBaka-LaStoria\fscx65.24\fscy76.13\frz-9.91\frx21.4286\fry9.6829\xbord0\ybord0}Mahjong parlor\N{\c&H6C3066&}First Building {壱番館I think it was used before and if it's a pun I still don't get it}
 Dialogue: 0,0:00:18.50,0:00:18.54,Sign,,0,0,0,,{=0}{\bord1.45\alpha&HF5&\org(323.98,245.14)\pos(378.36,211.45)\blur0.56\c&H533C4C&\1a&HF6&\fnBaka-LaStoria\fscx65.11\fscy75.98\frz-9.9\frx21.4286\fry9.6829\xbord0\ybord0}Mahjong parlor\N{\c&H6C3066&}First Building {壱番館I think it was used before and if it's a pun I still don't get it}
@@ -659,7 +658,149 @@ Dialogue: 0,0:00:37.72,0:00:37.76,Sign,,0,0,0,,{=3}{\fscy100\frz0.07\fscx100\alp
 Dialogue: 0,0:00:37.76,0:00:37.80,Sign,,0,0,0,,{=3}{\fscy100.03\frz0.05\fscx100.03\alpha&H00&\pos(316.75,90.98)\bord5\blur10\c&HFFFFFF&\3c&HDE99C4&\fn@A-OTF BokutohN Std B}Episode 16 Part 1 \N{\fs60}Head-On Zugan {前向きヅガンchapter 54}
 Dialogue: 0,0:00:37.80,0:00:37.85,Sign,,0,0,0,,{=3}{\fscy100.07\frz0.05\fscx100.07\alpha&H00&\pos(317.02,91.05)\bord5\blur10.01\c&HFFFFFF&\3c&HDE99C4&\fn@A-OTF BokutohN Std B}Episode 16 Part 1 \N{\fs60}Head-On Zugan {前向きヅガンchapter 54}
 Dialogue: 0,0:00:37.85,0:00:37.89,Sign,,0,0,0,,{=3=5}{\fscy100.06\frz0.04\fscx100.06\alpha&H00&\pos(317.04,91.13)\bord5\blur10.01\c&HFFFFFF&\3c&HDE99C4&\fn@A-OTF BokutohN Std B}Episode 16 Part 1 \N{\fs60}Head-On Zugan {前向きヅガンchapter 54}
-Dialogue: 0,0:00:45.32,0:00:51.28,Sign,,0,0,0,,don't know what to do about the above signs, remind me to typeset them when muzu fills that in
+Dialogue: 0,0:00:45.31,0:00:45.35,Sign,,0,0,0,,{=55=56}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(483.09,101.53)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.35,0:00:45.39,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(480.4,101.47)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.39,0:00:45.44,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(479.01,102.25)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.44,0:00:45.48,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(477.69,101.55)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.48,0:00:45.52,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(476.39,102.38)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.52,0:00:45.56,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(473.45,102.84)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.56,0:00:45.60,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(471.4,102.88)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.60,0:00:45.64,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(468.87,102.85)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.64,0:00:45.69,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(466.62,102.25)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.69,0:00:45.73,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(464.94,101.97)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.73,0:00:45.77,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(463.06,102.02)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.77,0:00:45.81,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(461.79,101.99)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.81,0:00:45.85,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(460.43,102.01)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.85,0:00:45.90,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(458.5,101.94)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.90,0:00:45.94,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(456.61,102.23)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.94,0:00:45.98,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(454.84,102.23)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:45.98,0:00:46.02,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(453.8,102.22)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.02,0:00:46.06,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(451.94,102.12)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.06,0:00:46.10,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(450.61,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.10,0:00:46.15,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(448.7,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.15,0:00:46.19,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(447,102.19)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.19,0:00:46.23,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(445.49,102.14)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.23,0:00:46.27,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(444.02,102.36)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.27,0:00:46.31,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(442.94,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.31,0:00:46.35,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(441.17,102.13)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.35,0:00:46.40,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(438.98,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.40,0:00:46.44,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(437.74,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.44,0:00:46.48,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(435.72,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.48,0:00:46.52,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(434.67,102.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.52,0:00:46.56,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(432.91,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.56,0:00:46.60,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(431.36,102.11)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.60,0:00:46.65,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(429.65,102.12)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.65,0:00:46.69,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(427.9,102.08)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.69,0:00:46.73,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(426.37,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.73,0:00:46.77,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(423.97,102.13)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.77,0:00:46.81,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(422.6,102.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.81,0:00:46.85,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(421.6,102.11)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.85,0:00:46.90,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(419.66,102.04)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.90,0:00:46.94,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(418.19,102.07)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.94,0:00:46.98,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(416.46,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:46.98,0:00:47.02,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(414.62,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.02,0:00:47.06,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(413.26,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.06,0:00:47.10,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(411.68,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.10,0:00:47.15,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(409.96,102.28)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.15,0:00:47.19,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(408.32,102.05)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.19,0:00:47.23,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(406.94,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.23,0:00:47.27,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(404.97,102.26)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.27,0:00:47.31,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(403.2,102.25)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.31,0:00:47.35,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(401.93,102.21)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.35,0:00:47.40,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(400.3,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.40,0:00:47.44,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(398.46,102.2)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.44,0:00:47.48,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(396.86,102.21)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.48,0:00:47.52,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(395.45,102.19)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.52,0:00:47.56,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(393.66,102.14)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.56,0:00:47.61,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(391.65,102.21)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.61,0:00:47.65,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(390.47,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.65,0:00:47.69,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(388.58,102.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.69,0:00:47.73,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(386.36,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.73,0:00:47.77,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(385.27,102.17)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.77,0:00:47.81,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(383.58,102.12)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.81,0:00:47.86,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(382.22,102.14)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.86,0:00:47.90,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(380.55,101.97)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.90,0:00:47.94,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(379.04,102.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.94,0:00:47.98,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(377.2,102.14)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:47.98,0:00:48.02,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(375.65,102.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.02,0:00:48.06,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(374.01,102.13)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.06,0:00:48.11,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(372.32,102.21)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.11,0:00:48.15,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(370.68,102.28)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.15,0:00:48.19,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(369.12,102.31)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.19,0:00:48.23,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(367.48,102.12)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.23,0:00:48.27,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(365.8,102.14)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.27,0:00:48.31,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(363.73,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.31,0:00:48.36,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(362.07,102.07)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.36,0:00:48.40,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(360.26,102.03)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.40,0:00:48.44,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(359.1,102.11)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.44,0:00:48.48,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(357.51,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.48,0:00:48.52,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(356.2,102.11)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.52,0:00:48.56,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(354.38,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.56,0:00:48.61,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(352.97,102.03)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.61,0:00:48.65,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(351.44,101.95)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.65,0:00:48.69,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(349.01,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.69,0:00:48.73,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(347.74,102.06)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.73,0:00:48.77,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(345.83,102.04)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.77,0:00:48.81,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(344.36,102.02)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.81,0:00:48.86,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(342.38,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.86,0:00:48.90,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(341.44,101.95)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.90,0:00:48.94,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(339.68,101.81)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.94,0:00:48.98,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(338.2,101.75)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:48.98,0:00:49.02,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(336.73,101.73)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.02,0:00:49.07,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(334.65,101.94)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.07,0:00:49.11,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(332.52,102.01)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.11,0:00:49.15,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(331,102.02)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.15,0:00:49.19,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(329.65,102.05)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.19,0:00:49.23,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(328.22,102.07)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.23,0:00:49.27,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(326.81,102.08)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.27,0:00:49.32,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(325.05,101.92)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.32,0:00:49.36,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(323.18,102.09)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.36,0:00:49.40,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(321.26,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.40,0:00:49.44,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(320.14,102.17)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.44,0:00:49.48,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(318.29,102.22)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.48,0:00:49.52,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(316.72,102.21)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.52,0:00:49.57,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(315.85,102.06)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.57,0:00:49.61,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(314.27,101.98)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.61,0:00:49.65,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(312.25,102.07)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.65,0:00:49.69,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(310.34,102.19)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.69,0:00:49.73,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(308.2,102.19)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.73,0:00:49.77,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(307.01,102.19)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.77,0:00:49.82,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(305.37,102.2)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.82,0:00:49.86,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(303.34,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.86,0:00:49.90,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(301.91,102.17)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.90,0:00:49.94,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(300.31,102.2)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.94,0:00:49.98,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(298.88,102.14)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:49.98,0:00:50.02,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(297.51,102.2)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.02,0:00:50.07,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(295.47,102.17)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.07,0:00:50.11,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(294.14,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.11,0:00:50.15,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(292.57,102.11)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.15,0:00:50.19,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(290.83,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.19,0:00:50.23,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(288.97,102)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.23,0:00:50.27,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(287.46,102)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.27,0:00:50.32,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(286,102.04)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.32,0:00:50.36,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(284.02,102.12)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.36,0:00:50.40,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(282.63,102.01)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.40,0:00:50.44,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(280.96,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.44,0:00:50.48,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(279.13,102.1)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.48,0:00:50.52,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(277.05,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.52,0:00:50.57,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(275.81,102.15)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.57,0:00:50.61,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(274.11,102.26)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.61,0:00:50.65,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(272.78,102.11)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.65,0:00:50.69,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(271.12,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.69,0:00:50.73,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(269.77,102.16)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.73,0:00:50.78,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(267.41,102.23)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.78,0:00:50.82,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(265.69,102.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.82,0:00:50.86,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(264.15,102.23)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.86,0:00:50.90,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(262.58,102.2)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.90,0:00:50.94,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(261.08,102.22)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.94,0:00:50.98,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(259.24,102.26)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:50.98,0:00:51.03,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(257.6,102.12)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:51.03,0:00:51.07,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(256.32,102.02)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:51.07,0:00:51.11,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(254.63,102.22)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:51.11,0:00:51.15,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(256.3,101.8)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:51.15,0:00:51.19,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(254.35,101.42)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:51.19,0:00:51.23,Sign,,0,0,0,,{=55}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(252.95,101.42)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:00:51.23,0:00:51.28,Sign,,0,0,0,,{=55=57}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(251.01,101.44)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
 Dialogue: 0,0:00:45.31,0:00:45.35,Sign,,0,0,0,,{=6=7}{\fscy100\frz0\fscx100\alpha&H00&\pos(69.65,227.41)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
 Dialogue: 0,0:00:45.35,0:00:45.39,Sign,,0,0,0,,{=6}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(69.64,227.41)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
 Dialogue: 0,0:00:45.39,0:00:45.44,Sign,,0,0,0,,{=6}{\fscy99.91\frz-0.01\fscx99.91\alpha&H00&\pos(69.57,227.85)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
@@ -925,7 +1066,101 @@ Dialogue: 0,0:01:37.78,0:01:37.82,Sign,,0,0,0,,{=9}{\fscy99.95\frz0.02\fscx99.95
 Dialogue: 0,0:01:37.82,0:01:37.86,Sign,,0,0,0,,{=9}{\fscy99.99\frz-0.01\fscx99.99\alpha&H00&\pos(68.08,241.31)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
 Dialogue: 0,0:01:37.86,0:01:37.91,Sign,,0,0,0,,{=9}{\fscy99.94\frz-0.01\fscx99.94\alpha&H00&\pos(68.57,241.43)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
 Dialogue: 0,0:01:37.91,0:01:37.95,Sign,,0,0,0,,{=9=11}{\fscy99.91\frz-0.02\fscx99.91\alpha&H00&\pos(68.41,241.43)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
-Dialogue: 0,0:02:43.77,0:02:47.73,Sign,,0,0,0,,This too
+Dialogue: 0,0:02:43.76,0:02:43.80,Sign,,0,0,0,,{=60=61}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(440.57,111.33)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:43.80,0:02:43.85,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(436.89,111.25)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:43.85,0:02:43.89,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(434.45,111.93)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:43.89,0:02:43.93,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(431.23,112.58)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:43.93,0:02:43.97,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(430.96,112.65)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:43.97,0:02:44.01,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(428.18,112.64)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.01,0:02:44.05,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(426.25,112.58)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.05,0:02:44.10,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(423.23,112.37)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.10,0:02:44.14,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(420.32,111.9)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.14,0:02:44.18,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(418.2,111.84)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.18,0:02:44.22,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(416.49,111.9)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.22,0:02:44.26,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(414.52,111.7)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.26,0:02:44.31,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(412.9,111.52)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.31,0:02:44.35,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(409.93,111.7)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.35,0:02:44.39,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(408.29,111.7)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.39,0:02:44.43,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(406.3,111.65)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.43,0:02:44.47,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(403.99,111.73)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.47,0:02:44.51,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(402.24,111.63)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.51,0:02:44.56,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(400.75,111.57)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.56,0:02:44.60,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(398.18,111.48)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.60,0:02:44.64,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(395.94,111.52)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.64,0:02:44.68,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(394.25,111.65)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.68,0:02:44.72,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(391.82,111.77)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.72,0:02:44.76,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(390.42,111.69)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.76,0:02:44.81,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(388.17,111.69)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.81,0:02:44.85,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(385.7,111.72)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.85,0:02:44.89,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(383.71,111.76)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.89,0:02:44.93,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(382.33,111.75)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.93,0:02:44.97,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(379.95,111.76)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:44.97,0:02:45.01,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(378.02,111.75)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.01,0:02:45.06,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(375.45,111.73)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.06,0:02:45.10,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(373.38,111.75)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.10,0:02:45.14,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(371.82,111.75)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.14,0:02:45.18,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(369.56,111.74)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.18,0:02:45.22,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(368.16,111.5)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.22,0:02:45.26,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(366.26,111.37)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.26,0:02:45.31,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(364.32,111.46)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.31,0:02:45.35,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(361.89,111.56)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.35,0:02:45.39,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(360.22,111.55)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.39,0:02:45.43,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(357.95,111.58)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.43,0:02:45.47,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(355.88,111.63)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.47,0:02:45.51,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(354.11,111.51)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.51,0:02:45.56,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(351.94,111.33)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.56,0:02:45.60,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(349.7,111.35)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.60,0:02:45.64,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(347.43,111.36)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.64,0:02:45.68,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(345.59,111.33)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.68,0:02:45.72,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(343.22,111.39)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.72,0:02:45.76,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(341.17,111.42)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.76,0:02:45.81,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(339.44,111.39)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.81,0:02:45.85,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(337.09,111.43)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.85,0:02:45.89,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(335.2,111.45)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.89,0:02:45.93,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(333.4,111.43)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.93,0:02:45.97,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(331.36,111.45)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:45.97,0:02:46.02,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(329.24,111.39)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.02,0:02:46.06,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(326.92,111.42)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.06,0:02:46.10,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(324.74,111.4)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.10,0:02:46.14,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(323.27,111.73)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.14,0:02:46.18,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(321.12,111.71)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.18,0:02:46.22,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(319.35,111.73)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.22,0:02:46.27,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(317.71,111.65)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.27,0:02:46.31,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(315.77,111.42)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.31,0:02:46.35,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(313.23,111.34)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.35,0:02:46.39,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(311.07,111.5)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.39,0:02:46.43,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(309.13,111.66)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.43,0:02:46.47,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(306.69,111.65)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.47,0:02:46.52,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(305.07,111.58)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.52,0:02:46.56,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(303.05,111.54)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.56,0:02:46.60,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(301.26,111.48)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.60,0:02:46.64,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(299.43,111.51)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.64,0:02:46.68,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(297.33,111.5)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.68,0:02:46.72,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(295.01,111.56)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.72,0:02:46.77,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(292.91,111.55)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.77,0:02:46.81,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(291.1,111.53)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.81,0:02:46.85,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(288.75,111.49)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.85,0:02:46.89,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(286.86,111.52)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.89,0:02:46.93,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(285.46,111.48)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.93,0:02:46.97,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(282.86,111.45)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:46.97,0:02:47.02,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(280.84,111.36)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.02,0:02:47.06,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(279.11,111.39)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.06,0:02:47.10,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(277.04,111.34)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.10,0:02:47.14,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(274.9,111.44)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.14,0:02:47.18,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(273.09,111.35)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.18,0:02:47.22,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(271.06,111.43)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.22,0:02:47.27,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(268.96,111.43)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.27,0:02:47.31,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(266.61,111.45)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.31,0:02:47.35,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(264.44,111.28)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.35,0:02:47.39,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(262.23,111.43)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.39,0:02:47.43,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(260.65,111.42)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.43,0:02:47.47,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(258.47,111.44)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.47,0:02:47.52,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(256.57,111.41)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.52,0:02:47.56,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(254.86,111.39)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.56,0:02:47.60,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(256.57,111.18)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.60,0:02:47.64,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(254.37,110.74)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.64,0:02:47.68,Sign,,0,0,0,,{=60}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(251.8,110.65)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
+Dialogue: 0,0:02:47.68,0:02:47.73,Sign,,0,0,0,,{=60=62}{\fscy100\frz0\fscx100\alpha&H00&\c&HFDFFFF&\q2\3c&HDBC0B6&\bord2\blur4\pos(249.53,110.93)}If I draw a 🀞	or a 🀟 , cutting the 🀊 gives a Tanyao Sanshoku tenpai
 Dialogue: 0,0:02:43.76,0:02:43.80,Sign,,0,0,0,,{=12=13}{\fscy100\frz0\fscx100\alpha&H00&\pos(85.66,227.81)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
 Dialogue: 0,0:02:43.80,0:02:43.85,Sign,,0,0,0,,{=12}{\fscy99.84\frz0\fscx99.84\alpha&H00&\pos(84.82,228.48)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
 Dialogue: 0,0:02:43.85,0:02:43.89,Sign,,0,0,0,,{=12}{\fscy99.9\frz-0.04\fscx99.9\alpha&H00&\pos(84.94,228.46)\bord0\blur1\fs30\shad0\c&H21294A&\fnArnold 2.1}Dora
@@ -1515,125 +1750,125 @@ Dialogue: 0,0:10:56.39,0:10:56.43,Sign,,0,0,0,,{=28}{\bord1.8\alpha&H00&\org(460
 Dialogue: 0,0:10:56.43,0:10:56.47,Sign,,0,0,0,,{=28}{\bord1.8\alpha&H00&\org(460.78,557.76)\pos(-29.11,75.83)\blur1\fs30\c&H273451&\fnChelsea Market\fax-0.000001\frz11.88\frx5.8927\fry-7.6190\xbord0\ybord0\fscx164.96\fscy206.95}First \NBuilding
 Dialogue: 0,0:10:56.47,0:10:56.51,Sign,,0,0,0,,{=28}{\bord1.8\alpha&H00&\org(460.59,557.83)\pos(-29.27,75.77)\blur1\fs30\c&H273451&\fnChelsea Market\fax-0.000001\frz11.88\frx5.8927\fry-7.6190\xbord0\ybord0\fscx164.98\fscy206.97}First \NBuilding
 Dialogue: 0,0:10:56.51,0:10:56.59,Sign,,0,0,0,,{=28=30}{\bord1.8\alpha&H00&\org(460.5,558.01)\pos(-29.31,75.77)\blur1\fs30\c&H273451&\fnChelsea Market\fax-0.000001\frz11.86\frx5.8927\fry-7.6190\xbord0\ybord0\fscx165\fscy207}First \NBuilding
-Dialogue: 0,0:11:27.66,0:11:27.70,Sign,,0,0,0,,{=25=26}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.48,68.16)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.70,0:11:27.74,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.48,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.74,0:11:27.79,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.32,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.79,0:11:27.83,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.27,68.17)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.83,0:11:27.87,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.25,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.87,0:11:27.91,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.17,68.2)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.91,0:11:27.95,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.03,68.25)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.95,0:11:27.99,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.17,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:27.99,0:11:28.04,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.26,68.14)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.04,0:11:28.08,Sign,,0,0,0,,{=25}{\fscy100.02\frz0\fscx100.02\alpha&H00&\pos(311.26,68.13)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.08,0:11:28.12,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.26,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.12,0:11:28.16,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.26,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.16,0:11:28.20,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.27,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.20,0:11:28.25,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.26,68.22)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.25,0:11:28.29,Sign,,0,0,0,,{=25}{\fscy100.03\frz0\fscx100.03\alpha&H00&\pos(311.35,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.29,0:11:28.33,Sign,,0,0,0,,{=25}{\fscy100.04\frz0\fscx100.04\alpha&H00&\pos(311.17,68.12)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.33,0:11:28.37,Sign,,0,0,0,,{=25}{\fscy100.03\frz0\fscx100.03\alpha&H00&\pos(311.17,68.17)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.37,0:11:28.41,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.16,68.23)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.41,0:11:28.45,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.35,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.45,0:11:28.50,Sign,,0,0,0,,{=25}{\fscy100.02\frz0\fscx100.02\alpha&H00&\pos(311.35,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.50,0:11:28.54,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.12,68.21)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.54,0:11:28.58,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.18,68.2)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.58,0:11:28.62,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.09,68.26)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.62,0:11:28.66,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.06,68.26)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.66,0:11:28.70,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311,68.28)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.70,0:11:28.75,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.1,68.3)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.75,0:11:28.79,Sign,,0,0,0,,{=25}{\fscy100.02\frz0.01\fscx100.02\alpha&H00&\pos(311.32,68.25)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.79,0:11:28.83,Sign,,0,0,0,,{=25}{\fscy100.01\frz0.01\fscx100.01\alpha&H00&\pos(311.51,68.24)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.83,0:11:28.87,Sign,,0,0,0,,{=25}{\fscy100.02\frz0.01\fscx100.02\alpha&H00&\pos(311.56,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.87,0:11:28.91,Sign,,0,0,0,,{=25}{\fscy100.05\frz0\fscx100.05\alpha&H00&\pos(311.34,67.99)\bord5\blur10.01\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.91,0:11:28.95,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(310.89,68.14)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:28.95,0:11:29.00,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.1,68.11)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.00,0:11:29.04,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.16,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.04,0:11:29.08,Sign,,0,0,0,,{=25}{\fscy100\frz0.01\fscx100\alpha&H00&\pos(311.21,68.07)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.08,0:11:29.12,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.17,68.08)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.12,0:11:29.16,Sign,,0,0,0,,{=25}{\fscy99.92\frz0\fscx99.92\alpha&H00&\pos(310.99,68.17)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.16,0:11:29.20,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.14,68.07)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.20,0:11:29.25,Sign,,0,0,0,,{=25}{\fscy100.02\frz0\fscx100.02\alpha&H00&\pos(311.2,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.25,0:11:29.29,Sign,,0,0,0,,{=25}{\fscy100.05\frz0\fscx100.05\alpha&H00&\pos(311.23,67.94)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.29,0:11:29.33,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.22,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.33,0:11:29.37,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(311.04,68.14)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.37,0:11:29.41,Sign,,0,0,0,,{=25}{\fscy100.04\frz0\fscx100.04\alpha&H00&\pos(311.21,67.95)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.41,0:11:29.45,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.01,68.13)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.45,0:11:29.50,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.15,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.50,0:11:29.54,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.11,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.54,0:11:29.58,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.1,67.99)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.58,0:11:29.62,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.62,0:11:29.66,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(310.96,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.66,0:11:29.71,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(310.98,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.71,0:11:29.75,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(310.99,68.07)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.75,0:11:29.79,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.11,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.79,0:11:29.83,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.21,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.83,0:11:29.87,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.14,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.87,0:11:29.91,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.02,68.11)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.91,0:11:29.96,Sign,,0,0,0,,{=25}{\fscy100\frz0.01\fscx100\alpha&H00&\pos(311.05,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:29.96,0:11:30.00,Sign,,0,0,0,,{=25}{\fscy99.93\frz0\fscx99.93\alpha&H00&\pos(310.97,68.13)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.00,0:11:30.04,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.15,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.04,0:11:30.08,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.18,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.08,0:11:30.12,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(311.12,68.02)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.12,0:11:30.16,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.23,67.92)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.16,0:11:30.21,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(310.99,68.03)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.21,0:11:30.25,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(310.96,68.04)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.25,0:11:30.29,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(310.97,68.04)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.29,0:11:30.33,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.02,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.33,0:11:30.37,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(310.97,68.07)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.37,0:11:30.41,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(310.94,68.07)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.41,0:11:30.46,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.04,68.02)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.46,0:11:30.50,Sign,,0,0,0,,{=25}{\fscy100\frz0.01\fscx100\alpha&H00&\pos(311.14,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.50,0:11:30.54,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.15,68.02)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.54,0:11:30.58,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.11,68.05)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.58,0:11:30.62,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.07,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.62,0:11:30.66,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.05,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.66,0:11:30.71,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(310.95,68.05)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.71,0:11:30.75,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.75,0:11:30.79,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.04,68.02)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.79,0:11:30.83,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.06,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.83,0:11:30.87,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.08,67.99)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.87,0:11:30.91,Sign,,0,0,0,,{=25}{\fscy99.99\frz0.01\fscx99.99\alpha&H00&\pos(311.1,67.97)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.91,0:11:30.96,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.09,67.97)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:30.96,0:11:31.00,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.11,67.98)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.00,0:11:31.04,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.09,67.99)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.04,0:11:31.08,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.1,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.08,0:11:31.12,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(311.1,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.12,0:11:31.16,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(311.09,68.02)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.16,0:11:31.21,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(311.08,68.03)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.21,0:11:31.25,Sign,,0,0,0,,{=25}{\fscy99.93\frz0\fscx99.93\alpha&H00&\pos(311.09,68.04)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.25,0:11:31.29,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.25,67.95)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.29,0:11:31.33,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.43,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.33,0:11:31.37,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.47,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.37,0:11:31.42,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.46,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.42,0:11:31.46,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.45,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.46,0:11:31.50,Sign,,0,0,0,,{=25}{\fscy100.02\frz0.01\fscx100.02\alpha&H00&\pos(311.29,67.93)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.50,0:11:31.54,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.14,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.54,0:11:31.58,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.14,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.58,0:11:31.62,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.14,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.62,0:11:31.67,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.09,68.08)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.67,0:11:31.71,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.08,68.09)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.71,0:11:31.75,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.05,68.11)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.75,0:11:31.79,Sign,,0,0,0,,{=25}{\fscy99.92\frz0.01\fscx99.92\alpha&H00&\pos(310.84,68.17)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.79,0:11:31.83,Sign,,0,0,0,,{=25}{\fscy99.94\frz0.01\fscx99.94\alpha&H00&\pos(311.01,68.12)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.83,0:11:31.87,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.11,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.87,0:11:31.92,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.1,68.09)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.92,0:11:31.96,Sign,,0,0,0,,{=25}{\fscy99.94\frz0.01\fscx99.94\alpha&H00&\pos(311.15,68.09)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:31.96,0:11:32.00,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.27,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.00,0:11:32.04,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.08,68.05)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.04,0:11:32.08,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.13,68.05)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.08,0:11:32.12,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(311.14,68.14)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.12,0:11:32.17,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.31,68.2)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.17,0:11:32.21,Sign,,0,0,0,,{=25}{\fscy99.99\frz0.01\fscx99.99\alpha&H00&\pos(311.33,68.12)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.21,0:11:32.25,Sign,,0,0,0,,{=25}{\fscy100.06\frz0.01\fscx100.06\alpha&H00&\pos(311.43,67.8)\bord5\blur10.01\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.25,0:11:32.29,Sign,,0,0,0,,{=25}{\fscy99.89\frz0\fscx99.89\alpha&H00&\pos(310.88,68.28)\bord4.99\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.29,0:11:32.33,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.08,68.17)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.33,0:11:32.37,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.1,68.14)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.37,0:11:32.42,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.08,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.42,0:11:32.46,Sign,,0,0,0,,{=25}{\fscy99.93\frz0.05\fscx99.93\alpha&H00&\pos(314.1,67.76)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.46,0:11:32.50,Sign,,0,0,0,,{=25}{\fscy99.93\frz0.06\fscx99.93\alpha&H00&\pos(314.37,67.52)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.50,0:11:32.54,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.05\fscx100.03\alpha&H00&\pos(314.76,67.52)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.54,0:11:32.58,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.04\fscx99.98\alpha&H00&\pos(314.98,67.71)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
-Dialogue: 0,0:11:32.58,0:11:32.62,Sign,,0,0,0,,{=25=27}{\fscy99.97\frz0.02\fscx99.97\alpha&H00&\pos(314.84,67.88)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ} 
+Dialogue: 0,0:11:27.66,0:11:27.70,Sign,,0,0,0,,{=25=26}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.48,68.16)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.70,0:11:27.74,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.48,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.74,0:11:27.79,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.32,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.79,0:11:27.83,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.27,68.17)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.83,0:11:27.87,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.25,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.87,0:11:27.91,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.17,68.2)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.91,0:11:27.95,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.03,68.25)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.95,0:11:27.99,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.17,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:27.99,0:11:28.04,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.26,68.14)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.04,0:11:28.08,Sign,,0,0,0,,{=25}{\fscy100.02\frz0\fscx100.02\alpha&H00&\pos(311.26,68.13)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.08,0:11:28.12,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.26,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.12,0:11:28.16,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.26,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.16,0:11:28.20,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.27,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.20,0:11:28.25,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.26,68.22)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.25,0:11:28.29,Sign,,0,0,0,,{=25}{\fscy100.03\frz0\fscx100.03\alpha&H00&\pos(311.35,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.29,0:11:28.33,Sign,,0,0,0,,{=25}{\fscy100.04\frz0\fscx100.04\alpha&H00&\pos(311.17,68.12)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.33,0:11:28.37,Sign,,0,0,0,,{=25}{\fscy100.03\frz0\fscx100.03\alpha&H00&\pos(311.17,68.17)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.37,0:11:28.41,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.16,68.23)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.41,0:11:28.45,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.35,68.19)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.45,0:11:28.50,Sign,,0,0,0,,{=25}{\fscy100.02\frz0\fscx100.02\alpha&H00&\pos(311.35,68.15)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.50,0:11:28.54,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.12,68.21)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.54,0:11:28.58,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.18,68.2)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.58,0:11:28.62,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.09,68.26)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.62,0:11:28.66,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.06,68.26)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.66,0:11:28.70,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311,68.28)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.70,0:11:28.75,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.1,68.3)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.75,0:11:28.79,Sign,,0,0,0,,{=25}{\fscy100.02\frz0.01\fscx100.02\alpha&H00&\pos(311.32,68.25)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.79,0:11:28.83,Sign,,0,0,0,,{=25}{\fscy100.01\frz0.01\fscx100.01\alpha&H00&\pos(311.51,68.24)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.83,0:11:28.87,Sign,,0,0,0,,{=25}{\fscy100.02\frz0.01\fscx100.02\alpha&H00&\pos(311.56,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.87,0:11:28.91,Sign,,0,0,0,,{=25}{\fscy100.05\frz0\fscx100.05\alpha&H00&\pos(311.34,67.99)\bord5\blur10.01\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.91,0:11:28.95,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(310.89,68.14)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:28.95,0:11:29.00,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.1,68.11)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.00,0:11:29.04,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.16,68.18)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.04,0:11:29.08,Sign,,0,0,0,,{=25}{\fscy100\frz0.01\fscx100\alpha&H00&\pos(311.21,68.07)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.08,0:11:29.12,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.17,68.08)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.12,0:11:29.16,Sign,,0,0,0,,{=25}{\fscy99.92\frz0\fscx99.92\alpha&H00&\pos(310.99,68.17)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.16,0:11:29.20,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.14,68.07)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.20,0:11:29.25,Sign,,0,0,0,,{=25}{\fscy100.02\frz0\fscx100.02\alpha&H00&\pos(311.2,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.25,0:11:29.29,Sign,,0,0,0,,{=25}{\fscy100.05\frz0\fscx100.05\alpha&H00&\pos(311.23,67.94)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.29,0:11:29.33,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.22,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.33,0:11:29.37,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(311.04,68.14)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.37,0:11:29.41,Sign,,0,0,0,,{=25}{\fscy100.04\frz0\fscx100.04\alpha&H00&\pos(311.21,67.95)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.41,0:11:29.45,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.01,68.13)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.45,0:11:29.50,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.15,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.50,0:11:29.54,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.11,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.54,0:11:29.58,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.1,67.99)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.58,0:11:29.62,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.62,0:11:29.66,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(310.96,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.66,0:11:29.71,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(310.98,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.71,0:11:29.75,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(310.99,68.07)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.75,0:11:29.79,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.11,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.79,0:11:29.83,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.21,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.83,0:11:29.87,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.14,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.87,0:11:29.91,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.02,68.11)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.91,0:11:29.96,Sign,,0,0,0,,{=25}{\fscy100\frz0.01\fscx100\alpha&H00&\pos(311.05,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:29.96,0:11:30.00,Sign,,0,0,0,,{=25}{\fscy99.93\frz0\fscx99.93\alpha&H00&\pos(310.97,68.13)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.00,0:11:30.04,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.15,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.04,0:11:30.08,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.18,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.08,0:11:30.12,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(311.12,68.02)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.12,0:11:30.16,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.23,67.92)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.16,0:11:30.21,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(310.99,68.03)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.21,0:11:30.25,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(310.96,68.04)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.25,0:11:30.29,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(310.97,68.04)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.29,0:11:30.33,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.02,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.33,0:11:30.37,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(310.97,68.07)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.37,0:11:30.41,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(310.94,68.07)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.41,0:11:30.46,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.04,68.02)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.46,0:11:30.50,Sign,,0,0,0,,{=25}{\fscy100\frz0.01\fscx100\alpha&H00&\pos(311.14,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.50,0:11:30.54,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.15,68.02)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.54,0:11:30.58,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.11,68.05)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.58,0:11:30.62,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.07,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.62,0:11:30.66,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.05,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.66,0:11:30.71,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(310.95,68.05)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.71,0:11:30.75,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311,68.03)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.75,0:11:30.79,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.04,68.02)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.79,0:11:30.83,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.06,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.83,0:11:30.87,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.08,67.99)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.87,0:11:30.91,Sign,,0,0,0,,{=25}{\fscy99.99\frz0.01\fscx99.99\alpha&H00&\pos(311.1,67.97)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.91,0:11:30.96,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.09,67.97)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:30.96,0:11:31.00,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.11,67.98)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.00,0:11:31.04,Sign,,0,0,0,,{=25}{\fscy99.97\frz0\fscx99.97\alpha&H00&\pos(311.09,67.99)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.04,0:11:31.08,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.1,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.08,0:11:31.12,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(311.1,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.12,0:11:31.16,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(311.09,68.02)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.16,0:11:31.21,Sign,,0,0,0,,{=25}{\fscy99.94\frz0\fscx99.94\alpha&H00&\pos(311.08,68.03)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.21,0:11:31.25,Sign,,0,0,0,,{=25}{\fscy99.93\frz0\fscx99.93\alpha&H00&\pos(311.09,68.04)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.25,0:11:31.29,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.25,67.95)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.29,0:11:31.33,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.43,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.33,0:11:31.37,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.47,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.37,0:11:31.42,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.46,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.42,0:11:31.46,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.01\fscx100.03\alpha&H00&\pos(311.45,67.87)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.46,0:11:31.50,Sign,,0,0,0,,{=25}{\fscy100.02\frz0.01\fscx100.02\alpha&H00&\pos(311.29,67.93)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.50,0:11:31.54,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.14,68)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.54,0:11:31.58,Sign,,0,0,0,,{=25}{\fscy99.96\frz0.01\fscx99.96\alpha&H00&\pos(311.14,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.58,0:11:31.62,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.14,68.04)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.62,0:11:31.67,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.09,68.08)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.67,0:11:31.71,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.08,68.09)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.71,0:11:31.75,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.05,68.11)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.75,0:11:31.79,Sign,,0,0,0,,{=25}{\fscy99.92\frz0.01\fscx99.92\alpha&H00&\pos(310.84,68.17)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.79,0:11:31.83,Sign,,0,0,0,,{=25}{\fscy99.94\frz0.01\fscx99.94\alpha&H00&\pos(311.01,68.12)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.83,0:11:31.87,Sign,,0,0,0,,{=25}{\fscy99.97\frz0.01\fscx99.97\alpha&H00&\pos(311.11,68.06)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.87,0:11:31.92,Sign,,0,0,0,,{=25}{\fscy99.95\frz0.01\fscx99.95\alpha&H00&\pos(311.1,68.09)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.92,0:11:31.96,Sign,,0,0,0,,{=25}{\fscy99.94\frz0.01\fscx99.94\alpha&H00&\pos(311.15,68.09)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:31.96,0:11:32.00,Sign,,0,0,0,,{=25}{\fscy99.98\frz0\fscx99.98\alpha&H00&\pos(311.27,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.00,0:11:32.04,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.08,68.05)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.04,0:11:32.08,Sign,,0,0,0,,{=25}{\fscy99.96\frz0\fscx99.96\alpha&H00&\pos(311.13,68.05)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.08,0:11:32.12,Sign,,0,0,0,,{=25}{\fscy99.95\frz0\fscx99.95\alpha&H00&\pos(311.14,68.14)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.12,0:11:32.17,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.01\fscx99.98\alpha&H00&\pos(311.31,68.2)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.17,0:11:32.21,Sign,,0,0,0,,{=25}{\fscy99.99\frz0.01\fscx99.99\alpha&H00&\pos(311.33,68.12)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.21,0:11:32.25,Sign,,0,0,0,,{=25}{\fscy100.06\frz0.01\fscx100.06\alpha&H00&\pos(311.43,67.8)\bord5\blur10.01\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.25,0:11:32.29,Sign,,0,0,0,,{=25}{\fscy99.89\frz0\fscx99.89\alpha&H00&\pos(310.88,68.28)\bord4.99\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.29,0:11:32.33,Sign,,0,0,0,,{=25}{\fscy99.99\frz0\fscx99.99\alpha&H00&\pos(311.08,68.17)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.33,0:11:32.37,Sign,,0,0,0,,{=25}{\fscy100\frz0\fscx100\alpha&H00&\pos(311.1,68.14)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.37,0:11:32.42,Sign,,0,0,0,,{=25}{\fscy100.01\frz0\fscx100.01\alpha&H00&\pos(311.08,68.01)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.42,0:11:32.46,Sign,,0,0,0,,{=25}{\fscy99.93\frz0.05\fscx99.93\alpha&H00&\pos(314.1,67.76)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.46,0:11:32.50,Sign,,0,0,0,,{=25}{\fscy99.93\frz0.06\fscx99.93\alpha&H00&\pos(314.37,67.52)\bord5\blur9.99\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.50,0:11:32.54,Sign,,0,0,0,,{=25}{\fscy100.03\frz0.05\fscx100.03\alpha&H00&\pos(314.76,67.52)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.54,0:11:32.58,Sign,,0,0,0,,{=25}{\fscy99.98\frz0.04\fscx99.98\alpha&H00&\pos(314.98,67.71)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
+Dialogue: 0,0:11:32.58,0:11:32.62,Sign,,0,0,0,,{=25=27}{\fscy99.97\frz0.02\fscx99.97\alpha&H00&\pos(314.84,67.88)\bord5\blur10\q2\c&HFFFFFF&\3c&HA15BAF&\fn@A-OTF BokutohN Std B}Episode 16 Part 2\N{\fs40}Zugan Riichi Gets Point Read {ツカンポリーチは一点読まれ}
 Dialogue: 0,0:12:28.05,0:12:28.10,Sign,,0,0,0,,{=31=32}{\fscy100\frz0\fscx100\alpha&H00&\pos(86.05,-0.8)\bord0\blur1\fs30\shad0\c&H1D1D42&\fnArnold 2.1}Dora
 Dialogue: 0,0:12:28.10,0:12:28.14,Sign,,0,0,0,,{=31}{\fscy100.64\frz-0.05\fscx100.64\alpha&H00&\pos(85.05,-0.76)\bord0\blur1.01\fs30\shad0\c&H1D1D42&\fnArnold 2.1}Dora
 Dialogue: 0,0:12:28.14,0:12:28.18,Sign,,0,0,0,,{=31}{\fscy100.67\frz-0.03\fscx100.67\alpha&H00&\pos(86.02,-0.12)\bord0\blur1.01\fs30\shad0\c&H1D1D42&\fnArnold 2.1}Dora
@@ -2348,3 +2583,9 @@ Data: 49,_aegi_folddata,e1;1;15
 Data: 51,a-mo,e{"uuid"#3A"685760f8-5fad-4fa7-a9da-31752c8bee0e"#2C"originalText"#3A"{\\pos(65.26#2C205.54)\\bord0\\blur1\\fs30\\shad0\\fade(0#2C0)\\c&H170F19&\\fnArnold 2.1}Dora"}
 Data: 52,_aegi_folddata,e0;1;16
 Data: 53,_aegi_folddata,e1;1;16
+Data: 55,a-mo,e{"uuid"#3A"b84406aa-06f6-4aa6-b22b-8026e562bbe5"#2C"originalText"#3A"{\\c&HFDFFFF&\\q2\\3c&HDBC0B6&\\bord2\\blur4\\pos(251.01#2C101.44)}If I draw a #F0#9F#80#9E\tor a #F0#9F#80#9F #2C cutting the #F0#9F#80#8A gives a Tanyao Sanshoku tenpai"}
+Data: 56,_aegi_folddata,e0;1;17
+Data: 57,_aegi_folddata,e1;1;17
+Data: 60,a-mo,e{"uuid"#3A"78e930f5-9d1f-40cf-930b-50689891d59f"#2C"originalText"#3A"{\\c&HFDFFFF&\\q2\\3c&HDBC0B6&\\bord2\\blur4\\pos(440.57#2C111.33)}If I draw a #F0#9F#80#9E\tor a #F0#9F#80#9F #2C cutting the #F0#9F#80#8A gives a Tanyao Sanshoku tenpai"}
+Data: 61,_aegi_folddata,e0;1;18
+Data: 62,_aegi_folddata,e1;1;18
